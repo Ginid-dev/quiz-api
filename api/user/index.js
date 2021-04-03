@@ -3,6 +3,7 @@ const models = require("../../models");
 const bcrypt = require("bcrypt");
 const saltRounds = 10;
 const jwt = require("jsonwebtoken");
+const { accountVerificationEmail } = require("../../component/email");
 
 router.post("/login", (req, res, next) => {
   const { email, password } = req.body;
@@ -36,7 +37,7 @@ router.post("/login", (req, res, next) => {
 
 router.post("/register", (req, res, next) => {
   const { email, password } = req.body;
-
+  let userData = null;
   if (!email) return next(new Error("Email is required"));
 
   if (!password) return next(new Error("Password is required"));
@@ -60,10 +61,14 @@ router.post("/register", (req, res, next) => {
         .then((user) => {
           return models.User.authData(user);
         })
-        .then((data) => {
+        .then((result) => {
+          userData = result;
+          return accountVerificationEmail(email, result.authToken);
+        })
+        .then(() => {
           res.status(200).json({
             success: true,
-            data: data,
+            data: userData,
           });
         });
     })
