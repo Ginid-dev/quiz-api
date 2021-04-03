@@ -1,0 +1,607 @@
+{
+    "questions": [
+        {
+            "question": "Chi è il mediatore",
+            "answers": [
+                "Colui che interviene dopo che l’affare è stato concluso per precisare le modalità di esecuzione",
+                "Colui che interviene dopo che l’affare è stato concluso per risolvere una eventuale controversia",
+                "Colui che mette in relazione due o più parti per la conclusione di un affare, senza essere legato ad alcuna di esse da rapporti di collaborazione, dipendenza o rappresentanza"
+            ],
+            "correct_answer": "Colui che mette in relazione due o più parti per la conclusione di un affare, senza essere legato ad alcuna di esse da rapporti di collaborazione, dipendenza o rappresentanza"
+        },
+        {
+            "question": "Quale normativa ha regolato in passato l’esercizio dell’attività di mediazione",
+            "answers": [
+                "La L. 3 febbraio 1989, n. 39, il regolamento di attuazione (D.M.213 dicembre 1990, n. 452) e gli artt. 1754-1765 c.c.",
+                "La L. 4 dicembre 1988, n. 25, ed il successivo regolamento di attuazione",
+                "Nessuna, in quanto l’attività non era soggetta a specifica normativa di legge o di regolamento"
+            ],
+            "correct_answer": "La L. 3 febbraio 1989, n. 39, il regolamento di attuazione (D.M.213 dicembre 1990, n. 452) e gli artt. 1754-1765 c.c."
+        },
+        {
+            "question": "Quali regole prevedeva la vecchia normativa in materia di mediazione",
+            "answers": [
+                "L’istituzione di un Ruolo presso ciascuna Camera di Commercio el’obbligo di iscrizione per gli aspiranti all’esercizio dell’attività in possesso dei requisiti",
+                "L’istituzione di un apposito Registro presso ciascun Comune per l’iscrizione degli esercenti l’attività di mediazione",
+                "Il libero svolgimento dell’attività regolato soltanto da disposizioni di carattere generale"
+            ],
+            "correct_answer": "L’istituzione di un Ruolo presso ciascuna Camera di Commercio el’obbligo di iscrizione per gli aspiranti all’esercizio dell’attività in possesso dei requisiti"
+        },
+        {
+            "question": "Quali disposizioni hanno riformato di recente la normativa riguardante l’esercizio dell’attività di mediazione",
+            "answers": [
+                "Gli accordi economici Italia-Russia intervenuti nel 2010",
+                "La Direttiva CE 2006/123/2010 ed il D.Lgs. 26 marzo 2010, n. 59, aventi lo scopo di rendere più agevole l’accesso alla mediazione di cui alla legge n. 39/1989",
+                "Il decreto presidenziale 3 febbraio 2010, n. 58, che subordina lo svolgimento dell’attività ad autorizzazione prefettizia"
+            ],
+            "correct_answer": "La Direttiva CE 2006/123/2010 ed il D.Lgs. 26 marzo 2010, n. 59, aventi lo scopo di rendere più agevole l’accesso alla mediazione di cui alla legge n. 39/1989"
+        },
+        {
+            "question": "La L. 3 febbraio 1989, n. 39, ha subito modifiche dopo l’emanazione della nuova normativa",
+            "answers": [
+                "No",
+                "Si, è stata completamente abrogata",
+                "E’ stata modificata con l’abrogazione di alcune disposizioni"
+            ],
+            "correct_answer": "E’ stata modificata con l’abrogazione di alcune disposizioni"
+        },
+        {
+            "question": "Gli articoli del codice civile sulla mediazione (1754-1765) hanno subito modificazioni con l’emanazione delle nuove regole",
+            "answers": [
+                "Si",
+                "No",
+                "Solo in parte"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "La disciplina riformata che regola attualmente la mediazione immobiliare ha carattere transitorio o definitivo",
+            "answers": [
+                "Ha carattere definitivo",
+                "Ha carattere transitorio, in quanto si attende una nuova direttiva europea",
+                "Ha carattere parzialmente transitorio, in quanto manca il decreto di attuazione che consente l’integrale applicazione delle nuove regole"
+            ],
+            "correct_answer": "Ha carattere definitivo"
+        },
+        {
+            "question": "Attualmente le nuove disposizioni prevedono",
+            "answers": [
+                "Soppressione del Ruolo tenuto dalla Camera di Commercio senza istituzione di altri ruoli presso enti diversi e introduzione di nuove modalità di iscrizione",
+                "Istituzione di un nuovo Ruolo presso la Regione in sostituzione di quello soppresso",
+                "Introduzione di una autorizzazione prefettizia in luogo del soppresso Ruolo"
+            ],
+            "correct_answer": "Soppressione del Ruolo tenuto dalla Camera di Commercio senza istituzione di altri ruoli presso enti diversi e introduzione di nuove modalità di iscrizione"
+        },
+        {
+            "question": "A quale ente deve rivolgersi attualmente l’aspirante mediatore per iniziare l’attività",
+            "answers": [
+                "Alla Camera di Commercio sita nella provincia ove intende esercitare l’attività",
+                "Alla Prefettura sita nella provincia di residenza",
+                "Alla Regione ove intende svolgere l’attività"
+            ],
+            "correct_answer": "Alla Camera di Commercio sita nella provincia ove intende esercitare l’attività"
+        },
+        {
+            "question": "Quali modalità deve seguire l’aspirante mediatore per iniziare l’attività",
+            "answers": [
+                "Deve produrre, per mezzo di raccomandata a.r., una richiesta di autorizzazione alla Prefettura corredata delle prescritte certificazioni",
+                "Deve produrre, per mezzo di raccomandata a.r., alla Regione una Dichiarazione di Inizio Attività (D.I.A.)",
+                "Deve produrre, per via telematica, al Registro delle Imprese presso la Camera di Commercio una Segnalazione Certificata di Inizio Attività (S.C.I.A.), corredata delle dichiarazioni sostitutive di certificazioni relative ai requisiti posseduti"
+            ],
+            "correct_answer": "Deve produrre, per via telematica, al Registro delle Imprese presso la Camera di Commercio una Segnalazione Certificata di Inizio Attività (S.C.I.A.), corredata delle dichiarazioni sostitutive di certificazioni relative ai requisiti posseduti"
+        },
+        {
+            "question": "Entro quanto tempo il mediatore potrà iniziare l’attività dopo aver presentato l’istanza",
+            "answers": [
+                "Dopo 30 giorni",
+                "Dopo 60 giorni",
+                "Il giorno stesso della presentazione"
+            ],
+            "correct_answer": "Il giorno stesso della presentazione"
+        },
+        {
+            "question": "Quale autorità è competente ad effettuare i controlli sulla regolarità delle istanze",
+            "answers": [
+                "La Camera di Commercio che dovrà procedere entro 60 giorni alla verifica degli atti e delle dichiarazioni, e provvedere, in mancanza dei requisiti, alla cancellazione dal registro delle Imprese",
+                "La Regione che dovrà procedere entro 30 giorni ai dovuti controlli e, in mancanza dei requisiti, alla cancellazione dai propri registri",
+                "La Prefettura che dovrà procedere entro 120 giorni a verificare la regolarità dei documenti e, in mancanza dei requisiti, a respingere l’istanza"
+            ],
+            "correct_answer": "La Camera di Commercio che dovrà procedere entro 60 giorni alla verifica degli atti e delle dichiarazioni, e provvedere, in mancanza dei requisiti, alla cancellazione dal registro delle Imprese"
+        },
+        {
+            "question": "Quali requisiti morali deve possedere il mediatore per poter esercitare l’attività",
+            "answers": [
+                "Non aver commesso alcun reato e non essere in corso in alcuna contravvenzione",
+                "Non aver commesso i reati previsti dalla riformata legge n. 39/1989 ed essere in regola con la normativa antimafia",
+                "Non aver commesso reati di particolare gravità secondo la valutazione di una apposita commissione"
+            ],
+            "correct_answer": "Non aver commesso i reati previsti dalla riformata legge n. 39/1989 ed essere in regola con la normativa antimafia"
+        },
+        {
+            "question": "L’emissione di un assegno a vuoto è ostativo all’esercizio dell’attività di mediazione",
+            "answers": [
+                "No, in nessun caso in quanto è stato depenalizzato",
+                "Si",
+                "Si, qualora l’assegno a vuoto abbia un importo superiore ad euro 15.000"
+            ],
+            "correct_answer": "No, in nessun caso in quanto è stato depenalizzato"
+        },
+        {
+            "question": "L’aspirante mediatore, condannato con sentenza definitiva per uno dei reati che non consentono l’esercizio dell’attività, può iniziare lo svolgimento della stessa",
+            "answers": [
+                "No, in nessun caso",
+                "Si, a condizione che abbia ottenuto la riabilitazione",
+                "Si, a condizione che abbia risarcito i danni alle parti lese"
+            ],
+            "correct_answer": "Si, a condizione che abbia ottenuto la riabilitazione"
+        },
+        {
+            "question": "Quali requisiti culturali e professionali deve possedere l’aspirante mediatore per esercitare l’attività",
+            "answers": [
+                "Licenza di terza media, frequenza di un apposito corso e superamento di un esame",
+                "Laurea in materie scientifiche o giuridiche",
+                "Diploma di scuola secondaria di secondo grado, frequenza di un apposito corso e superamento di un esame"
+            ],
+            "correct_answer": "Diploma di scuola secondaria di secondo grado, frequenza di un apposito corso e superamento di un esame"
+        },
+        {
+            "question": "Chi nomina la Commissione esaminatrice per l’iscrizione dell’aspirante mediatore nell’apposito registro",
+            "answers": [
+                "La Giunta regionale",
+                "Il Presidente della Camera di Commercio",
+                "La Giunta della Camera di Commercio"
+            ],
+            "correct_answer": "Il Presidente della Camera di Commercio"
+        },
+        {
+            "question": "Dove può esercitare il mediatore la sua attività",
+            "answers": [
+                "Soltanto nella provincia in cui risiede",
+                "Soltanto nella regione in cui risiede",
+                "Su tutto il territorio nazionale"
+            ],
+            "correct_answer": "Su tutto il territorio nazionale"
+        },
+        {
+            "question": "Il mediatore può delegare ad altri le funzioni relative all’esercizio della mediazione",
+            "answers": [
+                "Si, a qualsiasi persona",
+                "No",
+                "Si, ma soltanto ad un altro mediatore abilitato all’esercizio della mediazione"
+            ],
+            "correct_answer": "Si, ma soltanto ad un altro mediatore abilitato all’esercizio della mediazione"
+        },
+        {
+            "question": "In che modo il mediatore può esercitare l’attività",
+            "answers": [
+                "In forma di impresa individuale, come dipendente di impresa di mediazione e in forma di società",
+                "Solo in forma societaria",
+                "Come impresa individuale o in forma societaria, ma non come dipendente"
+            ],
+            "correct_answer": "In forma di impresa individuale, come dipendente di impresa di mediazione e in forma di società"
+        },
+        {
+            "question": "Nella società di persone chi deve possedere i requisiti per poter esercitare l’attività di mediazione",
+            "answers": [
+                "Solo i soci amministratori",
+                "Tutti i soci indistintamente",
+                "Solo i soci amministratori ed i dipendenti che esercitano l’attività di mediazione"
+            ],
+            "correct_answer": "Solo i soci amministratori ed i dipendenti che esercitano l’attività di mediazione"
+        },
+        {
+            "question": "Nella società di capitali chi deve possedere i requisiti per poter esercitare l’attività di mediazione",
+            "answers": [
+                "I legali rappresentanti, i dipendenti che esercitano l’attività di mediazione e gli eventuali preposti",
+                "Tutti i soci indistintamente",
+                "Soltanto i preposti"
+            ],
+            "correct_answer": "I legali rappresentanti, i dipendenti che esercitano l’attività di mediazione e gli eventuali preposti"
+        },
+        {
+            "question": "Qualora il mediatore svolga l’attività in forma societaria, deve nominare obbligatoriamente un preposto",
+            "answers": [
+                "Si, in ogni caso",
+                "No, mai",
+                "Soltanto nel caso in cui sia legale rappresentante di più società"
+            ],
+            "correct_answer": "Soltanto nel caso in cui sia legale rappresentante di più società"
+        },
+        {
+            "question": "L’esercizio dell’attività di mediazione è compatibile con un impiego",
+            "answers": [
+                "Soltanto con un impiego pubblico a tempo pieno",
+                "Soltanto con un impiego privato",
+                "Soltanto con un impiego presso imprese esercenti la mediazione"
+            ],
+            "correct_answer": "Soltanto con un impiego presso imprese esercenti la mediazione"
+        },
+        {
+            "question": "Per esercitare la mediazione occorre prestare garanzia assicurativa a copertura dei rischi professionali",
+            "answers": [
+                "No",
+                "Si",
+                "Si, a condizioni che sia il cliente a richiederla"
+            ],
+            "correct_answer": "Si"
+        },
+        {
+            "question": "Per l’esercizio dell’attività di mediazione è obbligatoria",
+            "answers": [
+                "L’autorizzazione prefettizia",
+                "L’iscrizione nel Registro delle Imprese",
+                "Sia l’autorizzazione che l’iscrizione"
+            ],
+            "correct_answer": "L’iscrizione nel Registro delle Imprese"
+        },
+        {
+            "question": "Colui che esercita abusivamente la mediazione viene punito",
+            "answers": [
+                "Con una sanzione disciplinare",
+                "Soltanto con una sanzione pecuniaria",
+                "Con una sanzione pecuniaria ed inoltre con una penale qualora sia incorso per tre volte nella stessa infrazione"
+            ],
+            "correct_answer": "Con una sanzione pecuniaria ed inoltre con una penale qualora sia incorso per tre volte nella stessa infrazione"
+        },
+        {
+            "question": "Chi inizia l’attività di mediazione senza essere regolarmente iscritto ha diritto al pagamento della provvigione",
+            "answers": [
+                "Si",
+                "No",
+                "Soltanto in certi casi"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Il mediatore può rinunziare all’incarico, dopo averlo accettato, senza essere considerato inadempiente",
+            "answers": [
+                "No",
+                "Si, soltanto in alcuni casi previsti dal Codice Civile",
+                "Si, in ogni caso in quanto ha un onere e non un obbligo di fare incontrare le parti"
+            ],
+            "correct_answer": "Si, in ogni caso in quanto ha un onere e non un obbligo di fare incontrare le parti"
+        },
+        {
+            "question": "Quale organo adotta i provvedimenti disciplinari nei confronti del mediatore, regolarmente iscritto, che abbia violato gli obblighi derivanti dalla sua attività",
+            "answers": [
+                "La Giunta della Camera di Commercio",
+                "Il Prefetto",
+                "Il Ministero dello Sviluppo Economico"
+            ],
+            "correct_answer": "La Giunta della Camera di Commercio"
+        },
+        {
+            "question": "Quale sanzione viene irrogata al mediatore nei caso in cui abbia commesso un furto dopo l’iscrizione nel registro delle Imprese",
+            "answers": [
+                "La sospensione",
+                "La cancellazione",
+                "La radiazione"
+            ],
+            "correct_answer": "La cancellazione"
+        },
+        {
+            "question": "Il mediatore, che abbia turbato in modo non grave l’andamento del mercato, viene punito",
+            "answers": [
+                "Con la radiazione",
+                "Con la sospensione",
+                "Con la cancellazione"
+            ],
+            "correct_answer": "Con la sospensione"
+        },
+        {
+            "question": "Il mediatore, che nell’esercizio dell’attività professionale usa moduli o formulari contenenti le condizioni del contratto, è tenuto a depositarli preventivamente presso un organo pubblico",
+            "answers": [
+                "No",
+                "Si, presso la Cancelleria del Tribunale",
+                "Si, presso la Camera di Commercio ove ha sede l’impresa"
+            ],
+            "correct_answer": "Si, presso la Camera di Commercio ove ha sede l’impresa"
+        },
+        {
+            "question": "Come devono essere redatti i moduli o formulari, contenenti le condizioni generali del contratto, usati dall’agente di affari in mediazione per l’esercizio della propria attività",
+            "answers": [
+                "Senza particolari formalità",
+                "Devono essere chiari",
+                "Devono essere, oltre che chiari, anche facilmente comprensibili ed ispirati al principio della buona fede contrattuale"
+            ],
+            "correct_answer": "Devono essere, oltre che chiari, anche facilmente comprensibili ed ispirati al principio della buona fede contrattuale"
+        },
+        {
+            "question": "Il mediatore, che commetta una infrazione in materia di deposito preventivo di moduli o formulari contenenti le condizioni del contratto, è passibile",
+            "answers": [
+                "Di una sanzione penale",
+                "Soltanto di una sanzione disciplinare",
+                "Di una sanzione disciplinare e di una pecuniaria"
+            ],
+            "correct_answer": "Di una sanzione disciplinare e di una pecuniaria"
+        },
+        {
+            "question": "Le vigenti disposizioni, che regolano lo svolgimento dell’attività del mediatore, si applicano anche al mandatario",
+            "answers": [
+                "Si, in ogni caso",
+                "No",
+                "Si, qualora il mandatario svolga attività a titolo oneroso nel settore immobiliare, fatte comunque salve le regole sul mandato"
+            ],
+            "correct_answer": "Si, qualora il mandatario svolga attività a titolo oneroso nel settore immobiliare, fatte comunque salve le regole sul mandato"
+        },
+        {
+            "question": "L’incarico di mediazione può essere conferit",
+            "answers": [
+                "Soltanto da uno dei contraenti",
+                "Soltanto da entrambi i contraenti congiuntamente",
+                "Sia da uno sia da entrambi i contraenti"
+            ],
+            "correct_answer": "Sia da uno sia da entrambi i contraenti"
+        },
+        {
+            "question": "In base all’art. 1755 c.c., al mediatore spetta la provvigione",
+            "answers": [
+                "Prima che l’affare si concluso",
+                "Quando l’affare sia concluso per effetto del suo intervento",
+                "Quando l’affare non si concluda malgrado il suo intervento"
+            ],
+            "correct_answer": "Quando l’affare sia concluso per effetto del suo intervento"
+        },
+        {
+            "question": "Qualora l’affare sia concluso con l’intervento di più mediatori",
+            "answers": [
+                "La provvigione spetta soltanto al mediatore che si sia adoperato in misura maggiore",
+                "La provvigione è ripartita pro-quota fra tutti i mediatori",
+                "La provvigione non compete in quanto è vietato l’intervento di più mediatori"
+            ],
+            "correct_answer": "La provvigione è ripartita pro-quota fra tutti i mediatori"
+        },
+        {
+            "question": "In quanto tempo si prescrive il diritto del mediatore al pagamento della provvigione",
+            "answers": [
+                "In un anno",
+                "In due anni",
+                "In cinque anni"
+            ],
+            "correct_answer": "In un anno"
+        },
+        {
+            "question": "Nel contratto sottoposto a condizione sospensiva quando sorge il diritto del mediatore alla provvigione",
+            "answers": [
+                "Fin dal momento della stipula",
+                "Quando si verifichi la condizione",
+                "Anche in assenza del verificarsi della condizione"
+            ],
+            "correct_answer": "Quando si verifichi la condizione"
+        },
+        {
+            "question": "Qualora il contratto si sottoposto a condizione risolutiva, il diritto del mediatore alla provvigione viene meno al verificarsi della stessa condizione",
+            "answers": [
+                "Si",
+                "No, fatta eccezione per le ipotesi previste dal Codice Civile C  No, in nessun caso",
+                "No, in nessun caso"
+            ],
+            "correct_answer": "No, in nessun caso"
+        },
+        {
+            "question": "In presenza di un contratto annullabile o rescindibile, al mediatore",
+            "answers": [
+                "Non spetta alcuna provvigione",
+                "Spetta in ogni caso la provvigione",
+                "Spetta la provvigione qualora non sia stato a conoscenza della causa di invalidità"
+            ],
+            "correct_answer": "Spetta la provvigione qualora non sia stato a conoscenza della causa di invalidità"
+        },
+        {
+            "question": "Se le parti concludono un contratto preliminare di vendita immobiliare, ma lo redigono in forma verbale",
+            "answers": [
+                "Al mediatore spetta la provvigione",
+                "Non spetta alcuna provvigione",
+                "Spetta una provvigione determinata dal giudice secondo equità"
+            ],
+            "correct_answer": "Non spetta alcuna provvigione"
+        },
+        {
+            "question": "E’ consentito rifiutare il rimborso delle spese al mediatore",
+            "answers": [
+                "Si, in quanto tale rimborso non è previsto dal Codice Civile",
+                "Si, purché esista apposita pattuizione con il mediatore oppure il rimborso sia escluso dagli usi",
+                "No, in quanto in ogni caso il rimborso è obbligatorio"
+            ],
+            "correct_answer": "Si, purché esista apposita pattuizione con il mediatore oppure il rimborso sia escluso dagli usi"
+        },
+        {
+            "question": "In quali casi il mediatore risponde dell’esecuzione dell’affare",
+            "answers": [
+                "In nessun caso",
+                "Sempre",
+                "Nelle ipotesi in cui non manifesti ad un contraente il nome dell’altro"
+            ],
+            "correct_answer": "Nelle ipotesi in cui non manifesti ad un contraente il nome dell’altro"
+        },
+        {
+            "question": "Il mediatore, che presti l’attività nell’interesse di persona notoriamente insolvente o della quale conosca lo stato di incapacità, può essere passabile",
+            "answers": [
+                "Soltanto di una sanzione pecuniaria",
+                "Soltanto di una sanzione disciplinare",
+                "Di entrambe le predette sanzioni"
+            ],
+            "correct_answer": "Di entrambe le predette sanzioni"
+        },
+        {
+            "question": "E’ consentito al mediatore avere rapporti di collaborazione nei confronti di alcuna delle parti",
+            "answers": [
+                "No",
+                "Si",
+                "Si, soltanto in presenza di determinate circostanze"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Può il mediatore rappresentare una delle parti",
+            "answers": [
+                "Si, sempre",
+                "Si, soltanto dopo la conclusione dell’affare",
+                "No"
+            ],
+            "correct_answer": "Si, soltanto dopo la conclusione dell’affare"
+        },
+        {
+            "question": "Il mediatore può prestare fideiussione per una delle parti",
+            "answers": [
+                "No",
+                "Si",
+                "Si, soltanto per affari superiori a 100.000 euro"
+            ],
+            "correct_answer": "Si"
+        },
+        {
+            "question": "Il mandato è",
+            "answers": [
+                "Un contratto consensuale ad effetti obbligatori",
+                "Un contratto reale",
+                "Un contratto ad effetti reali"
+            ],
+            "correct_answer": "Un contratto consensuale ad effetti obbligatori"
+        },
+        {
+            "question": "Nel mandato con rappresentanza diretta il mandatario agisce",
+            "answers": [
+                "In nome proprio e per conto del rappresentato",
+                "In nome e per conto del rappresentato",
+                "In nome proprio e per conto proprio"
+            ],
+            "correct_answer": "In nome e per conto del rappresentato"
+        },
+        {
+            "question": "Il mandatario senza rappresentanza agisce",
+            "answers": [
+                "In nome proprio e per conto proprio",
+                "In nome e per conto del mandante",
+                "In nome proprio e per conto del mandante"
+            ],
+            "correct_answer": "In nome proprio e per conto del mandante"
+        },
+        {
+            "question": "Il mandato si identifica con la procura",
+            "answers": [
+                "Si",
+                "No",
+                "Si, in determinati casi"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "La procura è",
+            "answers": [
+                "Un contratto a titolo oneroso",
+                "Un contratto a titolo gratuito",
+                "Un atto unilaterale di volontà"
+            ],
+            "correct_answer": "Un atto unilaterale di volontà"
+        },
+        {
+            "question": "Il mandato generale",
+            "answers": [
+                "Comprende tutti gli atti di ordinaria amministrazione ed anche quelli eccedenti l’ordinaria amministrazione",
+                "Non comprende gli atti che eccedono l’ordinaria amministrazione se non sono indicati espressamente",
+                "Non può in nessun caso comprendere gli atti eccedenti l’ordinaria amministrazione"
+            ],
+            "correct_answer": "Non comprende gli atti che eccedono l’ordinaria amministrazione se non sono indicati espressamente"
+        },
+        {
+            "question": "Il mandato",
+            "answers": [
+                "Si presume oneroso e non ammette prova contraria",
+                "Si presume gratuito",
+                "Si presume oneroso, fatta salva ogni diversa volontà delle parti"
+            ],
+            "correct_answer": "Si presume oneroso, fatta salva ogni diversa volontà delle parti"
+        },
+        {
+            "question": "Se il mandatario, che ha agito in nome proprio per l’acquisto di beni immobili, non trasferisce la proprietà degli stessi al mandante, quest’ultimo",
+            "answers": [
+                "Può chiedere al giudice di emettere una sentenza che produca gli effetti del contratto non concluso",
+                "Non può promuovere alcuna azione nei confronti del mandatario",
+                "Ha esclusivamente la facoltà di chiedere lo scioglimento del contratto"
+            ],
+            "correct_answer": "Può chiedere al giudice di emettere una sentenza che produca gli effetti del contratto non concluso"
+        },
+        {
+            "question": "Il mandatario può discostarsi dalle istruzioni ricevute",
+            "answers": [
+                "Si, quando il mandato è generale",
+                "No, a meno che si verifichino particolari circostanze",
+                "No, in nessun caso"
+            ],
+            "correct_answer": "No, a meno che si verifichino particolari circostanze"
+        },
+        {
+            "question": "Il mandatario a titolo oneroso può agire come rappresentante in nome e per conto del mandante",
+            "answers": [
+                "No",
+                "Si, in ogni caso",
+                "Si, a condizione che gli sia stata conferita la procura da parte del mandante"
+            ],
+            "correct_answer": "Si, a condizione che gli sia stata conferita la procura da parte del mandante"
+        },
+        {
+            "question": "Se il mandatario sostituisce altri a se stesso nell’esecuzione del mandato",
+            "answers": [
+                "Risponde in ogni caso dell’operato della persona che lo sostituisce",
+                "Non risponde dell’operato della persona sostituita qualora sia stato autorizzato dal mandante o la sostituzione si renda necessaria per la natura dell’incarico",
+                "Non risponde in nessun caso dell’operato del sostituto"
+            ],
+            "correct_answer": "Non risponde dell’operato della persona sostituita qualora sia stato autorizzato dal mandante o la sostituzione si renda necessaria per la natura dell’incarico"
+        },
+        {
+            "question": "Il mandante è tenuto a somministrare al mandatario i mezzi necessari per l’esecuzione del mandato",
+            "answers": [
+                "No",
+                "Soltanto quando sia concordato fra le parti",
+                "Si, salvo patto contrario"
+            ],
+            "correct_answer": "Si, salvo patto contrario"
+        },
+        {
+            "question": "Nel mandato oneroso, conferito a tempo indeterminato, la rinunzia da parte del mandatario",
+            "answers": [
+                "Comporta in ogni caso il risarcimento del danno",
+                "Non comporta in alcun caso il risarcimento del danno",
+                "Comporta il risarcimento del danno in assenza di congruo preavviso, salvo che ricorra una giusta causa"
+            ],
+            "correct_answer": "Comporta il risarcimento del danno in assenza di congruo preavviso, salvo che ricorra una giusta causa"
+        },
+        {
+            "question": "In presenza di un mandato oneroso conferito per un periodo di tempo determinato, la revoca prima della scadenza comporta il risarcimento del danno",
+            "answers": [
+                "Si, in ogni caso",
+                "No",
+                "Si, salvo che ricorra una giusta causa"
+            ],
+            "correct_answer": "Si, salvo che ricorra una giusta causa"
+        },
+        {
+            "question": "Il mandato conferito a più persone incaricate di operare congiuntamente",
+            "answers": [
+                "Si estingue, salvo patto contrario, anche se la causa di estinzione riguardi uno solo dei mandatari",
+                "Si estingue soltanto se la causa di estinzione riguardi la maggioranza dei mandatari",
+                "Si estingue soltanto se la causa di estinzione riguardi tutti i mandatari"
+            ],
+            "correct_answer": "Si estingue, salvo patto contrario, anche se la causa di estinzione riguardi uno solo dei mandatari"
+        },
+        {
+            "question": "E’ ammessa l’estinzione del mandato per morte, interdizione o inabilitazione del mandante",
+            "answers": [
+                "No",
+                "Si, in ogni caso",
+                "Si, escluso il caso in cui il mandato abbia per oggetto il compimento di atti relativi all’esercizio di un’impresa e tale esercizio sia continuato"
+            ],
+            "correct_answer": "Si, escluso il caso in cui il mandato abbia per oggetto il compimento di atti relativi all’esercizio di un’impresa e tale esercizio sia continuato"
+        },
+        {
+            "question": "E' ammessa la mediazione occasionale",
+            "answers": [
+                "No",
+                "Si",
+                "Solo per un periodo non superiore a 60 giorni l'anno"
+            ],
+            "correct_answer": "Solo per un periodo non superiore a 60 giorni l'anno"
+        }
+    ]
+}

@@ -1,0 +1,2506 @@
+{
+    "questions": [
+        {
+            "question": "Il diritto privato e'",
+            "answers": [
+                "Il diritto che regola soltanto i rapporti tra imprese gestite dai privati",
+                "Il diritto che regola i rapporti intercorrenti tra i privati cittadini",
+                "Il diritto che regola soltanto i rapporti di lavoro dei privati cittadini"
+            ],
+            "correct_answer": "Il diritto che regola i rapporti intercorrenti tra i privati cittadini"
+        },
+        {
+            "question": "Il diritto pubblico e'",
+            "answers": [
+                "Il diritto pubblicato sulla Gazzetta Ufficiale",
+                "Il diritto che riguarda la redazione degli atti pubblici",
+                "Il diritto che regola i rapporti tra i cittadini e la pubblica amministrazione ed i rapporti degli enti pubblici tra loro"
+            ],
+            "correct_answer": "Il diritto che regola i rapporti tra i cittadini e la pubblica amministrazione ed i rapporti degli enti pubblici tra loro"
+        },
+        {
+            "question": "Il diritto soggettivo è",
+            "answers": [
+                "Costituito da un insieme di disposizioni che regolano la vita della collettività",
+                "Il potere legittimo, attribuito ad un soggetto, di realizzare il proprio interesse",
+                "La soggezione al potere di un altro soggetto"
+            ],
+            "correct_answer": "Il potere legittimo, attribuito ad un soggetto, di realizzare il proprio interesse"
+        },
+        {
+            "question": "Il diritto oggettivo è",
+            "answers": [
+                "Il diritto di realizzare l’oggetto dei propri interessi",
+                "Il potere di realizzare l’oggetto di un contratto",
+                "L’insieme delle norme giuridiche che regolano la vita della collettività"
+            ],
+            "correct_answer": "L’insieme delle norme giuridiche che regolano la vita della collettività"
+        },
+        {
+            "question": "Il diritto assoluto e'",
+            "answers": [
+                "Il diritto che spetta al creditore nei confronti del debitore",
+                "Il diritto che spetta al sovrano nel regime monarchico",
+                "Il diritto che può essere fatto valere nei confronti di tutti i consociati"
+            ],
+            "correct_answer": "Il diritto che può essere fatto valere nei confronti di tutti i consociati"
+        },
+        {
+            "question": "Il diritto relativo o di obbligazione è",
+            "answers": [
+                "Il diritto che può essere fatto valere nei confronti di tutti i consociati",
+                "Il diritto che può essere fatto valere nei confronti di una o più persone determinate",
+                "Il diritto che comporta solo un obbligo morale per il debitore"
+            ],
+            "correct_answer": "Il diritto che può essere fatto valere nei confronti di una o più persone determinate"
+        },
+        {
+            "question": "L'obbligazione è",
+            "answers": [
+                "Un vincolo giuridico",
+                "Un vincolo morale",
+                "Un vincolo religioso"
+            ],
+            "correct_answer": "Un vincolo giuridico"
+        },
+        {
+            "question": "L’obbligazione naturale",
+            "answers": [
+                "Comporta l’obbligo giuridico per il debitore di eseguire la prestazione",
+                "Non comporta alcun obbligo ed il debitore può ottenere la restituzione di quanto prestato",
+                "Comporta soltanto un obbligo morale ma il debitore, un volta seguita la prestazione, non può ottenerne la restituzione"
+            ],
+            "correct_answer": "Comporta soltanto un obbligo morale ma il debitore, un volta seguita la prestazione, non può ottenerne la restituzione"
+        },
+        {
+            "question": "La prestazione del debitore deve essere suscettibile di valutazione economica",
+            "answers": [
+                "Si",
+                "No",
+                "Si, in casi determinati"
+            ],
+            "correct_answer": "Si"
+        },
+        {
+            "question": "Le obbligazione aventi ad oggetto somme di denaro debbono essere adempiute",
+            "answers": [
+                "Utilizzando moneta avente corso legale nello Stato, al tempo del pagamento e per il suo valore nominale",
+                "Utilizzando beni il cui valore di mercato sia equivalente alla somma da corrispondere",
+                "Utilizzando indifferentemente beni o moneta a scelta del debitore"
+            ],
+            "correct_answer": "Utilizzando moneta avente corso legale nello Stato, al tempo del pagamento e per il suo valore nominale"
+        },
+        {
+            "question": "I crediti liquidi ed esigibili di somme di denaro",
+            "answers": [
+                "Non producono interessi",
+                "Producono interessi soltanto se le parti si accordino in tal senso",
+                "Producono interessi salvo che la legge o il titolo dispongano diversamente"
+            ],
+            "correct_answer": "Producono interessi salvo che la legge o il titolo dispongano diversamente"
+        },
+        {
+            "question": "L’obbligazione si estingue",
+            "answers": [
+                "Soltanto con l’adempimento",
+                "Con l’adempimento oppure a causa di fatti diversi dall’adempimento previsti dall’ordinamento giuridico",
+                "Soltanto se il creditore ed il debitore si accordano tra loro"
+            ],
+            "correct_answer": "Con l’adempimento oppure a causa di fatti diversi dall’adempimento previsti dall’ordinamento giuridico"
+        },
+        {
+            "question": "Che cosa si intende per remissione",
+            "answers": [
+                "Rinuncia del creditore a far valere il proprio diritto",
+                "Costituzione di un nuovo rapporto giuridico tra creditore e debitore",
+                "Estinzione di un debito per prescrizione"
+            ],
+            "correct_answer": "Rinuncia del creditore a far valere il proprio diritto"
+        },
+        {
+            "question": "In un rapporto obbligatorio è ammesso l’adempimento da parte di un terzo",
+            "answers": [
+                "Si, sempre",
+                "No",
+                "Si, a condizione che il creditore non abbia interesse al fatto che sia il debitore ad adempiere la prestazione"
+            ],
+            "correct_answer": "Si, a condizione che il creditore non abbia interesse al fatto che sia il debitore ad adempiere la prestazione"
+        },
+        {
+            "question": "La costituzione in mora del debitore inadempiente",
+            "answers": [
+                "Deve essere effettuata in ogni caso",
+                "Si realizza sempre automaticamente",
+                "Deve essere effettuata con intimazione o richiesta fatta per iscritto salvo i casi previsti dalla legge"
+            ],
+            "correct_answer": "Deve essere effettuata con intimazione o richiesta fatta per iscritto salvo i casi previsti dalla legge"
+        },
+        {
+            "question": "Quando si verifica la compensazione",
+            "answers": [
+                "Quando viene corrisposto il compenso per l’opera prestata",
+                "Quando un terzo offre il pagamento per estinguere una parte del debito",
+                "Quando debitore e creditore hanno reciproci debiti e crediti che si annullano vicendevolmente"
+            ],
+            "correct_answer": "Quando debitore e creditore hanno reciproci debiti e crediti che si annullano vicendevolmente"
+        },
+        {
+            "question": "L’obbligazione solidale è",
+            "answers": [
+                "Quella in cui creditore e debitore si accordano per la riduzione del debito",
+                "Quella in cui creditore e debitore si accordano per la rateizzazione del debito",
+                "Quella in cui a ciascun condebitore può essere richiesto il pagamento dell’intero debito"
+            ],
+            "correct_answer": "Quella in cui a ciascun condebitore può essere richiesto il pagamento dell’intero debito"
+        },
+        {
+            "question": "L’obbligazione non più eseguibile per causa non imputabile al debitore",
+            "answers": [
+                "Si estingue in ogni caso",
+                "Si estingue solo se le parti sono d’accordo tra loro",
+                "Si estingue fatto salvo il caso in cui il debitore sia in mora"
+            ],
+            "correct_answer": "Si estingue fatto salvo il caso in cui il debitore sia in mora"
+        },
+        {
+            "question": "Può verificarsi la mora del creditore",
+            "answers": [
+                "Si, quando il creditore, senza motivo legittimo, non riceve il pagamento Offerto nei modi di legge o quando non compie gli atti necessari per ricevere la prestazione",
+                "No",
+                "Si, in ogni caso"
+            ],
+            "correct_answer": "Si, quando il creditore, senza motivo legittimo, non riceve il pagamento Offerto nei modi di legge o quando non compie gli atti necessari per ricevere la prestazione"
+        },
+        {
+            "question": "Il terreno e'",
+            "answers": [
+                "Un bene mobile",
+                "Un bene immobile",
+                "Un bene mobile registrato"
+            ],
+            "correct_answer": "Un bene immobile"
+        },
+        {
+            "question": "Il diritto di proprietà assicura al titolare",
+            "answers": [
+                "Un potere non soggetto in alcun modo a limitazioni",
+                "Soltanto il potere di godere le cose",
+                "Il potere di godere e di disporre delle cose in modo pieno ed esclusivo entro i limiti e con l’osservanza degli obblighi stabiliti dall’ordinamento giuridico"
+            ],
+            "correct_answer": "Il potere di godere e di disporre delle cose in modo pieno ed esclusivo entro i limiti e con l’osservanza degli obblighi stabiliti dall’ordinamento giuridico"
+        },
+        {
+            "question": "L’espropriazione e'",
+            "answers": [
+                "Un limite al diritto di proprietà posto nell’interesse privato",
+                "Un limite al diritto di proprietà posto nell’interesse pubblico",
+                "Un modo di acquisto della proprietà"
+            ],
+            "correct_answer": "Un limite al diritto di proprietà posto nell’interesse pubblico"
+        },
+        {
+            "question": "L’usucapione e'",
+            "answers": [
+                "Un modo di acquisto a titolo originario della proprietà e dei diritti reali di godimento",
+                "Un diritto reale",
+                "Un contratto reale"
+            ],
+            "correct_answer": "Un modo di acquisto a titolo originario della proprietà e dei diritti reali di godimento"
+        },
+        {
+            "question": "In presenza dell’acquisto in buona fede di un bene immobile da un venditore non proprietario in base ad un titolo idoneo al trasferimento della proprietà e successivamente trascritto, l’usucapione si compie in",
+            "answers": [
+                "Dieci anni dalla data di inizio del possesso",
+                "Dieci anni dalla data della trascrizione del titolo",
+                "Dieci anni dalla data di stipula del contratto"
+            ],
+            "correct_answer": "Dieci anni dalla data della trascrizione del titolo"
+        },
+        {
+            "question": "Come si acquista la proprietà dei beni immobili per usucapione",
+            "answers": [
+                "In virtù del possesso per venti anni anche se non continuativo",
+                "In virtù del possesso continuato per venti anni",
+                "In virtù della detenzione continuata per dieci anni"
+            ],
+            "correct_answer": "In virtù del possesso continuato per venti anni"
+        },
+        {
+            "question": "L’invenzione, ossia il ritrovamento di una cosa smarrita, e'",
+            "answers": [
+                "Un modo di acquisto della proprietà a titolo originario, purché siano rispettate le formalità di legge",
+                "Un modo di acquisto della proprietà a titolo derivativo",
+                "Una usucapione abbreviata"
+            ],
+            "correct_answer": "Un modo di acquisto della proprietà a titolo originario, purché siano rispettate le formalità di legge"
+        },
+        {
+            "question": "L'usucapione abbreviata delle universalita' dei beni mobili si compie",
+            "answers": [
+                "In dieci anni",
+                "In venti anni",
+                "In sette anni"
+            ],
+            "correct_answer": "In dieci anni"
+        },
+        {
+            "question": "Affinché si compia l’usucapione abbreviata di beni immobili è richiesto, oltre al decorso del tempo",
+            "answers": [
+                "La buona fede dell’acquirente ed un titolo di acquisto valido e regolarmente trascritto",
+                "Un titolo di acquisto valido anche se non trascritto",
+                "Soltanto la buona fede dell’acquirente indipendentemente dalla validità del titolo e della trascrizione"
+            ],
+            "correct_answer": "La buona fede dell’acquirente ed un titolo di acquisto valido e regolarmente trascritto"
+        },
+        {
+            "question": "Il possesso di buona fede è",
+            "answers": [
+                "Il possesso spettante alle comunità religiose sui beni ecclesiastici",
+                "Il possesso di chi possiede ignorando di ledere l’altrui diritto",
+                "Il possesso della fede di deposito"
+            ],
+            "correct_answer": "Il possesso di chi possiede ignorando di ledere l’altrui diritto"
+        },
+        {
+            "question": "In quanti anni si prescrive l’azione di rivendicazione",
+            "answers": [
+                "In dieci anni",
+                "In trenta anni",
+                "E’ imprescrittibile, fatti salvi gli effetti dell’usucapione"
+            ],
+            "correct_answer": "E’ imprescrittibile, fatti salvi gli effetti dell’usucapione"
+        },
+        {
+            "question": "L’azione di rivendicazione tutela",
+            "answers": [
+                "La proprietà",
+                "La detenzione",
+                "Il possesso"
+            ],
+            "correct_answer": "La proprietà"
+        },
+        {
+            "question": "Chi sia stato violentemente od occultamente spogliato del possesso può agire in giudizio contro l’autore dello spoglio con",
+            "answers": [
+                "L’azione di reintegrazione",
+                "L’azione di manutenzione",
+                "L’azione negatoria"
+            ],
+            "correct_answer": "L’azione di reintegrazione"
+        },
+        {
+            "question": "L’azione per apposizione di termini",
+            "answers": [
+                "Ha lo scopo di apporre o ristabilire i termini tra fondi contigui per i quali non sussistano incertezze sui relativi confini",
+                "Ha lo scopo di fissare un termine per l’adempimento della prestazione",
+                "Ha lo scopo di accertare e stabilire il confine tra due fondi"
+            ],
+            "correct_answer": "Ha lo scopo di apporre o ristabilire i termini tra fondi contigui per i quali non sussistano incertezze sui relativi confini"
+        },
+        {
+            "question": "L’azione negatoria",
+            "answers": [
+                "Ha lo scopo di negare l’esistenza di un diritto di credito",
+                "Viene intentata dal proprietario al fine di negare l’esistenza di diritti reali affermati da altri sulla cosa",
+                "Serve al titolare del diritto di usufrutto per negare il diritto del proprietario"
+            ],
+            "correct_answer": "Viene intentata dal proprietario al fine di negare l’esistenza di diritti reali affermati da altri sulla cosa"
+        },
+        {
+            "question": "Le azioni a difesa della proprietà si definiscono",
+            "answers": [
+                "Petitorie",
+                "Possessorie",
+                "Revocatorie"
+            ],
+            "correct_answer": "Petitorie"
+        },
+        {
+            "question": "La comunione incidentale è",
+            "answers": [
+                "Quella che deriva dall’accordo tra i partecipanti",
+                "Quella che è imposta dalla legge",
+                "Quella che deriva da circostanze casuali"
+            ],
+            "correct_answer": "Quella che deriva da circostanze casuali"
+        },
+        {
+            "question": "Nel condominio degli edifici la nomina dell’amministratore è obbligatoria se i condomini sono",
+            "answers": [
+                "Più di otto",
+                "Più di dieci",
+                "Più di dodici"
+            ],
+            "correct_answer": "Più di otto"
+        },
+        {
+            "question": "Qualora tre soggetti siano comproprietari di un fondo, lo scioglimento della comunione può verificarsi",
+            "answers": [
+                "Se uno dei tre comproprietari lo richieda, fatte salve le eccezioni previste dalla legge",
+                "Se lo richiedano almeno due comproprietari",
+                "Soltanto se sussista l’accordo di tutti i soggetti"
+            ],
+            "correct_answer": "Se uno dei tre comproprietari lo richieda, fatte salve le eccezioni previste dalla legge"
+        },
+        {
+            "question": "La comunione forzosa è",
+            "answers": [
+                "Quella prevista dalla legge",
+                "Quella imposta con la forza da una parte all’altra",
+                "Quella imposta dall’autorità amministrativa"
+            ],
+            "correct_answer": "Quella prevista dalla legge"
+        },
+        {
+            "question": "E’ valido il patto con il quale i comproprietari concordano di rimanere in comunione per un certo periodo di tempo",
+            "answers": [
+                "No",
+                "Si",
+                "Si, a condizione che il periodo non superi i dieci anni"
+            ],
+            "correct_answer": "Si, a condizione che il periodo non superi i dieci anni"
+        },
+        {
+            "question": "Il diritto di superficie consiste",
+            "answers": [
+                "Nel diritto di proprietà su di una costruzione separato dal diritto di proprietà del suolo",
+                "Nel diritto di proprietà sul suolo separato dal diritto sul sottosuolo",
+                "Nel diritto di proprietà sulle piantagioni separato dal diritto di proprietà sul suolo"
+            ],
+            "correct_answer": "Nel diritto di proprietà su di una costruzione separato dal diritto di proprietà del suolo"
+        },
+        {
+            "question": "Il diritto di superficie può essere costituito",
+            "answers": [
+                "Solo a tempo determinato",
+                "Solo a tempo indeterminato",
+                "A tempo determinato o indeterminato"
+            ],
+            "correct_answer": "A tempo determinato o indeterminato"
+        },
+        {
+            "question": "L’enfiteusi è",
+            "answers": [
+                "Un diritto reale di garanzia",
+                "Un diritto reale di godimento",
+                "Un contratto reale"
+            ],
+            "correct_answer": "Un diritto reale di godimento"
+        },
+        {
+            "question": "L’affrancazione è",
+            "answers": [
+                "Il diritto spettante al proprietario di liberare il terreno da una servitù prediale",
+                "Il diritto dell’usufruttuario di acquistare la nuda proprietà",
+                "Il diritto spettante all’enfiteuta di diventare proprietario del fondo enfiteutico pagando il corrispettivo stabilito dalla legge"
+            ],
+            "correct_answer": "Il diritto spettante all’enfiteuta di diventare proprietario del fondo enfiteutico pagando il corrispettivo stabilito dalla legge"
+        },
+        {
+            "question": "E’ consentita l’enfiteusi con durata temporanea",
+            "answers": [
+                "Si",
+                "No",
+                "Si, purché costituita per una durata non inferiore al ventennio"
+            ],
+            "correct_answer": "Si, purché costituita per una durata non inferiore al ventennio"
+        },
+        {
+            "question": "E’ ammessa la subenfiteusi",
+            "answers": [
+                "Si",
+                "No",
+                "Si, a condizione che sia prevista dal titolo costitutivo"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "La devoluzione consiste",
+            "answers": [
+                "Nel diritto spettante all’enfiteuta di prolungare la durata dell’enfiteusi",
+                "Nel diritto spettante all’enfiteuta di diventare proprietario del fondo versando le somme prescritte dalla legge",
+                "Nel diritto spettante al proprietario di riavere il fondo liberato dall’enfiteusi"
+            ],
+            "correct_answer": "Nel diritto spettante al proprietario di riavere il fondo liberato dall’enfiteusi"
+        },
+        {
+            "question": "L’usufrutto è",
+            "answers": [
+                "Un diritto reale di garanzia",
+                "Un diritto reale di godimento",
+                "Un contratto reale"
+            ],
+            "correct_answer": "Un diritto reale di godimento"
+        },
+        {
+            "question": "L’usufrutto attribuisce al titolare del diritto",
+            "answers": [
+                "La proprietà del bene",
+                "Il possesso del bene",
+                "La detenzione del bene"
+            ],
+            "correct_answer": "Il possesso del bene"
+        },
+        {
+            "question": "La “nuda“ proprietà",
+            "answers": [
+                "Si identifica con la quota di partecipazione ad una comunione",
+                "E’ quella spettante al proprietario del fondo servente",
+                "E’ quella correlata al diritto di usufrutto"
+            ],
+            "correct_answer": "E’ quella correlata al diritto di usufrutto"
+        },
+        {
+            "question": "I beni oggetto dell’usufrutto sono",
+            "answers": [
+                "Soltanto i beni immobili",
+                "Soltanto i beni mobili",
+                "I beni immobili, i beni mobili ed i beni mobili registrati"
+            ],
+            "correct_answer": "I beni immobili, i beni mobili ed i beni mobili registrati"
+        },
+        {
+            "question": "L’usufrutto",
+            "answers": [
+                "Non si trasmette agli eredi dell’usufruttuario",
+                "Si trasmette sempre agli eredi dell’usufruttuario",
+                "Si trasmette agli eredi dell’usufruttuario soltanto se ha una durata superiore a dieci anni"
+            ],
+            "correct_answer": "Non si trasmette agli eredi dell’usufruttuario"
+        },
+        {
+            "question": "L’usufruttuario può cedere il proprio diritto per un certo tempo o per tutta la durata",
+            "answers": [
+                "Si",
+                "No",
+                "Si, a patto che non sia vietato dal titolo costitutivo"
+            ],
+            "correct_answer": "Si, a patto che non sia vietato dal titolo costitutivo"
+        },
+        {
+            "question": "Il diritto di abitazione è",
+            "answers": [
+                "Un diritto reale di godimento",
+                "Un diritto reale di garanzia",
+                "Il diritto di abitare in una casa presa in locazione"
+            ],
+            "correct_answer": "Un diritto reale di godimento"
+        },
+        {
+            "question": "L’uso è",
+            "answers": [
+                "Un diritto reale di godimento che può essere dato in locazione o ceduto a terzi",
+                "Un diritto reale di godimento che non può essere dato in locazione né ceduto a terzi",
+                "Un diritto reale di garanzia"
+            ],
+            "correct_answer": "Un diritto reale di godimento che non può essere dato in locazione né ceduto a terzi"
+        },
+        {
+            "question": "Un peso imposto sopra un fondo per l’utilità di un altro fondo appartenente a diverso proprietario è il contenuto",
+            "answers": [
+                "Del diritto di superficie",
+                "Del diritto di usufrutto",
+                "Del diritto di servitù prediale"
+            ],
+            "correct_answer": "Del diritto di servitù prediale"
+        },
+        {
+            "question": "Le servitù prediali sono",
+            "answers": [
+                "Diritti reali di garanzia",
+                "Diritti reali di godimento",
+                "Contratti reali"
+            ],
+            "correct_answer": "Diritti reali di godimento"
+        },
+        {
+            "question": "Si possono acquistare le servitù prediali per usucapione",
+            "answers": [
+                "Si",
+                "No",
+                "Si, a condizione che si tratti di servitù apparenti"
+            ],
+            "correct_answer": "Si, a condizione che si tratti di servitù apparenti"
+        },
+        {
+            "question": "E’ ammessa l’estinzione dell’usufrutto per “confusione”",
+            "answers": [
+                "Si, in quanto si riuniscono nella stessa persona la titolarità del diritto di proprietà e del diritto di usufrutto",
+                "No,in quanto vietato dal Codice Civile",
+                "Si, a condizione che sia stata pattuita al momento della concessione dell’usufrutto"
+            ],
+            "correct_answer": "Si, in quanto si riuniscono nella stessa persona la titolarità del diritto di proprietà e del diritto di usufrutto"
+        },
+        {
+            "question": "I frutti civili sono",
+            "answers": [
+                "Quelli che derivano direttamente dalle cose, vi concorra o meno l’opera dell’uomo",
+                "Quelli che si traggono dalle cose come corrispettivo del godimento che altri ne abbia",
+                "Quelli che spettano a chi si costituisce parte civile in un processo Penale"
+            ],
+            "correct_answer": "Quelli che si traggono dalle cose come corrispettivo del godimento che altri ne abbia"
+        },
+        {
+            "question": "L’azione confessoria e'",
+            "answers": [
+                "Quella concessa al proprietario che intenda negare l’esistenza di una servitù sul proprio fondo",
+                "Quella concessa al nudo proprietario che intenda negare l’esistenza di un usufrutto",
+                "Quella concessa a colui che intenda far riconoscere l’esistenza  di un diritto di servitù e/o far cessare impedimenti e turbative"
+            ],
+            "correct_answer": "Quella concessa a colui che intenda far riconoscere l’esistenza  di un diritto di servitù e/o far cessare impedimenti e turbative"
+        },
+        {
+            "question": "L'esercizio dell' azione surrogatoria presuppone",
+            "answers": [
+                "La frode del debitore",
+                "La frode del terzo",
+                "L'inerzia del debitore"
+            ],
+            "correct_answer": "L'inerzia del debitore"
+        },
+        {
+            "question": "L'azione revocatoria",
+            "answers": [
+                "Rende inefficaci nei confronti dei creditori gli atti di disposizione compiuti dal debitore",
+                "Comporta l’attribuzione immediata dei beni al creditore",
+                "Serve a far revocare i provvedimenti del curatore fallimentare"
+            ],
+            "correct_answer": "Rende inefficaci nei confronti dei creditori gli atti di disposizione compiuti dal debitore"
+        },
+        {
+            "question": "L'azione revocatoria ordinaria si prescrive",
+            "answers": [
+                "In tre anni dalla data dell’atto",
+                "In cinque anni dalla data dell’atto",
+                "In un anno dalla data dell’atto"
+            ],
+            "correct_answer": "In cinque anni dalla data dell’atto"
+        },
+        {
+            "question": "I privilegi sono",
+            "answers": [
+                "Soltanto speciali",
+                "Soltanto generali",
+                "Generali e speciali"
+            ],
+            "correct_answer": "Generali e speciali"
+        },
+        {
+            "question": "I privilegi si considerano",
+            "answers": [
+                "Garanzie personali",
+                "Cause legittime di prelazione",
+                "Contratti reali"
+            ],
+            "correct_answer": "Cause legittime di prelazione"
+        },
+        {
+            "question": "Il pegno e'",
+            "answers": [
+                "Un diritto reale di garanzia",
+                "Un contratto ad effetti reali",
+                "Un diritto reale di godimento"
+            ],
+            "correct_answer": "Un diritto reale di garanzia"
+        },
+        {
+            "question": "Il pegno può avere ad oggetto",
+            "answers": [
+                "Tutti i beni: mobili, immobili e mobili registrati",
+                "I beni mobili e le universalità di beni mobili, i crediti e gli altri diritti che hanno ad oggetto beni mobili",
+                "Soltanto i beni mobili registrati"
+            ],
+            "correct_answer": "I beni mobili e le universalità di beni mobili, i crediti e gli altri diritti che hanno ad oggetto beni mobili"
+        },
+        {
+            "question": "Il pegno comporta",
+            "answers": [
+                "L’attribuzione della proprietà del creditore",
+                "Il mantenimento del possesso del bene da parte del debitore",
+                "Lo spossessamento del debitore"
+            ],
+            "correct_answer": "Lo spossessamento del debitore"
+        },
+        {
+            "question": "L’iscrizione dell’ipoteca ha",
+            "answers": [
+                "Efficacia di semplice pubblicità-notizia",
+                "Efficacia dichiarativa",
+                "Efficacia costitutiva"
+            ],
+            "correct_answer": "Efficacia costitutiva"
+        },
+        {
+            "question": "L’iscrizione dell’ipoteca si effettua",
+            "answers": [
+                "Presso la Camera di commercio",
+                "Presso l’Ufficio dei registri immobiliari (già Conservatoria)",
+                "Presso la Provincia"
+            ],
+            "correct_answer": "Presso l’Ufficio dei registri immobiliari (già Conservatoria)"
+        },
+        {
+            "question": "Quali sono i beni oggetto dell’ipoteca",
+            "answers": [
+                "Soltanto i beni mobili",
+                "Soltanto i beni immobili",
+                "I beni immobili ed i beni mobili registrati"
+            ],
+            "correct_answer": "I beni immobili ed i beni mobili registrati"
+        },
+        {
+            "question": "Si può concedere ipoteca per testamento",
+            "answers": [
+                "Si",
+                "No",
+                "Si, nei casi ammessi dal Codice Civile"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "L’ipoteca che spetta al venditore sull’immobile venduto per l’adempimento degli obblighi derivanti dalla vendita si definisce",
+            "answers": [
+                "Legale",
+                "Volontaria",
+                "Giudiziale"
+            ],
+            "correct_answer": "Legale"
+        },
+        {
+            "question": "Chi è il terzo datore d’ipoteca",
+            "answers": [
+                "Un fideiussore",
+                "Il debitore principale",
+                "Un proprietario che garantisce il debito di un altro soggetto"
+            ],
+            "correct_answer": "Un proprietario che garantisce il debito di un altro soggetto"
+        },
+        {
+            "question": "Il venditore può rinunciare all’ipoteca",
+            "answers": [
+                "Si, in ogni caso",
+                "Si, purché la rinunzia sia espressa e risulti da atto scritto",
+                "No"
+            ],
+            "correct_answer": "Si, purché la rinunzia sia espressa e risulti da atto scritto"
+        },
+        {
+            "question": "I creditori chirografari sono",
+            "answers": [
+                "Coloro che sono titolari di pegno su titolo di credito",
+                "Coloro ai quali non sono attribuite cause legittime di prelazione",
+                "Coloro che hanno privilegio sui beni mobili del debitore"
+            ],
+            "correct_answer": "Coloro ai quali non sono attribuite cause legittime di prelazione"
+        },
+        {
+            "question": "Il mandato di credito si ha quando",
+            "answers": [
+                "Un soggetto dà incarico ad un altro di fare credito ad un terzo",
+                "Un soggetto incarica un altro di pagare un proprio debito",
+                "Un soggetto incarica un altro di scontargli i propri effetti cambiari"
+            ],
+            "correct_answer": "Un soggetto dà incarico ad un altro di fare credito ad un terzo"
+        },
+        {
+            "question": "Il fideiussore è",
+            "answers": [
+                "Sempre obbligato in solido con il debitore principale",
+                "Non è obbligato in solido con il debitore principale",
+                "E’ obbligato in solido a meno che non pattuisca il beneficio della preventiva escussione del patrimonio del debitore principale"
+            ],
+            "correct_answer": "E’ obbligato in solido a meno che non pattuisca il beneficio della preventiva escussione del patrimonio del debitore principale"
+        },
+        {
+            "question": "Il contratto è",
+            "answers": [
+                "Un accordo tra due sole parti",
+                "Un accordo tra due o più parti",
+                "Un atto unilaterale di per sé a cui fa seguito un’accettazione"
+            ],
+            "correct_answer": "Un accordo tra due o più parti"
+        },
+        {
+            "question": "Quando in un contratto il proponente si è obbligato a mantenere ferma una proposta per un certo periodo di temp",
+            "answers": [
+                "La revoca può essere fatta in qualsiasi momento",
+                "La revoca prima del termine è senza effetti",
+                "La revoca può essere fatta soltanto in forma solenne"
+            ],
+            "correct_answer": "La revoca prima del termine è senza effetti"
+        },
+        {
+            "question": "Nella fase delle trattative",
+            "answers": [
+                "Le parti debbono comportarsi secondo buona fede",
+                "Le parti possono comportarsi come credono",
+                "Le parti sono obbligate a concludere l’affare"
+            ],
+            "correct_answer": "Le parti debbono comportarsi secondo buona fede"
+        },
+        {
+            "question": "Se una delle parti del contratto preliminare rifiuta di addivenire alla stipula del contratto definitivo, la controparte",
+            "answers": [
+                "Dovrà in ogni caso accontentarsi del risarcimento del danno",
+                "Dovrà subire l’inadempimento dell’altro contraente senza pretendere nemmeno il risarcimento del danno",
+                "Potrà chiedere al giudice di emettere una sentenza la quale sostituisca Il consenso dell’altro contraente e produca pertanto gli effetti del contratto definitivo"
+            ],
+            "correct_answer": "Potrà chiedere al giudice di emettere una sentenza la quale sostituisca Il consenso dell’altro contraente e produca pertanto gli effetti del contratto definitivo"
+        },
+        {
+            "question": "Il contratto preliminare",
+            "answers": [
+                "Si identifica con le trattative",
+                "E’ un vero e proprio contratto e comporta l’obbligo per le parti di concludere il contratto definitivo",
+                "E’ un accordo sui generis"
+            ],
+            "correct_answer": "E’ un vero e proprio contratto e comporta l’obbligo per le parti di concludere il contratto definitivo"
+        },
+        {
+            "question": "I contratti che costituiscono, modificano o trasferiscono il diritto di usufrutto sui beni immobil",
+            "answers": [
+                "Debbono essere stipulati in forma scritta quando le parti lo concordino",
+                "Debbono essere stipulati verbalmente",
+                "Debbono essere stipulati in forma scritta a pena di nullità"
+            ],
+            "correct_answer": "Debbono essere stipulati in forma scritta a pena di nullità"
+        },
+        {
+            "question": "Il contratto preliminare",
+            "answers": [
+                "Deve essere stipulato nella stessa forma prevista per il contratto definitivo",
+                "Può essere stipulato in qualsiasi forma",
+                "Deve essere sempre stipulato in forma scritta a pena di nullità"
+            ],
+            "correct_answer": "Deve essere stipulato nella stessa forma prevista per il contratto definitivo"
+        },
+        {
+            "question": "Il termine è",
+            "answers": [
+                "Un elemento essenziale",
+                "Un elemento naturale",
+                "Un elemento accidentale"
+            ],
+            "correct_answer": "Un elemento accidentale"
+        },
+        {
+            "question": "La causa del contratto",
+            "answers": [
+                "E’ lo scopo oggettivo a cui tende il contratto",
+                "E’ il motivo per cui ciascuna delle parti decide di addivenire alla stipula",
+                "E’ il motivo per cui l’accettante concorda con il proponente"
+            ],
+            "correct_answer": "E’ lo scopo oggettivo a cui tende il contratto"
+        },
+        {
+            "question": "La forma è un elemento essenziale del contratto",
+            "answers": [
+                "Sempre",
+                "Mai",
+                "Quanto risulta che sia prescritta dalla legge sotto pena di nullità"
+            ],
+            "correct_answer": "Quanto risulta che sia prescritta dalla legge sotto pena di nullità"
+        },
+        {
+            "question": "La condizione è",
+            "answers": [
+                "Un elemento naturale del contratto",
+                "Un elemento accidentale del contratto",
+                "Un elemento essenziale del contratto"
+            ],
+            "correct_answer": "Un elemento accidentale del contratto"
+        },
+        {
+            "question": "L’oggetto è un elemento essenziale del contratto",
+            "answers": [
+                "Si",
+                "No",
+                "Si, quando è prescritto dal Codice Civile"
+            ],
+            "correct_answer": "Si"
+        },
+        {
+            "question": "Il dolo proveniente da un terzo estraneo al contratto comporta",
+            "answers": [
+                "La risoluzione del contratto",
+                "L’annullabilità del contratto in ogni caso",
+                "L’annullabilità del contratto soltanto se era noto alla parte che ha tratto vantaggio"
+            ],
+            "correct_answer": "L’annullabilità del contratto soltanto se era noto alla parte che ha tratto vantaggio"
+        },
+        {
+            "question": "Il modo è",
+            "answers": [
+                "Un elemento essenziale del contratto",
+                "Un elemento naturale del contratto",
+                "Un elemento accidentale del contratto"
+            ],
+            "correct_answer": "Un elemento accidentale del contratto"
+        },
+        {
+            "question": "Il modo si definisce",
+            "answers": [
+                "Una limitazione che si appone ad un atto di liberalità",
+                "Un evento futuro ed incerto al verificarsi del quale le parti subordinano l’efficacia o lo scioglimento di un contratto",
+                "Una controprestazione corrispondente ad un atto di liberalità"
+            ],
+            "correct_answer": "Una limitazione che si appone ad un atto di liberalità"
+        },
+        {
+            "question": "La mancanza di uno degli elementi essenziali rende il contratto",
+            "answers": [
+                "Nullo",
+                "Annullabile",
+                "Rescindibile"
+            ],
+            "correct_answer": "Nullo"
+        },
+        {
+            "question": "Il contratto nullo",
+            "answers": [
+                "Può essere convalidato dalle parti",
+                "Non può essere convalidato dalle parti",
+                "Può essere convalidato soltanto dalla parte che avrebbe avuto Interesse a far valere la nullità"
+            ],
+            "correct_answer": "Non può essere convalidato dalle parti"
+        },
+        {
+            "question": "In presenza di un vizio della volontà il contratto è",
+            "answers": [
+                "Risolubile",
+                "Nullo",
+                "Annullabile"
+            ],
+            "correct_answer": "Annullabile"
+        },
+        {
+            "question": "La violenza psichica, esercitata da una parte nei confronti dell’altra, comporta",
+            "answers": [
+                "La nullità del contratto",
+                "L’annullabilità",
+                "La rescindibilità"
+            ],
+            "correct_answer": "L’annullabilità"
+        },
+        {
+            "question": "L’azione di nullità",
+            "answers": [
+                "Si prescrive in un anno",
+                "Si prescrive in cinque anni",
+                "E’ imprescrittibile"
+            ],
+            "correct_answer": "E’ imprescrittibile"
+        },
+        {
+            "question": "Il dolo proveniente dalla controparte comporta",
+            "answers": [
+                "La nullità del contratto",
+                "La rescissione del contratto",
+                "L’annullabilità del contratto"
+            ],
+            "correct_answer": "L’annullabilità del contratto"
+        },
+        {
+            "question": "Qualora una parte minacci l’altra di far valere un proprio diritto davanti l’autorità giudiziaria, il contratto per il quale la minaccia è manifestata",
+            "answers": [
+                "E’ rescindibile perché la parte minacciata viene a trovarsi in stato di pericolo",
+                "E’ annullabile perché si configura la fattispecie della violenza Psichica",
+                "E’ valido a tutti gli effetti, fatto salvo il caso in cui la parte mediante la minaccia tenda ad ottenere ingiusti vantaggi"
+            ],
+            "correct_answer": "E’ valido a tutti gli effetti, fatto salvo il caso in cui la parte mediante la minaccia tenda ad ottenere ingiusti vantaggi"
+        },
+        {
+            "question": "Il contratto rescindibile",
+            "answers": [
+                "Può essere convalidato dalle parti di comune accordo",
+                "Non può essere convalidato, ma la parte in malafede può evitare la rescissione offrendo di riequilibrare le prestazioni",
+                "Può essere convalidato dalla parte che avrebbe avuto interesse a chiedere la rescissione"
+            ],
+            "correct_answer": "Non può essere convalidato, ma la parte in malafede può evitare la rescissione offrendo di riequilibrare le prestazioni"
+        },
+        {
+            "question": "In presenza di inadempimento in un contratto a prestazioni corrispettive, si può chiedere",
+            "answers": [
+                "L’annullamento del contratto",
+                "La rescissione del contratto",
+                "La risoluzione del contratto"
+            ],
+            "correct_answer": "La risoluzione del contratto"
+        },
+        {
+            "question": "La clausola risolutiva espressa è",
+            "answers": [
+                "Una clausola con cui si affida ad un terzo la risoluzione di una controversia",
+                "Una clausola che prevede la risoluzione del contratto quando una determinata obbligazione non sia adempiuta secondo le modalità prestabilite",
+                "Una clausola che comporta l’intimazione ad adempiere rivolta alla parte inadempiente"
+            ],
+            "correct_answer": "Una clausola che prevede la risoluzione del contratto quando una determinata obbligazione non sia adempiuta secondo le modalità prestabilite"
+        },
+        {
+            "question": "Quando la prestazione di una delle parti è divenuta eccessivamente gravosaper il verificarsi di eventi straordinari ed imprevedibili, la parte che la deve effettuare può",
+            "answers": [
+                "Chiedere la rescissione del contratto",
+                "Chiedere la risoluzione del contratto",
+                "Chiedere l’annullamento del contratto"
+            ],
+            "correct_answer": "Chiedere la risoluzione del contratto"
+        },
+        {
+            "question": "L’impossibilità sopravvenuta della prestazione comporta",
+            "answers": [
+                "La risoluzione del contratto",
+                "La rescissione del contratto",
+                "L’annullamento del contratto"
+            ],
+            "correct_answer": "La risoluzione del contratto"
+        },
+        {
+            "question": "La compravendita è",
+            "answers": [
+                "Un contratto a titolo oneroso",
+                "Un contratto a titolo gratuito",
+                "Un atto unilaterale"
+            ],
+            "correct_answer": "Un contratto a titolo oneroso"
+        },
+        {
+            "question": "Nella compravendita una parte trasferisce all’altra",
+            "answers": [
+                "Il possesso di un bene",
+                "La proprietà di un bene",
+                "La detenzione di un bene"
+            ],
+            "correct_answer": "La proprietà di un bene"
+        },
+        {
+            "question": "La vendita di beni futuri è",
+            "answers": [
+                "Un contratto reale",
+                "Un contratto ad effetti reali",
+                "Un contratto ad effetti obbligatori"
+            ],
+            "correct_answer": "Un contratto ad effetti obbligatori"
+        },
+        {
+            "question": "La promessa di vendita (detta nel linguaggio comune “compromesso”) è",
+            "answers": [
+                "Una compravendita ad effetti obbligatori",
+                "Una semplice intesa precontrattuale",
+                "Un contratto preliminare"
+            ],
+            "correct_answer": "Un contratto preliminare"
+        },
+        {
+            "question": "La vendita di cosa altrui è",
+            "answers": [
+                "Un contratto reale",
+                "Un contratto ad effetti reali",
+                "Un contratto ad effetti obbligatori"
+            ],
+            "correct_answer": "Un contratto ad effetti obbligatori"
+        },
+        {
+            "question": "La procura, conferita al fine di effettuare una vendita immobiliare, dev",
+            "answers": [
+                "Redatta nella forma concordata fra le parti",
+                "Redatta in forma scritta",
+                "Conferita verbalmente"
+            ],
+            "correct_answer": "Redatta in forma scritta"
+        },
+        {
+            "question": "La garanzia per evizione è",
+            "answers": [
+                "Un elemento accidentale del contratto",
+                "Un elemento naturale del contratto",
+                "Un elemento essenziale del contratto"
+            ],
+            "correct_answer": "Un elemento naturale del contratto"
+        },
+        {
+            "question": "La garanzia per evizione opera",
+            "answers": [
+                "In presenza di vizi occulti del bene",
+                "In presenza di vizi evidenti del bene",
+                "In presenza di pretese giuridiche che altri soggetti fanno valere nei del compratore, al fine di privarlo, in tutto o in parte, del bene acquistato"
+            ],
+            "correct_answer": "In presenza di pretese giuridiche che altri soggetti fanno valere nei del compratore, al fine di privarlo, in tutto o in parte, del bene acquistato"
+        },
+        {
+            "question": "La garanzia per vizi è",
+            "answers": [
+                "Un elemento essenziale del contratto",
+                "Un elemento accidentale del contratto",
+                "Un elemento naturale del contratto"
+            ],
+            "correct_answer": "Un elemento naturale del contratto"
+        },
+        {
+            "question": "La vendita a prova è",
+            "answers": [
+                "Una vendita perfetta che comporta la possibilità, soltanto per l’acquirente, di chiedere la risoluzione",
+                "Una vendita sottoposta a condizione sospensiva",
+                "Una vendita sottoposta a condizione risolutiva"
+            ],
+            "correct_answer": "Una vendita sottoposta a condizione sospensiva"
+        },
+        {
+            "question": "La vendita di eredità deve essere fatta in forma scritta",
+            "answers": [
+                "Sì, a pena di nullità",
+                "No",
+                "Sì, soltanto se le parti lo ritengono opportuno"
+            ],
+            "correct_answer": "Sì, a pena di nullità"
+        },
+        {
+            "question": "Nella vendita con patto di riscatto è ammesso il patto con cui si concord",
+            "answers": [
+                "No, in quanto contrario a norme imperative di legge",
+                "Sì, purché le parti lo abbiano redatto per iscritto",
+                "Sì, in ogni caso"
+            ],
+            "correct_answer": "No, in quanto contrario a norme imperative di legge"
+        },
+        {
+            "question": "Nella vendita con patto di riscatto, entro quanto tempo il venditore può esercitare il diritto di riacquistare la proprietà di un bene immobile",
+            "answers": [
+                "Entro un anno",
+                "Entro due anni",
+                "Entro cinque anni"
+            ],
+            "correct_answer": "Entro cinque anni"
+        },
+        {
+            "question": "Per la vendita di beni immobili",
+            "answers": [
+                "Occorre sempre la forma scritta",
+                "Si richiede la forma scritta soltanto in alcuni casi",
+                "E’ sufficiente la forma verbale"
+            ],
+            "correct_answer": "Occorre sempre la forma scritta"
+        },
+        {
+            "question": "Qualora l’immobile sia venduto a corpo ma nel contratto sia comunque indicata la misura, cosa accade se la misura reale è inferiore o superiore a quella dichiarata",
+            "answers": [
+                "Non si fa luogo ad aumenti o riduzioni del prezzo in quanto la diversità della misura è in ogni caso ininfluente",
+                "Si fa luogo ad aumenti o riduzioni del prezzo, in proporzione alla diversità della misura",
+                "Non si verifica alcuna conseguenza salvo che la misura reale sia inferiore o superiore di un ventesimo rispetto a quella indicata nel contratto"
+            ],
+            "correct_answer": "Non si verifica alcuna conseguenza salvo che la misura reale sia inferiore o superiore di un ventesimo rispetto a quella indicata nel contratto"
+        },
+        {
+            "question": "La donazione è",
+            "answers": [
+                "Un atto unilaterale",
+                "Un contratto a titolo oneroso",
+                "Un contratto a titolo gratuito"
+            ],
+            "correct_answer": "Un contratto a titolo gratuito"
+        },
+        {
+            "question": "Per la validità della donazione di beni immobili o di beni mobili che non siano di modico valore si richiede",
+            "answers": [
+                "L’atto pubblico alla presenza di due testimoni",
+                "La scrittura privata",
+                "La scrittura privata autenticata"
+            ],
+            "correct_answer": "L’atto pubblico alla presenza di due testimoni"
+        },
+        {
+            "question": "La donazione stipulata senza il rispetto della forma prevista è",
+            "answers": [
+                "Annullabile",
+                "Rescindibile",
+                "Nulla"
+            ],
+            "correct_answer": "Nulla"
+        },
+        {
+            "question": "Il minore può fare donazioni",
+            "answers": [
+                "Sì",
+                "No",
+                "No, ad eccezione della donazione fatta nel suo contratto di matrimonio"
+            ],
+            "correct_answer": "No, ad eccezione della donazione fatta nel suo contratto di matrimonio"
+        },
+        {
+            "question": "La donazione di beni futuri è",
+            "answers": [
+                "Nulla",
+                "Annullabile",
+                "Rescindibile"
+            ],
+            "correct_answer": "Nulla"
+        },
+        {
+            "question": "La revocazione della donazione è ammessa",
+            "answers": [
+                "In nessun caso",
+                "Per ingratitudine del donatario o sopravvenienza di figli",
+                "Quando il donatario non adempia il modo"
+            ],
+            "correct_answer": "Per ingratitudine del donatario o sopravvenienza di figli"
+        },
+        {
+            "question": "La permuta comporta",
+            "answers": [
+                "Lo scambio reciproco di beni mobili",
+                "Lo scambio reciproco di beni immobili",
+                "Lo scambio reciproco di qualsiasi tipo di beni"
+            ],
+            "correct_answer": "Lo scambio reciproco di qualsiasi tipo di beni"
+        },
+        {
+            "question": "In un contratto che abbia ad oggetto il trasferimento non immediato della proprietà di un immobile da costruire, il costruttore è tenuto a prestare una fideiussione a favore dell’acquirente",
+            "answers": [
+                "No",
+                "Si, a condizione che sia concordato tra le parti",
+                "Si, a pena di nullità del contratto"
+            ],
+            "correct_answer": "Si, a pena di nullità del contratto"
+        },
+        {
+            "question": "La locazione è",
+            "answers": [
+                "Un atto unilaterale",
+                "Un contratto a titolo oneroso",
+                "Un contratto a titolo gratuito"
+            ],
+            "correct_answer": "Un contratto a titolo oneroso"
+        },
+        {
+            "question": "Nel contratto di locazione al conduttore",
+            "answers": [
+                "E’ attribuito il possesso della cosa",
+                "E’ attribuita la proprietà della cosa",
+                "E’ attribuita la detenzione della cosa"
+            ],
+            "correct_answer": "E’ attribuita la detenzione della cosa"
+        },
+        {
+            "question": "Quale normativa regola la locazione di immobili urbani destinati ad uso abitativo",
+            "answers": [
+                "Soltanto la L. 27 luglio 1978 n. 392",
+                "Soltanto la L. 9 dicembre 1998 n. 431",
+                "La L. 9 dicembre 1998 n. 431 e successive modifiche nonché la L."
+            ],
+            "correct_answer": "La L. 9 dicembre 1998 n. 431 e successive modifiche nonché la L."
+        },
+        {
+            "question": "Quando gli immobili si definiscono urbani",
+            "answers": [
+                "Quando si trovano in un capoluogo di provincia",
+                "Quanto si trovano in un capoluogo di Regione",
+                "Quando non sono adibiti a finalità produttive collegate allo sfruttamento di un fondo rustico"
+            ],
+            "correct_answer": "Quando non sono adibiti a finalità produttive collegate allo sfruttamento di un fondo rustico"
+        },
+        {
+            "question": "La legge 431/1998 prevede",
+            "answers": [
+                "Due tipologie di contratto, di cui una basata sulla libera determinazione del canone, l’altra basata sulla predisposizione di tipi di contratto e sulla determinazione del canone compreso fra limiti prefissati",
+                "Due tipologie di contratto con libera determinazione del canone",
+                "Due tipologie di contratto senza libera determinazione del canone"
+            ],
+            "correct_answer": "Due tipologie di contratto, di cui una basata sulla libera determinazione del canone, l’altra basata sulla predisposizione di tipi di contratto e sulla determinazione del canone compreso fra limiti prefissati"
+        },
+        {
+            "question": "Qual è la durata prevista per la prima tipologia contrattuale",
+            "answers": [
+                "Tre anni rinnovabili per un uguale periodo",
+                "Quattro anni rinnovabili per un uguale periodo fatti salvi i casi previsti dalla legge",
+                "Cinque anni non rinnovabili"
+            ],
+            "correct_answer": "Quattro anni rinnovabili per un uguale periodo fatti salvi i casi previsti dalla legge"
+        },
+        {
+            "question": "Le norme sulla durata del contratto sono modificabili dalle parti",
+            "answers": [
+                "Sì, in ogni caso",
+                "No, a pena di nullità del patto diretto a tale modifica",
+                "Sì, a condizione che si riduca l’entità del canone"
+            ],
+            "correct_answer": "No, a pena di nullità del patto diretto a tale modifica"
+        },
+        {
+            "question": "Qual è la durata prevista per la seconda tipologia contrattuale",
+            "answers": [
+                "Due anni rinnovabili per un uguale periodo (fatti salvi i contratti diretti a soddisfare esigenze abitative transitorie e per motivi di studio)",
+                "Tre anni (fatti salvi i contratti diretti a soddisfare esigenze abitative transitorie e per motivi di studio)",
+                "Sei anni (fatti salvi i contratti diretti a soddisfare esigenze abitative transitorie e per motivi di studio)"
+            ],
+            "correct_answer": "Tre anni (fatti salvi i contratti diretti a soddisfare esigenze abitative transitorie e per motivi di studio)"
+        },
+        {
+            "question": "Per i contratti di locazione di immobili urbani ad uso abitativo è richiesto",
+            "answers": [
+                "Solo l’accordo verbale",
+                "Solo la forma scritta",
+                "La forma scritta e la registrazione"
+            ],
+            "correct_answer": "La forma scritta e la registrazione"
+        },
+        {
+            "question": "Nella locazione di immobile urbano destinato ad uso abitativo, la sublocazione parziale dell’immobile",
+            "answers": [
+                "E’ sempre vietata",
+                "E’ sempre ammessa",
+                "E’ ammessa salvo patto contrario"
+            ],
+            "correct_answer": "E’ ammessa salvo patto contrario"
+        },
+        {
+            "question": "Nella locazione di immobile urbano ad uso abitativo è ammessa la cessione del contratto o la sublocazione totale da parte del conduttore",
+            "answers": [
+                "Sì, in ogni caso",
+                "No",
+                "Sì, a condizione che sia autorizzata dal locatore"
+            ],
+            "correct_answer": "Sì, a condizione che sia autorizzata dal locatore"
+        },
+        {
+            "question": "Nella locazione di immobile urbano ad uso abitativo, qualora si verifichi la morte del conduttore",
+            "answers": [
+                "Gli succedono nel contratto soltanto il coniuge ed i figli legittimi",
+                "Non è ammessa successione nel contratto",
+                "Gli succedono nel contratto il coniuge, gli eredi, i parenti ed affini con lui abitualmente conviventi, il convivente more uxorio ed il convivente che abbia cessato la convivenza quando vi sia prole naturale"
+            ],
+            "correct_answer": "Gli succedono nel contratto il coniuge, gli eredi, i parenti ed affini con lui abitualmente conviventi, il convivente more uxorio ed il convivente che abbia cessato la convivenza quando vi sia prole naturale"
+        },
+        {
+            "question": "Qual è l’entità del deposito cauzionale",
+            "answers": [
+                "L’ammontare non è predeterminato, ma è lasciato alla libera determinazione delle parti",
+                "Non può superare due mensilità del canone",
+                "Non può superare tre mensilità del canone"
+            ],
+            "correct_answer": "Non può superare tre mensilità del canone"
+        },
+        {
+            "question": "Per gli immobili urbani quali case signorili, castelli, ecc., si applica",
+            "answers": [
+                "La L. 27 luglio 1978, n. 392",
+                "Gli artt. 1571 e segg. c.c., fatti salvi i casi in cui le parti intendano applicare la L. 9 dicembre 1998, n. 431",
+                "La L. 9 dicembre 1998, n. 431"
+            ],
+            "correct_answer": "Gli artt. 1571 e segg. c.c., fatti salvi i casi in cui le parti intendano applicare la L. 9 dicembre 1998, n. 431"
+        },
+        {
+            "question": "La legge n. 431/1998 ha modificato la disciplina delle locazioni di immobili urbani ad uso “non abitativo” prevista dalla legge n. 392/1978",
+            "answers": [
+                "Sì, in quanto ha abrogato “per intero” la legge n. 392/1978",
+                "No, in quanto l’abrogazione riguarda “solo” le norme sulle locazioni di immobili destinati ad uso abitativo",
+                "Sì, in quanto contemporaneamente è stata emanata una nuova disciplina"
+            ],
+            "correct_answer": "No, in quanto l’abrogazione riguarda “solo” le norme sulle locazioni di immobili destinati ad uso abitativo"
+        },
+        {
+            "question": "Ai sensi della vigente normativa, la durata minima della locazione di immobili urbani destinati ad attività alberghiere è",
+            "answers": [
+                "Pari a nove anni",
+                "Pari a sei anni",
+                "Pari a quattro anni"
+            ],
+            "correct_answer": "Pari a nove anni"
+        },
+        {
+            "question": "Ai sensi della vigente disciplina, la durata minima della locazione degli immobili urbani destinati ad uso industriale, commerciale e artigianale è",
+            "answers": [
+                "Pari a sei anni",
+                "Pari a cinque anni",
+                "Pari a quattro anni"
+            ],
+            "correct_answer": "Pari a sei anni"
+        },
+        {
+            "question": "E’ ammessa per il locatore di immobili urbani ad uso “non abitativo” la facoltà di dare disdetta alla prima scadenza",
+            "answers": [
+                "No, in ogni caso",
+                "Sì, in ogni caso",
+                "No, ad eccezione dei casi previsti dalla legge"
+            ],
+            "correct_answer": "No, ad eccezione dei casi previsti dalla legge"
+        },
+        {
+            "question": "Come avviene la determinazione iniziale del canone degli immobili urbani ad uso “non abitativo”",
+            "answers": [
+                "In base all’accordo fra le parti",
+                "In base alla normativa sull’equo canone",
+                "In base agli accordi tra le associazioni di categoria"
+            ],
+            "correct_answer": "In base all’accordo fra le parti"
+        },
+        {
+            "question": "Nelle locazioni di immobili urbani destinati ad uso “non abitativo”, le indennità per la perdita dell’avviamento sono pari a",
+            "answers": [
+                "Ventiquattro mensilità (ventotto per le attività alberghiere)",
+                "Diciotto mensilità (ventuno per le attività alberghiere) C Quindici mensilità (venti per le attività alberghiere)",
+                "Quindici mensilità (venti per le attività alberghiere)"
+            ],
+            "correct_answer": "Diciotto mensilità (ventuno per le attività alberghiere) C Quindici mensilità (venti per le attività alberghiere)"
+        },
+        {
+            "question": "In presenza della risoluzione del contratto di locazione di immobile urbano ad uso “non abitativo”, per morosità del conduttore, spetta a quest’ultimo l’indennità per la perdita dell’avviamento",
+            "answers": [
+                "No",
+                "Sì",
+                "Sì, se la locazione è cominciata da più di quattro anni"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Se l’immobile urbano è destinato ad attività professionale, spetta al conduttore, allo scioglimento del contratto, l’indennità per la perdita dell’avviamento",
+            "answers": [
+                "No",
+                "Sì",
+                "Sì, a condizione che l’attività sia stabilmente esercitata"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Entro quanto tempo il conduttore deve esercitare il diritto di prelazione in caso di vendita dell’immobile urbano adibito ad uso “non abitativo”",
+            "answers": [
+                "Sessanta giorni dalla data di ricezione della notifica della volontà di vendere",
+                "Sei mesi dalla data di ricezione della notifica della volontà di vendere",
+                "Novanta giorni dalla data di ricezione della notifica della volontà di vendere"
+            ],
+            "correct_answer": "Sessanta giorni dalla data di ricezione della notifica della volontà di vendere"
+        },
+        {
+            "question": "Quando la locazione ha ad oggetto una cosa produttiva, si definisce",
+            "answers": [
+                "Locazione produttiva",
+                "Locazione imprenditoriale",
+                "Affitto"
+            ],
+            "correct_answer": "Affitto"
+        },
+        {
+            "question": "Il comodato, il mutuo e il deposito sono",
+            "answers": [
+                "Contratti reali",
+                "Contratti ad effetti reali",
+                "Contratti che attribuiscono diritti reali di godimento"
+            ],
+            "correct_answer": "Contratti reali"
+        },
+        {
+            "question": "Il contratto di comodato può avere ad oggetto",
+            "answers": [
+                "Tutti i tipi di beni",
+                "Soltanto i beni mobili",
+                "Soltanto i beni immobili"
+            ],
+            "correct_answer": "Tutti i tipi di beni"
+        },
+        {
+            "question": "Con il contratto di comodato al comodatario è attribuito",
+            "answers": [
+                "Il possesso della cosa",
+                "La proprietà della cosa C  La detenzione della cosa",
+                "La detenzione della cosa"
+            ],
+            "correct_answer": "La detenzione della cosa"
+        },
+        {
+            "question": "Il comodatario ha il potere di dare in uso ad altri la cosa oggetto de",
+            "answers": [
+                "Sì",
+                "No",
+                "Sì, purché abbia il consenso del comodante"
+            ],
+            "correct_answer": "Sì, purché abbia il consenso del comodante"
+        },
+        {
+            "question": "Con il contratto di mutuo",
+            "answers": [
+                "La proprietà delle cose passa al mutuatario",
+                "La proprietà delle cose resta al mutuante",
+                "Soltanto la detenzione delle cose passa al mutuatario"
+            ],
+            "correct_answer": "La proprietà delle cose passa al mutuatario"
+        },
+        {
+            "question": "Il mutuo si presume",
+            "answers": [
+                "Produttivo di interessi, salvo diversa volontà delle parti",
+                "Improduttivo di interessi, salvo diversa volontà delle parti",
+                "Sempre produttivo di interessi,in quanto non è ammesso patto"
+            ],
+            "correct_answer": "Produttivo di interessi, salvo diversa volontà delle parti"
+        },
+        {
+            "question": "Qualora il mutuatario non paghi gli interessi convenuti, il mutuante può",
+            "answers": [
+                "Chiedere la risoluzione del contratto",
+                "Chiedere l’annullamento del contratto",
+                "Far dichiarare nullo il contratto"
+            ],
+            "correct_answer": "Chiedere la risoluzione del contratto"
+        },
+        {
+            "question": "Il contratto di deposito",
+            "answers": [
+                "E’ naturalmente gratuito salvo diversa volontà delle parti",
+                "Si presume oneroso",
+                "Si presume gratuito e non è ammessa la prova contraria"
+            ],
+            "correct_answer": "E’ naturalmente gratuito salvo diversa volontà delle parti"
+        },
+        {
+            "question": "Il contratto di deposito può avere ad oggetto beni immobili",
+            "answers": [
+                "No",
+                "Sì",
+                "Sì, a condizione che il contratto sia stipulato per iscritto"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Il depositario può utilizzare le cose depositate presso di lui",
+            "answers": [
+                "Sì",
+                "No",
+                "Soltanto con il consenso del depositante"
+            ],
+            "correct_answer": "Soltanto con il consenso del depositante"
+        },
+        {
+            "question": "Il depositario può dare ad altri in deposito le cose ricevute",
+            "answers": [
+                "No",
+                "Sì",
+                "Sì, in presenza del consenso del depositante"
+            ],
+            "correct_answer": "Sì, in presenza del consenso del depositante"
+        },
+        {
+            "question": "Se il deposito è irregolare ossia ha per oggetto una quantità di denaro o altre cose fungibili",
+            "answers": [
+                "La proprietà delle cose passa al depositario",
+                "La proprietà resta al depositante ed al depositario passa il possesso",
+                "Al depositario è attribuita soltanto la detenzione"
+            ],
+            "correct_answer": "La proprietà delle cose passa al depositario"
+        },
+        {
+            "question": "Il titolo di credito è",
+            "answers": [
+                "Un documento che ha esclusivamente efficacia probatoria del credito",
+                "Un documento che identifica esclusivamente l’avente diritto alla prestazione",
+                "Un documento che incorpora il diritto ad ottenere una determinata prestazione"
+            ],
+            "correct_answer": "Un documento che incorpora il diritto ad ottenere una determinata prestazione"
+        },
+        {
+            "question": "Il titolo di credito al portatore si trasferisce",
+            "answers": [
+                "Mediante la consegna del titolo",
+                "Mediante la girata",
+                "Mediante la girata autenticata dal notaio"
+            ],
+            "correct_answer": "Mediante la consegna del titolo"
+        },
+        {
+            "question": "Il titolo di credito all’ordine si trasferisce",
+            "answers": [
+                "Mediante la consegna del titolo",
+                "Mediante la girata autenticata dal notaio",
+                "Mediante la semplice girata"
+            ],
+            "correct_answer": "Mediante la semplice girata"
+        },
+        {
+            "question": "Per titoli all’ordine smarriti, sottratti o distrutti",
+            "answers": [
+                "E’ ammessa la procedura di ammortamento del titolo",
+                "Non è ammessa la procedura di ammortamento",
+                "E’ ammessa soltanto in determinati casi"
+            ],
+            "correct_answer": "E’ ammessa la procedura di ammortamento del titolo"
+        },
+        {
+            "question": "La cambiale è",
+            "answers": [
+                "Un titolo di credito all’ordine",
+                "Un titolo di credito al portatore",
+                "Un titolo di credito nominativo"
+            ],
+            "correct_answer": "Un titolo di credito all’ordine"
+        },
+        {
+            "question": "Chi è il trattario",
+            "answers": [
+                "Colui che nella tratta dà l’ordine di effettuare il pagamento",
+                "Colui che è designato a pagare",
+                "Il beneficiario del pagamento"
+            ],
+            "correct_answer": "Colui che è designato a pagare"
+        },
+        {
+            "question": "La promessa di pagare una determinata somma contenuta nel vaglia cambiario",
+            "answers": [
+                "Può essere condizionata",
+                "Non può mai essere condizionata",
+                "Può essere condizionata in alcuni casi"
+            ],
+            "correct_answer": "Non può mai essere condizionata"
+        },
+        {
+            "question": "E’ ammessa la girata condizionata",
+            "answers": [
+                "No",
+                "Sì, sempre",
+                "Sì, in alcuni casi previsti dal Codice Civile"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Chi è l’emittente",
+            "answers": [
+                "Colui che nel vaglia cambiario promette il pagamento",
+                "Colui che emette la tratta",
+                "Colui che nella tratta è designato a pagare"
+            ],
+            "correct_answer": "Colui che nel vaglia cambiario promette il pagamento"
+        },
+        {
+            "question": "L’avallo è",
+            "answers": [
+                "Una obbligazione cambiaria di garanzia",
+                "Una garanzia reale",
+                "Un contratto che si identifica con la fideiussione"
+            ],
+            "correct_answer": "Una obbligazione cambiaria di garanzia"
+        },
+        {
+            "question": "L’assegno circolare è",
+            "answers": [
+                "Un titolo di credito all’ordine",
+                "Un titolo di credito nominativo",
+                "Un titolo di credito al portatore"
+            ],
+            "correct_answer": "Un titolo di credito all’ordine"
+        },
+        {
+            "question": "Dovendo scegliere fra un assegno bancario ed uno circolare, quale preferireste ricevere in pagamento",
+            "answers": [
+                "Un assegno bancario",
+                "Un assegno circolare",
+                "Indifferentemente l’uno o l’altro"
+            ],
+            "correct_answer": "Un assegno circolare"
+        },
+        {
+            "question": "L’assegno bancario può essere accettato",
+            "answers": [
+                "Sì, in quanto ha le stesse caratteristiche della cambiale tratta",
+                "No, fatti però salvi i casi previsti dalla legge",
+                "No, pertanto ogni menzione di accettazione riportata sull’assegno si ha per non apposta"
+            ],
+            "correct_answer": "No, pertanto ogni menzione di accettazione riportata sull’assegno si ha per non apposta"
+        },
+        {
+            "question": "L’assegno bancario può essere garantito da avallo",
+            "answers": [
+                "Sì",
+                "No",
+                "Sì, a condizione che l’avallo sia dato per tutta la somma"
+            ],
+            "correct_answer": "Sì"
+        },
+        {
+            "question": "L’assegno bancario è",
+            "answers": [
+                "Pagabile a vista",
+                "Pagabile a certo tempo vista",
+                "Pagabile a certo tempo data"
+            ],
+            "correct_answer": "Pagabile a vista"
+        },
+        {
+            "question": "L’assegno circolare e'",
+            "answers": [
+                "E’ emesso da un Istituto di credito a ciò autorizzato dall’autorità competente",
+                "E’ emesso da qualsiasi banca",
+                "E’ emesso dal cliente che dà ordine alla banca di effettuare il pagamento"
+            ],
+            "correct_answer": "E’ emesso da un Istituto di credito a ciò autorizzato dall’autorità competente"
+        },
+        {
+            "question": "L’imprenditore è colui che organizza l’attività economica",
+            "answers": [
+                "A proprio rischio anche occasionalmente",
+                "A proprio rischio senza scopo di lucro",
+                "Professionalmente, a proprio rischio e con scopo di lucro"
+            ],
+            "correct_answer": "Professionalmente, a proprio rischio e con scopo di lucro"
+        },
+        {
+            "question": "L’imprenditore commerciale esercita",
+            "answers": [
+                "Esclusivamente attività diretta alla produzione di beni o servizi",
+                "Esclusivamente attività intermediaria nella circolazione di beni",
+                "Tutte le attività previste dall’art. 2195 c.c."
+            ],
+            "correct_answer": "Tutte le attività previste dall’art. 2195 c.c."
+        },
+        {
+            "question": "Ai sensi dell’art. 2083 c.c., è piccolo imprenditore colui che esercita l’attività",
+            "answers": [
+                "Con mezzi non industriali",
+                "Prevalentemente con il lavoro proprio e dei componenti della famiglia",
+                "Soltanto con il lavoro manuale"
+            ],
+            "correct_answer": "Prevalentemente con il lavoro proprio e dei componenti della famiglia"
+        },
+        {
+            "question": "La ditta è",
+            "answers": [
+                "Il nome sotto cui agisce l’imprenditore individuale",
+                "L’elemento che contraddistingue il locale nel quale opera l’imprenditore Individuale",
+                "L’insieme dei beni organizzati dall’imprenditore per l’esercizio dell’impresa"
+            ],
+            "correct_answer": "Il nome sotto cui agisce l’imprenditore individuale"
+        },
+        {
+            "question": "L’azienda è",
+            "answers": [
+                "Il nome sotto cui l’imprenditore esercita l’attività",
+                "Il volume degli affari di una impresa",
+                "L’insieme dei beni organizzati dall’imprenditore per l’esercizio dell’impresa"
+            ],
+            "correct_answer": "L’insieme dei beni organizzati dall’imprenditore per l’esercizio dell’impresa"
+        },
+        {
+            "question": "E’ ammissibile che la ditta sia identificata con un nome di fantasia",
+            "answers": [
+                "No",
+                "Sì",
+                "Sì, a condizione che contenga anche il cognome o la sigla dell’imprenditore"
+            ],
+            "correct_answer": "Sì, a condizione che contenga anche il cognome o la sigla dell’imprenditore"
+        },
+        {
+            "question": "L’institore è",
+            "answers": [
+                "Colui che è preposto dal titolare all’esercizio di un’impresa commerciale, di una sede secondaria o di un ramo particolare dell’impresa",
+                "Colui a cui è demandata soltanto l’organizzazione interna dell’impresa",
+                "Colui che può sostituire l’imprenditore esclusivamente in caso di assenza o impedimento di questi"
+            ],
+            "correct_answer": "Colui che è preposto dal titolare all’esercizio di un’impresa commerciale, di una sede secondaria o di un ramo particolare dell’impresa"
+        },
+        {
+            "question": "I commessi possono compiere",
+            "answers": [
+                "Tutti gli atti inerenti l’esercizio dell’impresa",
+                "Tutti gli atti inerenti l’esercizio dell’impresa con esclusione di quelli di straordinaria amministrazione",
+                "Soltanto quegli atti che ordinariamente comporta la specie di operazioni a cui sono incaricati"
+            ],
+            "correct_answer": "Soltanto quegli atti che ordinariamente comporta la specie di operazioni a cui sono incaricati"
+        },
+        {
+            "question": "L’impresa familiare è quella a cui possono collaborare",
+            "answers": [
+                "Soltanto i figli ed il coniuge dell’imprenditore",
+                "Soltanto il coniuge",
+                "Soltanto il coniuge, i parenti entro il terzo grado e gli affini entro il secondo"
+            ],
+            "correct_answer": "Soltanto il coniuge, i parenti entro il terzo grado e gli affini entro il secondo"
+        },
+        {
+            "question": "Il diritto di partecipazione all’impresa familiare è trasferibile",
+            "answers": [
+                "Sì, purché il trasferimento sia a favore di uno dei soggetti che può partecipare all’impresa familiare",
+                "No",
+                "Sì, a chiunque"
+            ],
+            "correct_answer": "Sì, purché il trasferimento sia a favore di uno dei soggetti che può partecipare all’impresa familiare"
+        },
+        {
+            "question": "Il Registro delle Imprese",
+            "answers": [
+                "Non è ancora stato istituito",
+                "E’ stato istituito nel 1993 in attuazione a quanto previsto dal Codice Civile",
+                "Non è previsto da alcun articolo del Codice Civile"
+            ],
+            "correct_answer": "E’ stato istituito nel 1993 in attuazione a quanto previsto dal Codice Civile"
+        },
+        {
+            "question": "Nell’impresa familiare, in caso di divisione ereditaria o di trasferimento di azienda",
+            "answers": [
+                "Ai partecipanti spetta il diritto di prelazione",
+                "Ai partecipanti non spetta il diritto di prelazione",
+                "Ai partecipanti spetta il diritto di prelazione soltanto se previsto dall’atto costitutivo dell’impresa familiare"
+            ],
+            "correct_answer": "Ai partecipanti spetta il diritto di prelazione"
+        },
+        {
+            "question": "La società è",
+            "answers": [
+                "Una comunione di godimento",
+                "Un accordo di garanzia",
+                "Una gestione collettiva dell’impresa"
+            ],
+            "correct_answer": "Una gestione collettiva dell’impresa"
+        },
+        {
+            "question": "Il contratto di associazione in partecipazione",
+            "answers": [
+                "Dà vita ad una società di persone",
+                "Dà vita ad una società di capitali",
+                "Non dà vita ad una società, in quanto l’impresa è gestita soltanto dall’associante che attribuisce all’associato una partecipazione agli utili ed alle perdite"
+            ],
+            "correct_answer": "Non dà vita ad una società, in quanto l’impresa è gestita soltanto dall’associante che attribuisce all’associato una partecipazione agli utili ed alle perdite"
+        },
+        {
+            "question": "Come si chiama l’atto con il quale nasce una società",
+            "answers": [
+                "Statuto",
+                "Atto costitutivo",
+                "Atto amministrativo"
+            ],
+            "correct_answer": "Atto costitutivo"
+        },
+        {
+            "question": "Il patto leonino è",
+            "answers": [
+                "Annullabile",
+                "Nullo",
+                "Rescindibile"
+            ],
+            "correct_answer": "Nullo"
+        },
+        {
+            "question": "Nelle società in nome collettivo la responsabilità dei soci è",
+            "answers": [
+                "Solidale, sussidiaria ed illimitata",
+                "Limitata",
+                "In parte limitata ed in parte illimitata"
+            ],
+            "correct_answer": "Solidale, sussidiaria ed illimitata"
+        },
+        {
+            "question": "La personalità giuridica è acquistata dalla società di capitali con",
+            "answers": [
+                "L’iscrizione nel Registro delle ditte",
+                "L’iscrizione all’Ufficio del registro",
+                "L’iscrizione nel Registro delle imprese"
+            ],
+            "correct_answer": "L’iscrizione nel Registro delle imprese"
+        },
+        {
+            "question": "La società semplice può avere, come oggetto sociale",
+            "answers": [
+                "Qualsiasi tipo di attività",
+                "Solo le attività commerciali che non richiedano l’impiego di grandi capitali",
+                "Solo le attività commerciali"
+            ],
+            "correct_answer": "Solo le attività commerciali"
+        },
+        {
+            "question": "Nelle società in nome collettivo ha effetto nei confronti dei terzi il patto con cui si esclude la responsabilità di uno o più soci per le obbligazioni sociali",
+            "answers": [
+                "No",
+                "Si",
+                "Sì, soltanto in alcuni casi"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Nelle società in nome collettivo i creditori",
+            "answers": [
+                "Debbono rivalersi prima sul patrimonio sociale e poi su quello dei singoli soci",
+                "Debbono rivalersi prima sul patrimonio dei soci e poi su quello della società",
+                "Possono scegliere quale patrimonio aggredire in prima istanza"
+            ],
+            "correct_answer": "Debbono rivalersi prima sul patrimonio sociale e poi su quello dei singoli soci"
+        },
+        {
+            "question": "I soci accomandatari sono",
+            "answers": [
+                "I soggetti che rispondono delle obbligazioni sociali nei limiti delle quote versate",
+                "I soggetti che amministrano la società e rispondono illimitatamente, solidalmente e sussidiariamente per le obbligazioni sociali",
+                "I soggetti che amministrano la società senza rispondere delle obbligazioni sociali"
+            ],
+            "correct_answer": "I soggetti che amministrano la società e rispondono illimitatamente, solidalmente e sussidiariamente per le obbligazioni sociali"
+        },
+        {
+            "question": "La mancata iscrizione di una società in nome collettivo nel Registro delle imprese comporta",
+            "answers": [
+                "La nascita di una società irregolare",
+                "L’inesistenza della società",
+                "Lo scioglimento della società"
+            ],
+            "correct_answer": "La nascita di una società irregolare"
+        },
+        {
+            "question": "Dove troviamo i soci accomandatari e i soci accomandanti",
+            "answers": [
+                "Nella S.p.A.",
+                "Nella S.n.c.",
+                "Nella S.a.p.A. e nella S.a.s."
+            ],
+            "correct_answer": "Nella S.a.p.A. e nella S.a.s."
+        },
+        {
+            "question": "Nelle società per azioni",
+            "answers": [
+                "I soci rispondono illimitatamente per le obbligazioni sociali",
+                "I soci rispondono limitatamente alla propria quota",
+                "I soci rispondono illimitatamente per le obbligazioni sociali soltanto se lo stabilisce l’autorità giudiziaria"
+            ],
+            "correct_answer": "I soci rispondono limitatamente alla propria quota"
+        },
+        {
+            "question": "Nella società per azioni le quote dei soci sono rappresentate da",
+            "answers": [
+                "Azioni",
+                "Obbligazioni",
+                "Certificati di quota"
+            ],
+            "correct_answer": "Azioni"
+        },
+        {
+            "question": "Le azioni ordinarie di una società per azioni sono",
+            "answers": [
+                "Titoli all’ordine",
+                "Titoli nominativi o al portatore, salvo diversa previsione dello statuto o della legge",
+                "Titoli al portatore"
+            ],
+            "correct_answer": "Titoli nominativi o al portatore, salvo diversa previsione dello statuto o della legge"
+        },
+        {
+            "question": "Le società a responsabilità limitata possono emettere azioni",
+            "answers": [
+                "Sì",
+                "No",
+                "Sì, soltanto se autorizzate dal giudice"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Qual è il capitale minimo necessario per costituire una società per azioni",
+            "answers": [
+                "euro 150.000",
+                "euro 120.000",
+                "euro 10.000"
+            ],
+            "correct_answer": "euro 120.000"
+        },
+        {
+            "question": "Nella società a responsabilità limitata, chi risponde per le obbligazioni sociali",
+            "answers": [
+                "I soci con il proprio patrimonio",
+                "I soci con il proprio patrimonio soltanto se lo stabilisce l’autorità giudiziaria",
+                "Soltanto la società con il proprio patrimonio"
+            ],
+            "correct_answer": "Soltanto la società con il proprio patrimonio"
+        },
+        {
+            "question": "La società cooperativa si caratterizza tra l’altro",
+            "answers": [
+                "Per avere un capitale rigido",
+                "Per avere un capitale variabile e con un ammontare minimo non predeterminato",
+                "Per avere un capitale non inferiore a euro 15.000"
+            ],
+            "correct_answer": "Per avere un capitale variabile e con un ammontare minimo non predeterminato"
+        },
+        {
+            "question": "Nelle società cooperative per le obbligazioni sociali in caso di fallimento o liquidazione coatta amministrativa",
+            "answers": [
+                "Rispondono la cooperativa con il suo patrimonio nonché gli amministratori indicati dall’atto costitutivo",
+                "Rispondono sia la cooperativa che i soci, limitatamente ad un ammontare  stabilito dall’autorità giudiziaria",
+                "Risponde soltanto la cooperativa con il suo patrimonio"
+            ],
+            "correct_answer": "Risponde soltanto la cooperativa con il suo patrimonio"
+        },
+        {
+            "question": "La società cooperativa ha",
+            "answers": [
+                "Fine mutualistico",
+                "Fine umanitario",
+                "Fine di lucro"
+            ],
+            "correct_answer": "Fine mutualistico"
+        },
+        {
+            "question": "Quale sistema di amministrazione può adottare la società per azioni",
+            "answers": [
+                "Soltanto quello tradizionale (o classico)",
+                "Quello tradizionale (o classico) oppure, se lo statuto lo consente, quello dualistico o quello monistico",
+                "Soltanto quello dualistico"
+            ],
+            "correct_answer": "Quello tradizionale (o classico) oppure, se lo statuto lo consente, quello dualistico o quello monistico"
+        },
+        {
+            "question": "Con l’entrata in vigore del nuovo diritto societario, il capitale sociale minimo delle s.r.l.",
+            "answers": [
+                "E’ rimasto invariato (euro 10.000)",
+                "E’ stato aumentato a 15.000 euro",
+                "E’ stato aumentato a 20.000 euro"
+            ],
+            "correct_answer": "E’ rimasto invariato (euro 10.000)"
+        },
+        {
+            "question": "La società per azioni può essere costituita a tempo indeterminato",
+            "answers": [
+                "No, perché la durata massima è pari a cinque anni",
+                "No, perché la durata massima è pari a dieci anni",
+                "Si"
+            ],
+            "correct_answer": "Si"
+        },
+        {
+            "question": "Dove e da chi è dichiarato il fallimento",
+            "answers": [
+                "Dal Tribunale del luogo ove l’imprenditore ha la residenza",
+                "Dal Tribunale del luogo ove è costituito il comitato dei creditori",
+                "Dal Tribunale del luogo ove l’imprenditore ha la sede principale dell’impresa"
+            ],
+            "correct_answer": "Dal Tribunale del luogo ove l’imprenditore ha la sede principale dell’impresa"
+        },
+        {
+            "question": "L’imprenditore commerciale è soggetto alle procedure concorsuali",
+            "answers": [
+                "Si, a meno che possa dimostrare il possesso congiunto dei requisiti economico – Finanziari previsti dalla Legge (art. 1,D. Lgs. 12 settembre 2007, n. 169)",
+                "No",
+                "Si, in ogni caso"
+            ],
+            "correct_answer": "Si, a meno che possa dimostrare il possesso congiunto dei requisiti economico – Finanziari previsti dalla Legge (art. 1,D. Lgs. 12 settembre 2007, n. 169)"
+        },
+        {
+            "question": "Il giudice delegato è un organo della procedura fallimentare",
+            "answers": [
+                "Sì",
+                "No",
+                "Lo è soltanto se la massa fallimentare supera euro 51.645"
+            ],
+            "correct_answer": "Sì"
+        },
+        {
+            "question": "Il curatore fallimentare è colui che",
+            "answers": [
+                "Dichiara aperto il fallimento",
+                "Ha funzioni consultive e di controllo sugli altri organi fallimentari",
+                "Amministra il patrimonio fallimentare e compie tutte le operazioni della procedura inerenti le sue funzioni sotto la vigilanza degli Organi preposti"
+            ],
+            "correct_answer": "Amministra il patrimonio fallimentare e compie tutte le operazioni della procedura inerenti le sue funzioni sotto la vigilanza degli Organi preposti"
+        },
+        {
+            "question": "Gli Enti pubblici sono soggetti alle procedure concorsuali",
+            "answers": [
+                "Sì",
+                "No",
+                "Sì, soltanto in alcuni casi"
+            ],
+            "correct_answer": "No"
+        },
+        {
+            "question": "Chi esercita la revocatoria fallimentare",
+            "answers": [
+                "Lo stesso fallito",
+                "Il comitato dei creditori",
+                "Il curatore fallimentare"
+            ],
+            "correct_answer": "Il curatore fallimentare"
+        },
+        {
+            "question": "Il fallimento di una società con soci a responsabilità illimitata",
+            "answers": [
+                "Comporta soltanto il fallimento dei soci che non hanno ancora effettuato i dovuti versamenti",
+                "Non comporta il fallimento dei soci illimitatamente responsabili",
+                "Comporta il fallimento dei soci illimitatamente responsabili"
+            ],
+            "correct_answer": "Comporta il fallimento dei soci illimitatamente responsabili"
+        },
+        {
+            "question": "In caso di fallimento di una società per azioni",
+            "answers": [
+                "Falliscono anche i soci, gli amministratori e i direttori generali",
+                "Fallisce soltanto l’organismo societario",
+                "Fallisce chi ha commesso reati concorsuali"
+            ],
+            "correct_answer": "Fallisce soltanto l’organismo societario"
+        },
+        {
+            "question": "Il fallimento della società in accomandita semplice comporta",
+            "answers": [
+                "Il fallimento di tutti i soci",
+                "Il fallimento dei soci accomandanti",
+                "Il fallimento dei soci accomandatari"
+            ],
+            "correct_answer": "Il fallimento dei soci accomandatari"
+        },
+        {
+            "question": "I reati concorsuali",
+            "answers": [
+                "Sono quelli collegati ad una procedura concorsuale",
+                "Sono quelli commessi in concorso tra il fallito e i creditori",
+                "Sono quelli commessi tra il fallito e il curatore"
+            ],
+            "correct_answer": "Sono quelli collegati ad una procedura concorsuale"
+        },
+        {
+            "question": "Il concordato preventivo e'",
+            "answers": [
+                "Una procedura concorsuale che ha lo scopo di evitare il fallimento",
+                "Un accordo per migliorare le condizioni imposte al debitore con il fallimento",
+                "Un modo di chiusura del fallimento"
+            ],
+            "correct_answer": "Una procedura concorsuale che ha lo scopo di evitare il fallimento"
+        },
+        {
+            "question": "Durante la procedura di concordato preventivo",
+            "answers": [
+                "L’amministrazione dei beni dell’imprenditore e l’esercizio dell’impresa sono affidati al comitato dei creditori",
+                "L’amministrazione dei beni dell’imprenditore e l’esercizio dell’impresa sono affidati al commissario giudiziale che opera sotto la direzione del giudice delegato",
+                "L’imprenditore conserva l’amministrazione dei suoi beni e l’esercizio dell’impresa sotto la vigilanza del commissario giudiziale e la direzione del giudice delegato"
+            ],
+            "correct_answer": "L’imprenditore conserva l’amministrazione dei suoi beni e l’esercizio dell’impresa sotto la vigilanza del commissario giudiziale e la direzione del giudice delegato"
+        },
+        {
+            "question": "Che cos’è l’esdebitazione",
+            "answers": [
+                "Beneficio della liberazione dai debiti residui a cui può essere ammesso il fallito persona fisica in presenza di determinate condizioni",
+                "Il patto che interviene tra debitore e creditori per evitare l’inizio della procedura fallimentare",
+                "Il patto che interviene tra debitore e creditori per ridurre del 50 % i debiti prima della chiusura del fallimento"
+            ],
+            "correct_answer": "Il patto che interviene tra debitore e creditori per evitare l’inizio della procedura fallimentare"
+        },
+        {
+            "question": "Durante la procedura fallimentare è ammesso l’esercizio provvisorio dell’impresa del fallito",
+            "answers": [
+                "Si, è sempre obbligatorio",
+                "No, è vietato",
+                "Si, se disposto dalla sentenza dichiarativa di fallimento"
+            ],
+            "correct_answer": "Si, se disposto dalla sentenza dichiarativa di fallimento"
+        },
+        {
+            "question": "L’amministrazione controllata",
+            "answers": [
+                "E’ stata modificata dalla vigente normativa",
+                "Continua ad essere applicabile per 10 anni dall’entrata in vigore della nuova legge",
+                "E’ stata abrogata"
+            ],
+            "correct_answer": "E’ stata abrogata"
+        },
+        {
+            "question": "Il registro dei falliti",
+            "answers": [
+                "E’ stato soppresso dalla vigente normativa",
+                "E’ ancora operante presso la Cancelleria del Tribunale",
+                "E’ stato affidato alle Camere di Commercio"
+            ],
+            "correct_answer": "E’ stato soppresso dalla vigente normativa"
+        },
+        {
+            "question": "Se fra i coniugi non è stato stipulato alcun accordo, il regime patrimoniale della famiglia è quello di",
+            "answers": [
+                "Separazione dei beni",
+                "Comunione legale dei beni",
+                "Fondo patrimoniale"
+            ],
+            "correct_answer": "Comunione legale dei beni"
+        },
+        {
+            "question": "Le convenzioni matrimoniali devono essere stipulate",
+            "answers": [
+                "Verbalmente",
+                "Mediante scrittura privata autenticata",
+                "Per atto pubblico"
+            ],
+            "correct_answer": "Per atto pubblico"
+        },
+        {
+            "question": "I coniugi possono mutare il loro regime patrimoniale",
+            "answers": [
+                "No",
+                "Soltanto mediante apposita convenzione verbale",
+                "Soltanto mediante convenzione redatta in qualsiasi momento per atto pubblico e annotata a margine dell’atto di matrimonio"
+            ],
+            "correct_answer": "Soltanto mediante convenzione redatta in qualsiasi momento per atto pubblico e annotata a margine dell’atto di matrimonio"
+        },
+        {
+            "question": "In regime di comunione legale dei beni, la vendita di un bene immobile effettuata da uno solo dei coniugi senza il consenso dell’altro",
+            "answers": [
+                "Rescindibile",
+                "Annullabile",
+                "Nulla"
+            ],
+            "correct_answer": "Annullabile"
+        },
+        {
+            "question": "In regime di comunione legale, le aziende gestite da entrambi i coniugi",
+            "answers": [
+                "Fanno sempre parte della comunione",
+                "Non fanno parte della comunione",
+                "Fanno parte della comunione se costituite dopo il matrimonio"
+            ],
+            "correct_answer": "Fanno parte della comunione se costituite dopo il matrimonio"
+        },
+        {
+            "question": "In regime di comunione legale, i proventi dell'attivita' separata di ciascuno dei coniugi",
+            "answers": [
+                "Fanno sempre parte della comunione",
+                "Non fanno parte della comunione",
+                "Fanno parte della comunione qualora, alla data dello scioglimento, non siano stati consumati"
+            ],
+            "correct_answer": "Fanno parte della comunione qualora, alla data dello scioglimento, non siano stati consumati"
+        },
+        {
+            "question": "Nella comunione legale a chi spetta l'amministrazione ordinaria dei beni",
+            "answers": [
+                "Al marito",
+                "Ad entrambi i coniugi congiuntamente",
+                "Ad entrambi i coniugi disgiuntamente"
+            ],
+            "correct_answer": "Ad entrambi i coniugi disgiuntamente"
+        },
+        {
+            "question": "In regime di comunione legale e' ammessa la convalida da parte di un coniuge della vendita di beni immobili effettuata dall'altro senza il suo consenso",
+            "answers": [
+                "No",
+                "Si",
+                "Si, soltanto se trattasi di beni destinati all’esercizio dell’impresa familiare"
+            ],
+            "correct_answer": "Si"
+        },
+        {
+            "question": "La vendita di un bene mobile facente parte della comunione legale, effettuata da uno dei coniugi senza il consenso dell’altro, comporta",
+            "answers": [
+                "La nullita' dell’atto",
+                "L’annullabilita'",
+                "L’obbligo, per il coniuge che ha compiuto l’atto, di ricostituire la comunione nello stato in cui si trovava prima del compimento dell’atto stesso oppure di pagare l’equivalente in denaro"
+            ],
+            "correct_answer": "L’obbligo, per il coniuge che ha compiuto l’atto, di ricostituire la comunione nello stato in cui si trovava prima del compimento dell’atto stesso oppure di pagare l’equivalente in denaro"
+        },
+        {
+            "question": "La comunione legale si scioglie",
+            "answers": [
+                "Soltanto per morte di uno dei coniugi",
+                "Per le cause previste dal Codice Civile",
+                "Soltanto per scioglimento del matrimonio"
+            ],
+            "correct_answer": "Per le cause previste dal Codice Civile"
+        },
+        {
+            "question": "Il fondo patrimoniale",
+            "answers": [
+                "Puo' essere costituito, oltre che dai coniugi (uno o entrambi), anche da terzi",
+                "Puo' essere costituito soltanto dai coniugi",
+                "Puo' essere costituito soltanto da uno dei coniugi"
+            ],
+            "correct_answer": "Puo' essere costituito, oltre che dai coniugi (uno o entrambi), anche da terzi"
+        },
+        {
+            "question": "Costituiscono oggetto del fondo patrimoniale",
+            "answers": [
+                "Soltanto i beni immobili",
+                "Soltanto i beni mobili",
+                "I beni immobili, i beni mobili iscritti nei pubblici registri ed i titoli di credito"
+            ],
+            "correct_answer": "I beni immobili, i beni mobili iscritti nei pubblici registri ed i titoli di credito"
+        },
+        {
+            "question": "La proprieta' dei beni oggetto del fondo patrimoniale spetta",
+            "answers": [
+                "Ad entrambi i coniugi, in assenza di diversa pattuizione",
+                "Ai figli",
+                "Ad uno solo dei coniugi"
+            ],
+            "correct_answer": "Ad entrambi i coniugi, in assenza di diversa pattuizione"
+        },
+        {
+            "question": "Il testamento e'",
+            "answers": [
+                "Un atto unilaterale di volontà del testatore",
+                "Un atto bilaterale quando esistono due coeredi",
+                "Un atto plurilaterale in presenza di più coeredi"
+            ],
+            "correct_answer": "Un atto unilaterale di volontà del testatore"
+        },
+        {
+            "question": "La successione si apre",
+            "answers": [
+                "Nel luogo dell’ultimo domicilio del defunto",
+                "Nel luogo di residenza dell’erede che ha accettato l’eredita'",
+                "Nel luogo ove e' deceduto il testatore"
+            ],
+            "correct_answer": "Nel luogo dell’ultimo domicilio del defunto"
+        },
+        {
+            "question": "L'accettazione dell'eredita' puo' essere",
+            "answers": [
+                "Pura e semplice o con beneficio d’inventario",
+                "Sottoposta a condizione sospensiva",
+                "Parziale ossia relativa soltanto ad alcuni beni"
+            ],
+            "correct_answer": "Pura e semplice o con beneficio d’inventario"
+        },
+        {
+            "question": "L'accettazione con beneficio d'inventario",
+            "answers": [
+                "Obbliga l’erede a pagare i debiti ereditari entro il valore dei beni a lui pervenuti",
+                "Obbliga l’erede a pagare i debiti ereditari soltanto in una percentuale da stabilire con i creditori",
+                "Dispensa l’erede dal pagamento dei debiti ereditati"
+            ],
+            "correct_answer": "Obbliga l’erede a pagare i debiti ereditari entro il valore dei beni a lui pervenuti"
+        },
+        {
+            "question": "L'accettazione dell'eredita' con beneficio d'inventario",
+            "answers": [
+                "E' sempre facoltativa",
+                "E' obbligatoria in alcuni casi",
+                "E' sempre obbligatoria"
+            ],
+            "correct_answer": "E' obbligatoria in alcuni casi"
+        },
+        {
+            "question": "La rinunzia all' eredita' deve essere fatta",
+            "answers": [
+                "Mediante scrittura privata autenticata",
+                "Mediante qualsiasi atto anche verbale",
+                "Mediante dichiarazione ricevuta da un notaio o dal cancelliere  del Tribunale del circondario in cui si e' aperta la successione"
+            ],
+            "correct_answer": "Mediante dichiarazione ricevuta da un notaio o dal cancelliere  del Tribunale del circondario in cui si e' aperta la successione"
+        },
+        {
+            "question": "L'erede e'",
+            "answers": [
+                "Sempre un successore a titolo particolare",
+                "Sempre un successore a titolo universale",
+                "Puo' essere sia l' uno che l' altro a seconda della volonta' del testatore"
+            ],
+            "correct_answer": "Sempre un successore a titolo universale"
+        },
+        {
+            "question": "L' azione di petizione dell'eredita'",
+            "answers": [
+                "E' quella concessa all'erede contro chiunque possieda a titolo di erede (o senza titolo) tutti o parte dei beni ereditari",
+                "E' quella concessa al legatario contro l’erede",
+                "E' quella concessa ad un legatario contro un altro legatario"
+            ],
+            "correct_answer": "E' quella concessa all'erede contro chiunque possieda a titolo di erede (o senza titolo) tutti o parte dei beni ereditari"
+        },
+        {
+            "question": "La rinunzia all' eredita' e'",
+            "answers": [
+                "Un atto unilaterale di volonta' che non ammette ne' termine ne' condizione",
+                "Un atto unilaterale di volonta' sottoponibile ad un termine o ad una condizione",
+                "Un contratto"
+            ],
+            "correct_answer": "Un atto unilaterale di volonta' che non ammette ne' termine ne' condizione"
+        },
+        {
+            "question": "Il testatore ha la facolta' di revocare o modificare le disposizioni testamentarie",
+            "answers": [
+                "Si, sempreche' nel testamento non sia inserita una clausola che vieti la revoca o le modifiche",
+                "No, in nessun caso",
+                "Si, in quanto non e' ammessa rinunzia a tale facolta'"
+            ],
+            "correct_answer": "Si, in quanto non e' ammessa rinunzia a tale facolta'"
+        },
+        {
+            "question": "La quota indisponibile o di legittima",
+            "answers": [
+                "E’ la quota che per legge il testatore deve devolvere a determinate categorie di successibili",
+                "E’ quella che per legge deve essere devoluta allo Stato",
+                "E’ quella che si devolve agli eredi quando manca il testamento"
+            ],
+            "correct_answer": "E’ la quota che per legge il testatore deve devolvere a determinate categorie di successibili"
+        },
+        {
+            "question": "Nel testamento sono previste",
+            "answers": [
+                "Forme ordinarie e forme speciali",
+                "Soltanto forme ordinarie",
+                "Tutte le forme compresa quella verbale"
+            ],
+            "correct_answer": "Forme ordinarie e forme speciali"
+        },
+        {
+            "question": "I testamenti speciali sono",
+            "answers": [
+                "Quelli redatti in circostanze particolari quando il testatore non puo' avvalersi delle forme ordinarie",
+                "Quelli redatti da un minore di eta'",
+                "Quelli redatti dall' interdetto giudiziale"
+            ],
+            "correct_answer": "Quelli redatti in circostanze particolari quando il testatore non puo' avvalersi delle forme ordinarie"
+        },
+        {
+            "question": "Il testamento olografo deve essere",
+            "answers": [
+                "Scritto a macchina e sottoscritto dal testatore",
+                "Scritto da un terzo e sottoscritto dal testatore",
+                "Scritto per intero, datato e sottoscritto dal testatore"
+            ],
+            "correct_answer": "Scritto per intero, datato e sottoscritto dal testatore"
+        },
+        {
+            "question": "Nella comunione ereditaria a ciascun erede spetta il diritto di alienare ad un estraneo la propria quota",
+            "answers": [
+                "No",
+                "Si, ma e' tenuto a notificare agli altri coeredi l' atto di compravendita",
+                "Si, ma e' tenuto a notificare agli altri coeredi la proposta di alienazione"
+            ],
+            "correct_answer": "Si, ma e' tenuto a notificare agli altri coeredi la proposta di alienazione"
+        },
+        {
+            "question": "In mancanza della notifica il coerede puo' esercitare il diritto di riscatto nei confronti del terzo acquirente",
+            "answers": [
+                "Per tutto il tempo in cui dura lo stato di comunione",
+                "Entro sei mesi dalla trascrizione della compravendita",
+                "Entro due mesi dalla trascrizione della compravendita"
+            ],
+            "correct_answer": "Per tutto il tempo in cui dura lo stato di comunione"
+        },
+        {
+            "question": "Il diritto di prelazione, spettante al coerede in caso di vendita di una quota dei beni ereditari da parte di un altro coerede, deve essere esercitato",
+            "answers": [
+                "Entro sei mesi dalla notifica della proposta di alienazione",
+                "Entro due mesi dalla predetta notifica",
+                "Entro un anno dalla predetta notifica"
+            ],
+            "correct_answer": "Entro due mesi dalla predetta notifica"
+        },
+        {
+            "question": "E' ammessa la rescissione della divisione ereditaria",
+            "answers": [
+                "No",
+                "Si, quando uno dei coeredi provi di essere stato leso oltre il quarto",
+                "Si, purche' il coerede provi di essere stato comunque leso"
+            ],
+            "correct_answer": "Si, quando uno dei coeredi provi di essere stato leso oltre il quarto"
+        },
+        {
+            "question": "I patti successori sono",
+            "answers": [
+                "Ammessi dal Codice Civile purche' redatti nelle forme prescritte",
+                "Annullabili",
+                "Nulli, fatti salvi i casi previsti dalla legge"
+            ],
+            "correct_answer": "Nulli, fatti salvi i casi previsti dalla legge"
+        },
+        {
+            "question": "Il patto di famiglia e' un contratto in base al quale",
+            "answers": [
+                "I discendenti, prima della morte del testatore, si dividono in parti uguali i beni immobili",
+                "I discendenti, prima della morte del testatore, si dividono in parti uguali i beni mobili",
+                "Un soggetto ancora in vita trasferisce, in tutto o in parte la  sua azienda o le proprie partecipazioni societarie ad uno o piu' discendenti i quali, a loro volta, devono liquidare gli altri futuri legittimari partecipanti al contratto"
+            ],
+            "correct_answer": "Un soggetto ancora in vita trasferisce, in tutto o in parte la  sua azienda o le proprie partecipazioni societarie ad uno o piu' discendenti i quali, a loro volta, devono liquidare gli altri futuri legittimari partecipanti al contratto"
+        },
+        {
+            "question": "La trascrizione e'",
+            "answers": [
+                "Una forma di pubblicita' notizia",
+                "Una forma di pubblicita' dichiarativa",
+                "Una forma di pubblicita' costitutiva"
+            ],
+            "correct_answer": "Una forma di pubblicita' dichiarativa"
+        },
+        {
+            "question": "L'effetto caratteristico della trascrizione e'",
+            "answers": [
+                "Quello di rendere pubblico l'atto",
+                "Quello di rendere valido l'atto",
+                "Quello di rendere l'atto opponibile ai terzi"
+            ],
+            "correct_answer": "Quello di rendere l'atto opponibile ai terzi"
+        },
+        {
+            "question": "In base a quanto prescritto dal Codice Civile",
+            "answers": [
+                "Vige il principio della continuita' delle trascrizioni",
+                "Tale principio si attua soltanto in casi determinati",
+                "Non occorre la continuita' delle trascrizioni; pertanto, una trascrizione produce tutti i suoi effetti anche se non e' stato trascritto l'atto anteriore di acquisto"
+            ],
+            "correct_answer": "Vige il principio della continuita' delle trascrizioni"
+        },
+        {
+            "question": "Le domande giudiziali relative a controversie su beni immobili",
+            "answers": [
+                "Debbono essere trascritte, cosi' come vanno annotate le relative sentenze",
+                "Non vanno trascritte, ma vanno annotate le relative sentenze",
+                "Non occorre ne' trascrizione ne' annotazione"
+            ],
+            "correct_answer": "Debbono essere trascritte, cosi' come vanno annotate le relative sentenze"
+        },
+        {
+            "question": "I contratti che trasferiscono diritti reali su beni mobili registrati",
+            "answers": [
+                "Vanno trascritti presso l'ufficio dei registri immobiliari",
+                "Non vanno trascritti",
+                "Vanno trascritti presso i Registri relativi alle singole categorie di beni"
+            ],
+            "correct_answer": "Vanno trascritti presso i Registri relativi alle singole categorie di beni"
+        },
+        {
+            "question": "Il diritto di abitazione va trascritto",
+            "answers": [
+                "No, perche' non e' un diritto reale",
+                "Si', perche' e' un diritto reale",
+                "Si', purche' superi i nove anni"
+            ],
+            "correct_answer": "Si', perche' e' un diritto reale"
+        },
+        {
+            "question": "La trascrizione di un bene immobile si effettua",
+            "answers": [
+                "Presso l’Ufficio dei registri immobiliari sito nella provincia di residenza dell’acquirente",
+                "Presso l’Ufficio dei registri immobiliari sito nella provincia di residenza del venditore",
+                "Presso l’Ufficio dei registri immobiliari nella cui circoscrizione sono situati i beni"
+            ],
+            "correct_answer": "Presso l’Ufficio dei registri immobiliari nella cui circoscrizione sono situati i beni"
+        },
+        {
+            "question": "I registri ove si trascrivono gli atti",
+            "answers": [
+                "Sono pubblici, ma non e' previsto il rilascio di estratti e certificati",
+                "Non sono pubblici e, per visionarli, occorre una speciale autorizzazione",
+                "Sono pubblici e, oltre alla consultazione, e' previsto il rilascio di atti e certificati"
+            ],
+            "correct_answer": "Sono pubblici e, oltre alla consultazione, e' previsto il rilascio di atti e certificati"
+        },
+        {
+            "question": "La pubblicita'-notizia",
+            "answers": [
+                "Serve a far conoscere a terzi determinate situazioni",
+                "Ha efficacia sanante dell'invalidita' dell'atto",
+                "Ha efficacia costitutiva"
+            ],
+            "correct_answer": "Serve a far conoscere a terzi determinate situazioni"
+        },
+        {
+            "question": "L'acquisto e la modifica di una servitu' prediale vanno trascritti",
+            "answers": [
+                "No",
+                "Si'",
+                "Si', purche' sia una servitu' coattiva"
+            ],
+            "correct_answer": "Si'"
+        },
+        {
+            "question": "I contratti preliminari di compravendita relativi a beni immobili vanno trascritti",
+            "answers": [
+                "No",
+                "Si, a condizione che siano redatti mediante atto pubblico o scrittura privata autenticata",
+                "Si, in ogni caso"
+            ],
+            "correct_answer": "Si, a condizione che siano redatti mediante atto pubblico o scrittura privata autenticata"
+        },
+        {
+            "question": "L'iscrizione dell'ipoteca presso l'ufficio dei registri immobiliari ha efficacia di",
+            "answers": [
+                "Pubblicita' costitutiva",
+                "Pubblicita' dichiarativa C Pubblicita' notizia",
+                "Pubblicita' notizia"
+            ],
+            "correct_answer": "Pubblicita' costitutiva"
+        }
+    ]
+}

@@ -1,0 +1,1444 @@
+{
+    "questions": [
+        {
+            "question": "Mediante quali strumenti normativi possono essere introdotti o modificatii tributi in Italia",
+            "answers": [
+                "Soltanto mediante leggi, decreti-legge o decreti legislativi",
+                "Soltanto mediante decreti ministeriali",
+                "Oltre che nel caso precedente, anche mediante decreti dirigenziali"
+            ],
+            "correct_answer": "Soltanto mediante leggi, decreti-legge o decreti legislativi"
+        },
+        {
+            "question": "Chi e' obbligato ad attenersi alle Circolari del Ministero dell’Economia",
+            "answers": [
+                "I soli uffici della pubblica amministrazione",
+                "Sia gli uffici della pubblica amministrazione sia il contribuente",
+                "Il solo contribuente"
+            ],
+            "correct_answer": "I soli uffici della pubblica amministrazione"
+        },
+        {
+            "question": "Che cos' e' l'imposta",
+            "answers": [
+                "E' un tributo posto a carico del soggetto obbligato, perfinanziare i servizi generali resi da un ente pubblico alla collettivita' nel suo insieme",
+                "E’ il corrispettivo di un servizio richiesto dal contribuente ad un ente pubblico",
+                "E’ un termine equivalente in generale a tributo"
+            ],
+            "correct_answer": "E' un tributo posto a carico del soggetto obbligato, perfinanziare i servizi generali resi da un ente pubblico alla collettivita' nel suo insieme"
+        },
+        {
+            "question": "Che cos'e' la tassa",
+            "answers": [
+                "E' un tributo dovuto in cambio di servizi generali resi da unente pubblico al contribuente",
+                "E' il corrispettivo di un servizio richiesto dal contribuente ad un ente pubblico",
+                "E' un qualsiasi tributo"
+            ],
+            "correct_answer": "E' il corrispettivo di un servizio richiesto dal contribuente ad un ente pubblico"
+        },
+        {
+            "question": "Che cos'e' un imposta diretta",
+            "answers": [
+                "E' un'imposta commisurata al reddito o al patrimonio del contribuente",
+                "E' un'imposta calcolata direttamente dallo stesso contribuente C E' un'imposta fissa da pagarsi per autotassazione",
+                "E' un'imposta fissa da pagarsi per autotassazione"
+            ],
+            "correct_answer": "E' un'imposta commisurata al reddito o al patrimonio del contribuente"
+        },
+        {
+            "question": "Le imposte sui trasferimenti dei beni come possono anche essere definite",
+            "answers": [
+                "Imposte dirette reali",
+                "Imposte dirette personali",
+                "Imposte indirette"
+            ],
+            "correct_answer": "Imposte indirette"
+        },
+        {
+            "question": "Quale delle seguenti imposte è un'imposta personale",
+            "answers": [
+                "IRPEF",
+                "IVA",
+                "IRAP"
+            ],
+            "correct_answer": "IRPEF"
+        },
+        {
+            "question": "Quali imposte sono chiamate proporzionali",
+            "answers": [
+                "Quelle la cui aliquota percentuale e' fissa",
+                "Quelle la cui aliquota percentuale varia al variare dell'imponibile",
+                "Quelle di importo fisso"
+            ],
+            "correct_answer": "Quelle la cui aliquota percentuale e' fissa"
+        },
+        {
+            "question": "Che cosa si intende per imposta progressiva",
+            "answers": [
+                "Un'imposta il cui ammontare cresce nella misura in cui crescel'imponibile",
+                "Un'imposta le cui aliquote percentuali sono decrescenti al crescere dell'imponibile",
+                "Un'imposta le cui aliquote percentuali sono crescenti al crescere dell'imponibile"
+            ],
+            "correct_answer": "Un'imposta le cui aliquote percentuali sono crescenti al crescere dell'imponibile"
+        },
+        {
+            "question": "Chi e' il sostituto d'imposta",
+            "answers": [
+                "Colui che e' obbligato a pagare un tributo al Fisco al posto del debitore principale per una situazione riferita a quest'ultimo e con l'obbligo (o facolta') di rivalsa su di esso",
+                "Un qualsiasi incaricato del pagamento di un tributo",
+                "Colui che sopporta materialmente l'onere del tributo"
+            ],
+            "correct_answer": "Colui che e' obbligato a pagare un tributo al Fisco al posto del debitore principale per una situazione riferita a quest'ultimo e con l'obbligo (o facolta') di rivalsa su di esso"
+        },
+        {
+            "question": "Chi e' il responsabile d'imposta",
+            "answers": [
+                "Colui che effettua il pagamento di un tributo non proprio",
+                "Colui che e' obbligato a pagare un tributo al Fisco insieme al debitore principale per una situazione riferita a quest'ultimo e con diritto di rivalsa su di esso",
+                "Colui che e' obbligato a pagare il tributo relativo ad una donazione"
+            ],
+            "correct_answer": "Colui che e' obbligato a pagare un tributo al Fisco insieme al debitore principale per una situazione riferita a quest'ultimo e con diritto di rivalsa su di esso"
+        },
+        {
+            "question": "Nel caso in cui un rapporto tributario faccia capo a piu' soggetti, qual e' la definizione fiscalmente corretta che di questi se ne può dare",
+            "answers": [
+                "Responsabili d'imposta",
+                "Sostituti d'imposta",
+                "Coobbligati in solido"
+            ],
+            "correct_answer": "Coobbligati in solido"
+        },
+        {
+            "question": "Che cos'e' l'Anagrafe tributaria",
+            "answers": [
+                "E' il servizio anagrafico comunale che rileva le tasse non pagate",
+                "E' il centro nazionale di raccolta delle informazioni tributarie relative ai singoli contribuenti",
+                "E' l'ufficio che riceve le domande per l'attribuzione del numero di partita IVA"
+            ],
+            "correct_answer": "E' il centro nazionale di raccolta delle informazioni tributarie relative ai singoli contribuenti"
+        },
+        {
+            "question": "Di quanti caratteri e' composto il numero di codice fiscale attribuibil",
+            "answers": [
+                "Di 11 caratteri",
+                "Di 16 caratteri",
+                "Il numero dei caratteri dipende dalla lunghezza del nome e cognome della persona"
+            ],
+            "correct_answer": "Di 16 caratteri"
+        },
+        {
+            "question": "A chi e' attribuito il numero di partita IVA",
+            "answers": [
+                "Ad ogni contribuente",
+                "Soltanto agli esercenti attività d'imprese o arti e professioni",
+                "Soltanto alle societa'"
+            ],
+            "correct_answer": "Soltanto agli esercenti attività d'imprese o arti e professioni"
+        },
+        {
+            "question": "Fra l'omissione della presentazione della dichiarazione tributaria e l'omissione del pagamento di un tributo, normalmente, quale infrazione e' piu' grave",
+            "answers": [
+                "La prima",
+                "La seconda",
+                "Sono infrazioni di identica gravita'"
+            ],
+            "correct_answer": "La prima"
+        },
+        {
+            "question": "Che cosa si intende per autotassazione",
+            "answers": [
+                "Che il contribuente determina da se' l'ammontare del tributo e provvede a versarlo al Fisco",
+                "Che il contribuente versa al Fisco il tributo dovuto",
+                "Che il Fisco provvede a riscuotere coattivamente il tributo liquidato dallo stesso contribuente"
+            ],
+            "correct_answer": "Che il contribuente determina da se' l'ammontare del tributo e provvede a versarlo al Fisco"
+        },
+        {
+            "question": "Qualora il contribuente non provveda a pagare un tributo mediante autotassazione quale rimedio e' previsto normalmente a favore del Fisco",
+            "answers": [
+                "L'invito a pagare mediante cartolina postale",
+                "L'emissione del Ruolo e l'invio, da parte dell'Esattoria dei tributi, della cartella di pagamento, contenente l'importo del tributo dovuto (oltre alle sanzioni)",
+                "La citazione in giudizio davanti al TAR"
+            ],
+            "correct_answer": "L'emissione del Ruolo e l'invio, da parte dell'Esattoria dei tributi, della cartella di pagamento, contenente l'importo del tributo dovuto (oltre alle sanzioni)"
+        },
+        {
+            "question": "Nel caso in cui il pagamento dei tributi, affidato ad un professionista",
+            "answers": [
+                "Nessuna, perche' l'obbligo del pagamento incombe soltanto sul professionista",
+                "Saranno obbligati entrambi al pagamento",
+                "Sara' obbligato al pagamento soltanto il contribuente, con diritto di rivalsa sul professionista inadempiente"
+            ],
+            "correct_answer": "Sara' obbligato al pagamento soltanto il contribuente, con diritto di rivalsa sul professionista inadempiente"
+        },
+        {
+            "question": "Che cosa si intende per accertamento induttivo",
+            "answers": [
+                "Qualsiasi accertamento effettuato dal Fisco",
+                "L'accertamento basato su un'ispezione effettuata all'interno dell'azienda",
+                "L'accertamento effettuato sulla base di indizi o presunzioni, quando, ad un esempio, la dichiarazione risulti omessa o inattendibile"
+            ],
+            "correct_answer": "L'accertamento effettuato sulla base di indizi o presunzioni, quando, ad un esempio, la dichiarazione risulti omessa o inattendibile"
+        },
+        {
+            "question": "Quali oneri comporta a carico del Fisco e del contribuente l'accertamento induttivo",
+            "answers": [
+                "Spetta alla Finanza fornire la prova della propria pretesa ed al contribuente il diritto di confutarla",
+                "Spetta alla Finanza determinare l'imponibile sulla base di presunzioni semplici o studi di settore ed al contribuente l'onere di dimostrare l'infondatezza della pretesa tributaria",
+                "La Finanza non ha obblighi, che invece sono a carico soltanto del contribuente"
+            ],
+            "correct_answer": "Spetta alla Finanza determinare l'imponibile sulla base di presunzioni semplici o studi di settore ed al contribuente l'onere di dimostrare l'infondatezza della pretesa tributaria"
+        },
+        {
+            "question": "Il Fisco, ai fini di accertamento, puo' accedere, mediante procedura telematica, presso una banca per verificare l'esistenza ed il contenuto dei conti correnti del contribuente",
+            "answers": [
+                "No, mai",
+                "Si, ma soltanto previa autorizzazione del Procuratore della Repubblica",
+                "Si, ma soltanto previa autorizzazione dell'Agenzia delle Entrate o della Guardia di finanza"
+            ],
+            "correct_answer": "Si, ma soltanto previa autorizzazione dell'Agenzia delle Entrate o della Guardia di finanza"
+        },
+        {
+            "question": "Che cosa si intende per accertamento sintetico del reddito",
+            "answers": [
+                "Quello effettuato quando manca la dichiarazione fiscale",
+                "Quello effettuato nei confronti di una persona fisica sulla base del cosiddetto redditometro e/o spesometro",
+                "Quello effettuato a carico di una societa' che non ha tenuto le scritture contabili"
+            ],
+            "correct_answer": "Quello effettuato nei confronti di una persona fisica sulla base del cosiddetto redditometro e/o spesometro"
+        },
+        {
+            "question": "Come sono determinate le rendite catastali degli immobili",
+            "answers": [
+                "In base al reddito effettivo dell'immobile relativo all'anno precedente",
+                "In base alle tariffe di estimo catastale",
+                "In base al reddito dichiarato dal contribuente"
+            ],
+            "correct_answer": "In base alle tariffe di estimo catastale"
+        },
+        {
+            "question": "Normalmente, con quale scadenza e' previsto che il Catasto proceda alla revisione delle tariffe dei cespiti fondiari",
+            "answers": [
+                "Ogni 10 anni",
+                "Ogni 5 anni",
+                "Ogni 3 anni"
+            ],
+            "correct_answer": "Ogni 10 anni"
+        },
+        {
+            "question": "Il contribuente può utilizzare il ravvedimento per porre rimedio a propri errori od omissioni",
+            "answers": [
+                "Si, purche' le violazioni non siano ancora state contestate e non siano iniziati accessi o ispezioni a carico del contribuente",
+                "Si, in ogni tempo e senza limiti di gravita'",
+                "No, soltanto in casi eccezionali e purche' non siano stati evasi i tributi"
+            ],
+            "correct_answer": "Si, purche' le violazioni non siano ancora state contestate e non siano iniziati accessi o ispezioni a carico del contribuente"
+        },
+        {
+            "question": "Se il contribuente ha ricevuto un avviso di accertamento relativo all'IVA, sulle cui risultanze non e' d'accordo, come puo' contrastare la pretesa dell'Ufficio impositore",
+            "answers": [
+                "Chiedendo semplicemente un riesame della propria posizione",
+                "Proponendo il patteggiamento fiscale",
+                "Proponendo il concordato fiscale, ovvero inoltrando ricorso alla Commissione tributaria Provinciale"
+            ],
+            "correct_answer": "Proponendo il concordato fiscale, ovvero inoltrando ricorso alla Commissione tributaria Provinciale"
+        },
+        {
+            "question": "Il concordato, perfezionatosi tra Fisco e contribuente, e' integrabile o modificabile da parte dell'Ufficio fiscale",
+            "answers": [
+                "No, mai, poiche' l'accordo sottoscritto dalle parti rende inoppugnabile l'accertamento cosi' definito",
+                "Si, sempre, poiche' il Fisco conserva il diritto di modificare l'accertamento entro il termine stabilito per la prescrizione del diritto",
+                "Si, soltanto qualora sopravvengano nuovi elementi o gravi fatti di natura penale che dimostrino che il concordato fu estorto fraudolentemente"
+            ],
+            "correct_answer": "Si, soltanto qualora sopravvengano nuovi elementi o gravi fatti di natura penale che dimostrino che il concordato fu estorto fraudolentemente"
+        },
+        {
+            "question": "Quali sono i tributi, canoni o tariffe, dovuti agli Enti pubblici, ai quali non si applicano le norme sul contenzioso tributario",
+            "answers": [
+                "Le imposte sui trasferimenti (registro, successioni, ecc.)",
+                "L'ICI e l'imposta comunale sulla pubblicita'",
+                "Nessun tributo, canone o tariffa"
+            ],
+            "correct_answer": "Nessun tributo, canone o tariffa"
+        },
+        {
+            "question": "Il ricorso dinanzi alle Commissioni tributarie puo' essere proposto e condotto senza l'assistenza di un tecnico abilitato (ragioniere, dottore commercialista, avvocato)",
+            "answers": [
+                "Si, in ogni caso",
+                "Si, ma soltanto se l'importo del tributo in contestazione sia inferiore a € 2.582,28",
+                "No, mai"
+            ],
+            "correct_answer": "Si, ma soltanto se l'importo del tributo in contestazione sia inferiore a € 2.582,28"
+        },
+        {
+            "question": "La proposizione di un ricorso davanti alla Commissione tributaria sospende la riscossione del tributo contestato",
+            "answers": [
+                "Si, sempre",
+                "No, mai",
+                "Si, ma soltanto in taluni casi"
+            ],
+            "correct_answer": "No, mai"
+        },
+        {
+            "question": "La conciliazione giudiziale (cosiddetto patteggiamento fiscale) in quale fase del procedimento davanti alle Commissioni tributarie puo' essere richiesta",
+            "answers": [
+                "In qualsiasi fase del dibattimento",
+                "Soltanto in occasione della prima udienza davanti alla Commissione tributaria regionale",
+                "Soltanto in occasione della prima udienza davanti alla Commissione tributaria provinciale"
+            ],
+            "correct_answer": "Soltanto in occasione della prima udienza davanti alla Commissione tributaria provinciale"
+        },
+        {
+            "question": "L'accettazione della conciliazione giudiziale (cosiddetto patteggiamento fiscale) estingue l'eventuale azione penale in corso",
+            "answers": [
+                "Si, sempre",
+                "Si, soltanto nel caso in cui si tratti di reati minori",
+                "No, mai"
+            ],
+            "correct_answer": "No, mai"
+        },
+        {
+            "question": "Che cos'è l’IRPEF",
+            "answers": [
+                "Un'imposta erariale progressiva sul reddito delle persone fisiche",
+                "Un'imposta regionale sulle persone fisiche",
+                "Un'imposta regionale sul patrimonio economico dei fabbricati"
+            ],
+            "correct_answer": "Un'imposta erariale progressiva sul reddito delle persone fisiche"
+        },
+        {
+            "question": "Qual'è il presupposto a cui l'IRPEF si commisura",
+            "answers": [
+                "Il reddito complessivo netto della persona fisica residente in Italia, prodotto sia in Italia sia all’estero",
+                "Il reddito netto di impresa e dei fabbricati della persona fisica residente in Italia",
+                "Il reddito netto di impresa e dei fabbricati della persona fisica residente in Italia"
+            ],
+            "correct_answer": "Il reddito complessivo netto della persona fisica residente in Italia, prodotto sia in Italia sia all’estero"
+        },
+        {
+            "question": "Il reddito d'impresa delle societa' in nome collettivo da quale imposta è colpito",
+            "answers": [
+                "Dall'IRPEF, pro quota, in testa ai singoli soci",
+                "Dall'IRES",
+                "Dall'ICI"
+            ],
+            "correct_answer": "Dall'IRPEF, pro quota, in testa ai singoli soci"
+        },
+        {
+            "question": "Nel settore dei servizi, quali imprenditori individuali sono considerati contribuenti minori",
+            "answers": [
+                "Quelli i cui ricavi annui non superano € 30.000,00",
+                "Quelli i cui ricavi annui non superano € 400.000,00",
+                "Quelli che esercitano imprese familiari"
+            ],
+            "correct_answer": "Quelli i cui ricavi annui non superano € 400.000,00"
+        },
+        {
+            "question": "Con riferimento alle ritenute alla fonte, qual'è la differenza fra quell",
+            "answers": [
+                "Nel primo caso il contribuente deve dichiarare il reddito lordo percepito e la ritenuta subita potra' essere detratta dell'imposta dovuta, mentre nel secondo caso il reddito  percepito non dovra' essere dichiarato ne' sara' assoggettato ad ulteriore imposta",
+                "In entrambi i casi il reddito lordo percepito dovra' essere dichiarato, ma soltanto nel primo caso la ritenuta subita potra' essere detratta dall'imposta dovuta",
+                "Non vi è alcuna differenza fra i due casi, salvo l'obbligo di dichiarazione che vale soltanto nel secondo caso"
+            ],
+            "correct_answer": "Nel primo caso il contribuente deve dichiarare il reddito lordo percepito e la ritenuta subita potra' essere detratta dell'imposta dovuta, mentre nel secondo caso il reddito  percepito non dovra' essere dichiarato ne' sara' assoggettato ad ulteriore imposta"
+        },
+        {
+            "question": "Nella determinazione del reddito d'impresa i ricavi ed i costi sono imputati, normalmente secondo il criterio di competenza o secondo quello di cassa",
+            "answers": [
+                "Secondo il criterio di competenza",
+                "Secondo il criterio di cassa",
+                "Secondo il criterio di competenza, con riferimento ai contribuenti operanti in contabilità ordinaria, e secondo il criterio di cassa, con riferimento ai contribuenti operanti in contabilità semplificata"
+            ],
+            "correct_answer": "Secondo il criterio di competenza"
+        },
+        {
+            "question": "Quali sono i redditi soggetti a tassazione separata",
+            "answers": [
+                "Sono quei redditi (ricavi, plusvalenze, indennita', ecc.) che, essendo maturati nel corso di piu' anni, si manifestano monetariamente in un determinato periodo e pertanto sono esclusi dal reddito di quel periodo per essere tassati a parte, in base all'aliquota media del periodo precedente (normalmente piu' bassa)",
+                "Sono quei redditi soggetti a ritenuta alla fonte a titolo di imposta",
+                "Sono quei redditi soggetti a tassazione mediante imposta sostitutiva"
+            ],
+            "correct_answer": "Sono quei redditi (ricavi, plusvalenze, indennita', ecc.) che, essendo maturati nel corso di piu' anni, si manifestano monetariamente in un determinato periodo e pertanto sono esclusi dal reddito di quel periodo per essere tassati a parte, in base all'aliquota media del periodo precedente (normalmente piu' bassa)"
+        },
+        {
+            "question": "Se una societa' in nome collettivo realizza una plusvalenza (come ad esempio il valore di avviamento) in conseguenza della cessione di un azienda, a quali tributi e' assoggettato tale introito",
+            "answers": [
+                "All'IRPEF a tassazione separata",
+                "All'IRPEF a tassazione ordinaria",
+                "All'IRES"
+            ],
+            "correct_answer": "All'IRPEF a tassazione ordinaria"
+        },
+        {
+            "question": "Gli interessi maturati sul c/c bancario intestato ad un imprenditore individuale devono essere inseriti nella dichiarazione dei redditi",
+            "answers": [
+                "No, mai",
+                "Si, ma soltanto se l'imprenditore non e' contribuente minore o contribuente minimo o operante in regime forfetario",
+                "Si, sempre"
+            ],
+            "correct_answer": "Si, ma soltanto se l'imprenditore non e' contribuente minore o contribuente minimo o operante in regime forfetario"
+        },
+        {
+            "question": "Se una persona fisica, in qualita' di imprenditore, operante in contabilita' semplificata, in un anno subisce delle perdite, puo' portarle in diminuzione del proprio reddito complessivo dello stesso anno",
+            "answers": [
+                "Si, sempre",
+                "Si, ma soltanto a condizione che il proprio reddito complessivo non si riduca al di sotto del valore minimo determinato dagli studi di settore",
+                "No, mai"
+            ],
+            "correct_answer": "Si, sempre"
+        },
+        {
+            "question": "Un imprenditore individuale operante nel settore dei servizi, i cui ricavi annui siano superiori a € 400.000,00 se durante un esercizio consegue perdite che superano gli altri suoi redditi, puo' portare l'eccedenza della perdita in diminuzione del reddito degli esercizi successivi",
+            "answers": [
+                "Si, in ogni caso",
+                "Si, ma la perdita va detratta soltanto dai redditi di impresa e l'eccedenza puo' essere detratta negli anni successivi (non oltre il quinto) soltanto dai redditi della stessa categoria",
+                "No, mai"
+            ],
+            "correct_answer": "Si, ma la perdita va detratta soltanto dai redditi di impresa e l'eccedenza puo' essere detratta negli anni successivi (non oltre il quinto) soltanto dai redditi della stessa categoria"
+        },
+        {
+            "question": "L'imprenditore individuale che trasferisca all'estero la sede della propria impresa, e' assoggettato ad imposte per tale operazione",
+            "answers": [
+                "No, a nessuna imposta",
+                "Si, all'imposta di registro, ma soltanto sugli immobili posseduti",
+                "Si, all'IRPEF, come se si trattasse di una cessione d'azienda"
+            ],
+            "correct_answer": "Si, all'IRPEF, come se si trattasse di una cessione d'azienda"
+        },
+        {
+            "question": "Quali sono attualmente le aliquote minima e massima dell'imposta sul reddito delle persone fisiche",
+            "answers": [
+                "10% e 65%",
+                "5% e 35%",
+                "23% e 43%"
+            ],
+            "correct_answer": "23% e 43%"
+        },
+        {
+            "question": "Con riferimento all’IRPEF, che cosa si intende per “oneri deducibili“",
+            "answers": [
+                "Le detrazioni dall’IRPEF relative ai costi dell’attività esercitata",
+                "Le spese, sostenute dal contribuente, deducibili dal reddito complessivo lordo (soltanto quelle tassativamente ammesse)",
+                "Le spese sostenute per la produzione del reddito"
+            ],
+            "correct_answer": "Le spese, sostenute dal contribuente, deducibili dal reddito complessivo lordo (soltanto quelle tassativamente ammesse)"
+        },
+        {
+            "question": "La provvigione corrisposta al mediatore per l’acquisto di una unità immobiliare da adibire ad abitazione principale è detraibile dall'IRPEF dovuta dal compratore",
+            "answers": [
+                "Si, integralmente",
+                "Si, ma soltanto nel limite del 19 % delle somme pagate nell’anno, purché queste ultime non superino € 1.000; per somme superiori, queste si considerano pari ad euro 1.000",
+                "No, affatto"
+            ],
+            "correct_answer": "Si, ma soltanto nel limite del 19 % delle somme pagate nell’anno, purché queste ultime non superino € 1.000; per somme superiori, queste si considerano pari ad euro 1.000"
+        },
+        {
+            "question": "Che cosa si intende, normalmente, con il termine “credito d’imposta“",
+            "answers": [
+                "Una somma riconosciuta a favore del contribuente come deducibile dall’imposta dovuta",
+                "Una somma risultante a credito del contribuente in quanto versata da questo erroneamente in più rispetto a quanto da lui dovuto",
+                "Una somma pari agli acconti di imposta versati dal contribuente nell’anno"
+            ],
+            "correct_answer": "Una somma riconosciuta a favore del contribuente come deducibile dall’imposta dovuta"
+        },
+        {
+            "question": "Che tipo di imposta è l’IRES",
+            "answers": [
+                "Un’imposta fissa",
+                "Un‘imposta proporzionale",
+                "Un’imposta progressiva"
+            ],
+            "correct_answer": "Un‘imposta proporzionale"
+        },
+        {
+            "question": "Quali sono i soggetti colpiti dall’IRES",
+            "answers": [
+                "Tutte le società",
+                "Tutte le società e associazioni professionali",
+                "Le sole società di capitale, i consorzi ed altri enti non commerciali"
+            ],
+            "correct_answer": "Le sole società di capitale, i consorzi ed altri enti non commerciali"
+        },
+        {
+            "question": "Nei confronti di una società a responsabilità limitata, come si determina normalmente il reddito complessivo netto ai fini dell’IRES",
+            "answers": [
+                "Sommando i vari redditi netti",
+                "In base al risultato netto derivante dal bilancio civilistico",
+                "In base al risultato netto derivante dal bilancio civilistico rettificato apportando le variazioni in aumento o in diminuzioni previste dalle norme fiscali, nel caso in cui queste  differiscano da quelle indicate dal codice civile sulla stessa materia, ridotto ulteriormente grazie ai benefici previsti da norme speciali"
+            ],
+            "correct_answer": "In base al risultato netto derivante dal bilancio civilistico rettificato apportando le variazioni in aumento o in diminuzioni previste dalle norme fiscali, nel caso in cui queste  differiscano da quelle indicate dal codice civile sulla stessa materia, ridotto ulteriormente grazie ai benefici previsti da norme speciali"
+        },
+        {
+            "question": "Una società a responsabilità limitata in quali casi può rientrare fra i “contribuenti minori“",
+            "answers": [
+                "Quando l’ammontare annuo dei ricavi non è superiore a € 30.000,00",
+                "Quando l’ammontare annuo dei ricavi non è superiore a € 400.000,00",
+                "In nessun caso"
+            ],
+            "correct_answer": "In nessun caso"
+        },
+        {
+            "question": "Qual è l’aliquota attuale con la quale l’IRES è applicata normalmente",
+            "answers": [
+                "Il 25 %",
+                "Il 30 %",
+                "Il 27,5 %"
+            ],
+            "correct_answer": "Il 27,5 %"
+        },
+        {
+            "question": "Le ritenute alla fonte applicate nei confronti delle società soggette a IRES, come vanno considerate",
+            "answers": [
+                "A titolo di acconto ovvero a titolo di imposta, come per tutti i contribuenti",
+                "Normalmente a titolo di acconto, anche se disposte a titolo di Imposta",
+                "Sempre a titolo di imposta, anche se normalmente disposte a titolo di acconto"
+            ],
+            "correct_answer": "Normalmente a titolo di acconto, anche se disposte a titolo di Imposta"
+        },
+        {
+            "question": "Nei confronti delle società di capitali il Fisco può procedere ad effettuare accertamenti induttivi",
+            "answers": [
+                "Si, in ogni caso",
+                "Si, ma soltanto qualora manchi la contabilità ovvero non risulti presentata la dichiarazione ovvero quando i dati forniti siano palesemente inattendibili",
+                "No, in nessun caso"
+            ],
+            "correct_answer": "Si, ma soltanto qualora manchi la contabilità ovvero non risulti presentata la dichiarazione ovvero quando i dati forniti siano palesemente inattendibili"
+        },
+        {
+            "question": "Entro quale termine deve essere versata l’IRPEF dovuta a saldo",
+            "answers": [
+                "Entro il termine previsto per la presentazione della dichiarazione",
+                "Entro il 16 giugno di ogni anno, purché l’importo dovuto sia superiore ad € 12,00",
+                "Oltre che nel caso precedente, anche tra il 17 giugno ed il 16 luglio di ogni anno, versando contestualmente, in questo secondo caso, una sopratassa pari allo 0,40% del tributo dovuto"
+            ],
+            "correct_answer": "Oltre che nel caso precedente, anche tra il 17 giugno ed il 16 luglio di ogni anno, versando contestualmente, in questo secondo caso, una sopratassa pari allo 0,40% del tributo dovuto"
+        },
+        {
+            "question": "Attualmente, di norma, con il modello “UNICO”, che cosa è possibile dichiarare",
+            "answers": [
+                "I redditi del dichiarante, quelli erogati come sostituto d’imposta, l’IVA, e i contributi previdenziali ed assicurativi dovuti all’INPS e all’INAIL",
+                "Come nel caso precedente, ma esclusi i contributi previdenziali ed assicurativi",
+                "I soli redditi del dichiarante e l’IVA"
+            ],
+            "correct_answer": "I redditi del dichiarante, quelli erogati come sostituto d’imposta, l’IVA, e i contributi previdenziali ed assicurativi dovuti all’INPS e all’INAIL"
+        },
+        {
+            "question": "Entro quale termine devono essere versate le ritenute erariali operate sugli stipendi mensili dei dipendenti",
+            "answers": [
+                "Entro il mese successivo a quello di pagamento dello stipendio",
+                "Entro il giorno 5 del secondo mese successivo a quello di pagamento dello stipendio",
+                "Entro il giorno 16 del mese successivo a quello di pagamento dello stipendio"
+            ],
+            "correct_answer": "Entro il giorno 16 del mese successivo a quello di pagamento dello stipendio"
+        },
+        {
+            "question": "Chi risulta intestatario del “conto fiscale”",
+            "answers": [
+                "Qualsiasi contribuente",
+                "Soltanto i titolari di reddito d’impresa o di lavoro autonomo",
+                "Soltanto le società"
+            ],
+            "correct_answer": "Soltanto i titolari di reddito d’impresa o di lavoro autonomo"
+        },
+        {
+            "question": "Attualmente in sede di pagamento, utilizzando il Mod. F24 è possibile compensare debiti e crediti relativi ai tributi dovuti dal contribuente",
+            "answers": [
+                "Sì, ma si possono compensare soltanto debiti e crediti riferiti allo stesso tributo",
+                "Sì, è possibile compensare anche debiti e crediti riferiti a tributi diversi (IRPEF o IRES, IVA, IRAP, contributi INPS e premi INAIL, diritto annuale camerale)",
+                "Sì, come nel caso precedente, ma esclusi i contributi INPS e i premi INAIL"
+            ],
+            "correct_answer": "Sì, è possibile compensare anche debiti e crediti riferiti a tributi diversi (IRPEF o IRES, IVA, IRAP, contributi INPS e premi INAIL, diritto annuale camerale)"
+        },
+        {
+            "question": "Quale delle seguenti infrazioni è punita con sanzioni penali",
+            "answers": [
+                "L’omesso versamento delle imposte sui redditi per un importo superiore a euro 100.000,00",
+                "L’omessa indicazione del numero di codice fiscale",
+                "L’omessa presentazione della dichiarazione, se l’ammontare dell’imposta evasa supera euro 30.000,00"
+            ],
+            "correct_answer": "L’omessa presentazione della dichiarazione, se l’ammontare dell’imposta evasa supera euro 30.000,00"
+        },
+        {
+            "question": "Che tipo di imposta è l’IVA",
+            "answers": [
+                "Un’imposta indiretta, proporzionale",
+                "Un’imposta diretta, progressiva",
+                "Un’imposta fissa"
+            ],
+            "correct_answer": "Un’imposta indiretta, proporzionale"
+        },
+        {
+            "question": "Chi è il soggetto passivo dell’IVA",
+            "answers": [
+                "Qualunque consumatore che acquisti beni o servizi",
+                "Chiunque svolga un’attività professionale o d’impresa ovvero sia importatore da paesi extra U.E.",
+                "Soltanto le società"
+            ],
+            "correct_answer": "Chiunque svolga un’attività professionale o d’impresa ovvero sia importatore da paesi extra U.E."
+        },
+        {
+            "question": "In quale momento si considera effettuata, ai fini dell’IVA, una prestazione di servizi",
+            "answers": [
+                "Al momento della richiesta del servizio",
+                "Al momento della prestazione del servizio",
+                "Al momento del pagamento del corrispettivo del servizio, ovvero, se precedente, alla data di emissione della fattura"
+            ],
+            "correct_answer": "Al momento del pagamento del corrispettivo del servizio, ovvero, se precedente, alla data di emissione della fattura"
+        },
+        {
+            "question": "Nel caso di “acquisti intracomunitari” di beni da parte di un imprenditor",
+            "answers": [
+                "L’imprenditore acquirente deve pagare l’IVA estera sulla fattura estera",
+                "L’imprenditore acquirente deve pagare l’IVA italiana, integrando la fattura estera (emessa senza applicazione dell'IVA cola' vigente) con gli elementi necessari al calcolo dell’IVA italiana",
+                "L’imprenditore acquirente deve dichiarare l’acquisto effettuato alla dogana italiana, che addebiterà l’IVA italiana"
+            ],
+            "correct_answer": "L’imprenditore acquirente deve pagare l’IVA italiana, integrando la fattura estera (emessa senza applicazione dell'IVA cola' vigente) con gli elementi necessari al calcolo dell’IVA italiana"
+        },
+        {
+            "question": "Quali sono le aliquote vigenti in materia di IVA",
+            "answers": [
+                "21% (aliquota normale); 4% e 12% (aliquote ridotte)",
+                "21% (aliquota normale); 4% e 18% (aliquote ridotte)",
+                "21% (aliquota normale); 4% e 10% (aliquote ridotte)"
+            ],
+            "correct_answer": "21% (aliquota normale); 4% e 10% (aliquote ridotte)"
+        },
+        {
+            "question": "Con riferimento alle imprese, di regola, l’IVA pagata sugli acquisti",
+            "answers": [
+                "Nel caso di acquisti intracomunitari",
+                "Nel caso di acquisti esenti",
+                "Nel caso di acquisti di beni strumentali ammortizzabili"
+            ],
+            "correct_answer": "Nel caso di acquisti esenti"
+        },
+        {
+            "question": "Nell’ipotesi di prestazione di mediazione ad un cliente privat",
+            "answers": [
+                "Deve emettere fattura intestata al cliente e registrare nel proprio archivio i dati identificativi delle parti, la data di conclusione del contratto ed il prezzo pattuito dell’immobili, qualora questo sia pari ad almeno € 15.000",
+                "Come nel precedente caso A) ma, al posto della fattura deve emettere ricevuta fiscale intestata al cliente",
+                "Non ha alcun obbligo di emettere documenti fiscali (a meno che ne sia richiesto), né di effettuare alcuna registrazione, trattandosi di cliente privato consumatore"
+            ],
+            "correct_answer": "Deve emettere fattura intestata al cliente e registrare nel proprio archivio i dati identificativi delle parti, la data di conclusione del contratto ed il prezzo pattuito dell’immobili, qualora questo sia pari ad almeno € 15.000"
+        },
+        {
+            "question": "In una fattura, l’IVA deve sempre essere evidenziata rispetto alle altre voci indicate",
+            "answers": [
+                "Sì, salvo che l’operazione sia esente",
+                "No, mai",
+                "No, talvolta può essere compresa nel prezzo"
+            ],
+            "correct_answer": "Sì, salvo che l’operazione sia esente"
+        },
+        {
+            "question": "Nella fattura, il cui importo sia non superiore a € 100,00 (IVA esclusa)",
+            "answers": [
+                "Sì, il numero di codice fiscale",
+                "Sì, il numero di partita IVA",
+                "No, null’altro"
+            ],
+            "correct_answer": "No, null’altro"
+        },
+        {
+            "question": "L’inizio o la cessazione di attività dell’impresa entro quale termine dev",
+            "answers": [
+                "Entro 3 giorni dal verificarsi dell’evento",
+                "Entro 15 giorni dal verificarsi dell’evento",
+                "Entro 30 giorni dal verificarsi dell’evento"
+            ],
+            "correct_answer": "Entro 30 giorni dal verificarsi dell’evento"
+        },
+        {
+            "question": "Con quale cadenza devono essere effettuati i versamenti periodici dell’IVA risultante a debito",
+            "answers": [
+                "Con cadenza trimestrale per i contribuenti “minori” e mensile per gli altri",
+                "Con cadenza mensile obbligatoria per tutti i contribuenti",
+                "Con cadenza mensile obbligatoria per tutti i contribuenti, salvo opzione per la cadenza trimestrale, consentita soltanto ai contribuenti “minori” (con maggiorazione di interessi, nella misura dell’1% del tributo dovuto)"
+            ],
+            "correct_answer": "Con cadenza mensile obbligatoria per tutti i contribuenti, salvo opzione per la cadenza trimestrale, consentita soltanto ai contribuenti “minori” (con maggiorazione di interessi, nella misura dell’1% del tributo dovuto)"
+        },
+        {
+            "question": "In materia di IVA, quali sono i termini per effettuare i versamenti periodici da parte dei relativi soggetti passivi",
+            "answers": [
+                "Versamenti mensili, entro il giorno 16 del mese successivo; versamenti trimestrali, entro il giorno 16 del secondo mese successivo a ciascun trimestre",
+                "Versamenti mensili, entro il giorno 15 del mese successivo; versamenti trimestrali come nel precedente punto A)",
+                "Versamenti mensili, entro il giorno 15 del mese successivo; versamenti trimestrali entro il giorno 5 del secondo mese successivo a ciascun trimestre"
+            ],
+            "correct_answer": "Versamenti mensili, entro il giorno 16 del mese successivo; versamenti trimestrali, entro il giorno 16 del secondo mese successivo a ciascun trimestre"
+        },
+        {
+            "question": "Qual è il termine per la presentazione della dichiarazione annuale dell’IVA mediante Mod “UNICO”, esclusivamente in forma telematica, da parte di persone fisiche o società di persone",
+            "answers": [
+                "Tra il 1° maggio ed il 30 settembre di ogni anno",
+                "Entro il 5 marzo di ogni anno",
+                "Tra il 1° febbraio ed il 31 luglio di ogni anno"
+            ],
+            "correct_answer": "Tra il 1° maggio ed il 30 settembre di ogni anno"
+        },
+        {
+            "question": "Qual è il termine per il versamento dell’IVA dovuta a conguaglio di fine anno",
+            "answers": [
+                "Il 5 febbraio dell’anno successivo",
+                "Il 5 marzo dell’anno successivo",
+                "Il 16 marzo dell’anno successivo, ovvero, per i contribuenti obbligati alla presentazione del Mod. UNICO, il termine è  quello stabilito per i versamenti dovuti in base al Mod. UNICO, con la maggiorazione dello 0,40 % per ogni frazione di mese successivo al 16 marzo"
+            ],
+            "correct_answer": "Il 16 marzo dell’anno successivo, ovvero, per i contribuenti obbligati alla presentazione del Mod. UNICO, il termine è  quello stabilito per i versamenti dovuti in base al Mod. UNICO, con la maggiorazione dello 0,40 % per ogni frazione di mese successivo al 16 marzo"
+        },
+        {
+            "question": "Qual è il termine per il versamento dell’acconto dell’IVA",
+            "answers": [
+                "Il 20 dicembre di ogni anno",
+                "Il 27 dicembre di ogni anno",
+                "Il 31 dicembre di ogni anno"
+            ],
+            "correct_answer": "Il 27 dicembre di ogni anno"
+        },
+        {
+            "question": "Qual è la misura del versamento dell’acconto dell’IVA",
+            "answers": [
+                "Il 65% del valore di riferimento",
+                "l’88% del valore di riferimento",
+                "Il 98% del valore di riferimento"
+            ],
+            "correct_answer": "l’88% del valore di riferimento"
+        },
+        {
+            "question": "Ai fini dell’IVA, nei riguardi delle imprese che hanno posto in essere cessioni o acquisti cosiddetti “intracomunitari” sono imposti particolari obblighi di dichiarazione",
+            "answers": [
+                "No, nessun obbligo particolare",
+                "Sì, devono soltanto indicare nella dichiarazione annuale l’importo complessivo delle operazioni intracomunitarie da loro compiute",
+                "Sì, devono compilare e presentare alla dogana gli elenchi riepilogativi delle operazioni intracomunitarie effettuate (mediante i cosiddetti “modelli INTRASTAT”) con cadenza mensile, trimestrale o annuale a seconda dell’ammontare delle operazioni complessivamente effettuate"
+            ],
+            "correct_answer": "Sì, devono compilare e presentare alla dogana gli elenchi riepilogativi delle operazioni intracomunitarie effettuate (mediante i cosiddetti “modelli INTRASTAT”) con cadenza mensile, trimestrale o annuale a seconda dell’ammontare delle operazioni complessivamente effettuate"
+        },
+        {
+            "question": "Oltre alla dichiarazione annuale, quali altre comunicazioni o elenchi devono essere obbligatoriamente presentati dal soggetto passivo in materia di IVA",
+            "answers": [
+                "Le dichiarazioni di inizio, variazione o cessazione di attività, nonché la comunicazione dei dati IVA",
+                "Oltre alle dichiarazioni predette, le dichiarazioni periodiche",
+                "Oltre alle dichiarazioni indicate in A), anche gli elenchi riepilogativi delle eventuali operazioni intracomunitarie da lui poste in essere, nonché le comunicazioni telematiche delle operazioni rilevanti ai fini IVA e quella concernente le operazioni effettuate con operatori siti in Paesi considerati paradisi fiscali"
+            ],
+            "correct_answer": "Oltre alle dichiarazioni indicate in A), anche gli elenchi riepilogativi delle eventuali operazioni intracomunitarie da lui poste in essere, nonché le comunicazioni telematiche delle operazioni rilevanti ai fini IVA e quella concernente le operazioni effettuate con operatori siti in Paesi considerati paradisi fiscali"
+        },
+        {
+            "question": "Le imprese devono tenere in ogni caso le scritture contabili obbligatorie ai fini fiscali",
+            "answers": [
+                "Sì, eccezion fatta per i “contribuenti minimi”",
+                "Sì, eccezion fatta per i contribuenti operanti in regime forfettario",
+                "No, l’obbligo vale soltanto nei confronti delle grandi imprese"
+            ],
+            "correct_answer": "Sì, eccezion fatta per i “contribuenti minimi”"
+        },
+        {
+            "question": "Qualora i registri contabili siano tenuti con sistemi meccanografici, in quale caso la tenuta degli stessi si considera fiscalmente regolare",
+            "answers": [
+                "Quando i dati inseriti non sono trascritti, nei termini stabiliti, su supporto cartaceo",
+                "Quando i dati inseriti, pur non essendo trascritti su supporto cartaceo, risultano aggiornati su supporto magnetico",
+                "Quando i dati relativi agli esercizi passati risultino trascritti su supporto cartaceo e quelli dell’esercizio corrente risultino aggiornati su supporto magnetico"
+            ],
+            "correct_answer": "Quando i dati relativi agli esercizi passati risultino trascritti su supporto cartaceo e quelli dell’esercizio corrente risultino aggiornati su supporto magnetico"
+        },
+        {
+            "question": "La tenuta delle scritture contabili obbligatorie a chi fa carico legalmente",
+            "answers": [
+                "Soltanto al professionista incaricato dall’imprenditore",
+                "Soltanto all’imprenditore",
+                "Ad entrambi"
+            ],
+            "correct_answer": "Soltanto all’imprenditore"
+        },
+        {
+            "question": "Qual è il termine per effettuare la registrazione delle fatture emesse",
+            "answers": [
+                "Il termine è di 30 giorni dalla data di emissione della fattura",
+                "Il termine è di 15 giorni dalla data di emissione della fattura",
+                "Il termine è di 5 giorni dalla data di emissione della fattura"
+            ],
+            "correct_answer": "Il termine è di 15 giorni dalla data di emissione della fattura"
+        },
+        {
+            "question": "La mancata tenuta dei libri contabili obbligatori come è sanzionata",
+            "answers": [
+                "Con una sanzione amministrativa (è previsto soltanto il pagamento di una somma di denaro)",
+                "Con una sanzione penale (arresto o ammenda)",
+                "Unicamente con il pagamento delle eventuali imposte evase"
+            ],
+            "correct_answer": "Con una sanzione amministrativa (è previsto soltanto il pagamento di una somma di denaro)"
+        },
+        {
+            "question": "Quali libri contabili occorre tenere per operare in “contabilità ordinaria”",
+            "answers": [
+                "I soli libro-giornale e libro-inventari",
+                "I soli registri delle fatture e quelli degli acquisti",
+                "Tutti i registri di cui sopra, ovvero i libri indicati in A) da cui risultino comunque i dati rilevabili dai registri indicati in B), oltre al Libro Unico del Lavoro, qualora vi siano lavoratori dipendenti assimilati"
+            ],
+            "correct_answer": "Tutti i registri di cui sopra, ovvero i libri indicati in A) da cui risultino comunque i dati rilevabili dai registri indicati in B), oltre al Libro Unico del Lavoro, qualora vi siano lavoratori dipendenti assimilati"
+        },
+        {
+            "question": "Chi è assoggettato all’IRAP",
+            "answers": [
+                "Chiunque possieda immobili o svolga attività professionali",
+                "Le sole società commerciali e le associazioni fra professionisti",
+                "Chiunque svolga un’attività assoggettata ad IVA (oltre agli enti pubblici)"
+            ],
+            "correct_answer": "Chiunque svolga un’attività assoggettata ad IVA (oltre agli enti pubblici)"
+        },
+        {
+            "question": "Da che cosa è costituita la base imponibile dell’IRAP",
+            "answers": [
+                "Dal valore dell’immobile nel quale viene esercitata l’attività",
+                "Dal reddito delle attività patrimoniali",
+                "Dal reddito delle attività produttive determinato secondo specifici criteri di calcolo"
+            ],
+            "correct_answer": "Dal reddito delle attività produttive determinato secondo specifici criteri di calcolo"
+        },
+        {
+            "question": "Chi è tenuto, in via principale, a pagare l’imposta comunale sull",
+            "answers": [
+                "Chi vende le merci o fornisce i servizi oggetto di pubblicità",
+                "Chi dispone del mezzo attraverso il quale viene diffuso il messaggio Pubblicitario",
+                "Chi ha prodotto lo strumento pubblicitario"
+            ],
+            "correct_answer": "Chi dispone del mezzo attraverso il quale viene diffuso il messaggio Pubblicitario"
+        },
+        {
+            "question": "In quale caso i messaggi pubblicitari riprodotti su cartelli, volantini",
+            "answers": [
+                "Se di dimensioni non superiori a 150 centimetri quadrati",
+                "Se di dimensioni non superiori a 300 centimetri quadrati",
+                "Se di dimensioni non superiori a 500 centimetri quadrati"
+            ],
+            "correct_answer": "Se di dimensioni non superiori a 300 centimetri quadrati"
+        },
+        {
+            "question": "I cartelli affissi sugli immobili, mediante i quali sono offerti in locazione o vendita gli immobili stessi, in quale caso sono esenti dall’imposta sulla pubblicità",
+            "answers": [
+                "Quando chi effettua la pubblicità è lo stesso proprietario dell’immobile",
+                "Quando le dimensioni non superano 0,25 metri quadri",
+                "Quando sono esposti in una zona non illuminata"
+            ],
+            "correct_answer": "Quando le dimensioni non superano 0,25 metri quadri"
+        },
+        {
+            "question": "L’insegna, posta all’esterno di un edificio, su area pubblica, pe",
+            "answers": [
+                "No, a nessun tributo",
+                "Sì, all’imposta comunale sulla pubblicità, purché l’insegna abbia una superficie complessiva superiore a 5 metri quadrati",
+                "Sì, oltre che all’imposta di cui al precedente punto B), anche alla tassa (o canone), per l’occupazione di spazi ed aree pubbliche"
+            ],
+            "correct_answer": "Sì, oltre che all’imposta di cui al precedente punto B), anche alla tassa (o canone), per l’occupazione di spazi ed aree pubbliche"
+        },
+        {
+            "question": "Il diritto annuale camerale è dovuto da tutte le imprese iscritte alla Camera di commercio",
+            "answers": [
+                "Sì, da tutte le imprese",
+                "No, soltanto dalle società",
+                "No, soltanto dalle società per azioni"
+            ],
+            "correct_answer": "Sì, da tutte le imprese"
+        },
+        {
+            "question": "La tassa sulla raccolta dei rifiuti solidi urbani a chi deve essere pagata",
+            "answers": [
+                "All’azienda che raccoglie i rifiuti",
+                "Al Comune territorialmente competente che, tuttavia, può dare in concessione a terzi la gestione dei rifiuti e la riscossione del relativo tributo o tariffa",
+                "Alla Regione territorialmente competente"
+            ],
+            "correct_answer": "Al Comune territorialmente competente che, tuttavia, può dare in concessione a terzi la gestione dei rifiuti e la riscossione del relativo tributo o tariffa"
+        },
+        {
+            "question": "L’occupante, sprovvisto dell’atto di concessione in uso di un’area demaniale comunale, è tenuto al pagamento della relativa tassa o canone",
+            "answers": [
+                "Sì, sempre",
+                "No, mai",
+                "No, ma è comunque obbligato a pagare l’ammenda per occupazione abusiva dell’area pubblica"
+            ],
+            "correct_answer": "Sì, sempre"
+        },
+        {
+            "question": "Fra le occupazioni di spazi e aree pubbliche, soggette alla relativa tassa o canone, rientrano anche, ad esempio, quelle effettuate con tabelle, tende da sole, ecc.",
+            "answers": [
+                "Sì, sempre",
+                "Sì, ma soltanto se permanenti",
+                "No, mai"
+            ],
+            "correct_answer": "Sì, sempre"
+        },
+        {
+            "question": "Ai fini dell’IRPEF, qual è il reddito di un terreno agricolo che deve essere imputato all’affittuario",
+            "answers": [
+                "Il reddito dominicale",
+                "Il reddito agrario",
+                "Nessun reddito, in quanto il reddito del terreno, appartiene soltanto al proprietario"
+            ],
+            "correct_answer": "Il reddito agrario"
+        },
+        {
+            "question": "Le costruzioni rurali, destinate ad abitazione di persone diverse dagli addetti all’agricoltura, in quale catasto devono essere iscritte",
+            "answers": [
+                "Nel catasto delle costruzioni rurali",
+                "Nel catasto dei terreni",
+                "Nel catasto edilizio urbano"
+            ],
+            "correct_answer": "Nel catasto edilizio urbano"
+        },
+        {
+            "question": "Il proprietario di un fondo rustico, che ne sia anche coltivatore diretto, su quale reddito, relativo al fondo, deve pagare l’IRPEF",
+            "answers": [
+                "Sul solo reddito agrario",
+                "Sul solo reddito dominicale",
+                "Su entrambi i redditi, dominicale e agrario"
+            ],
+            "correct_answer": "Su entrambi i redditi, dominicale e agrario"
+        },
+        {
+            "question": "Qualora, in base a regolare autorizzazione, sia in corso un’attività di ristrutturazione edilizia su un fabbricato, è dovuta l’IRPEF sul relativo reddito catastale per la durata dei lavori",
+            "answers": [
+                "Si, sull’intero reddito, come di consueto",
+                "Si, ma soltanto sul reddito ridotto dell’80%",
+                "No, in quanto il fabbricato si considera non produttivo di reddito"
+            ],
+            "correct_answer": "No, in quanto il fabbricato si considera non produttivo di reddito"
+        },
+        {
+            "question": "E’ applicabile l’IRPEF sulla rendita catastale di un appartamento utilizzato dal proprietario, per un intero anno, come abitazione principale, assoggettato ad IMU (Imposta municipale propria)",
+            "answers": [
+                "Sì, sull’intera rendita",
+                "Sì, sulla rendita ridotta del 50%",
+                "No, perché in tal caso spetta l’esenzione totale"
+            ],
+            "correct_answer": "No, perché in tal caso spetta l’esenzione totale"
+        },
+        {
+            "question": "Nel caso di possesso di immobili ubicati in Comuni diversi, a chi deve essere presentata la dichiarazione IMU",
+            "answers": [
+                "Al Comune nel quale si possiedono gli immobili di maggior valore",
+                "A ciascun Comune, nel cui ambito sono ubicati i rispettivi immobili",
+                "Al Centro di servizio delle imposte dirette"
+            ],
+            "correct_answer": "A ciascun Comune, nel cui ambito sono ubicati i rispettivi immobili"
+        },
+        {
+            "question": "Con riferimento alle società soggette all'IRES, è deducibile dal reddito d'impresa un importo pari all'IRAP relativa alla quota imponibile delle spese per il personale dipendente e assimilato, al netto delle deduzioni spettanti per detto personale",
+            "answers": [
+                "No, l'IRAP è totalmente indeducibile dalle imposte sui redditi",
+                "Si, è deducibile, sia dall'IRPEF, sia dall'IRES per il 10% del suo ammontare",
+                "Si, è deducibile soltanto l'IRES nei soli termini indicati nel quesito"
+            ],
+            "correct_answer": "Si, è deducibile soltanto l'IRES nei soli termini indicati nel quesito"
+        },
+        {
+            "question": "Ai fini dell'IMU come si determina il reddito degli immobili riconosciuti di interesse storico o artistico, appartenenti ad una determinata categoria catastale",
+            "answers": [
+                "Mediante l’applicazione della tariffa d’estimo stabilita par la relativa zona censuaria",
+                "Mediante la tariffa di cui alla precedente lettera A), ridotta del 50%",
+                "Mediante l’applicazione della minore fra le tariffe d’estimo stabilite per la relativa zona censuaria"
+            ],
+            "correct_answer": "Mediante la tariffa di cui alla precedente lettera A), ridotta del 50%"
+        },
+        {
+            "question": "Quando deve essere versata l'IMU dovuta",
+            "answers": [
+                "Entro il termine previsto per la presentazione della dichiarazione, a saldo del dovuto per l'anno precedente ed in acconto del dovuto per l'anno corrente",
+                "In due rate uguali, entro i mesi di giugno e dicembre dell'anno di competenza",
+                "In due rate, di cui la prima entro il 16 giugno, in misura pari  al 50% dell'imposta dovuta, calcolata sulla base dell'aliquota e delle detrazioni relative all'anno precedente, e la seconda nel periodo 1° - 16 dicembre, a saldo dell'imposta dovuta per l'anno in corso"
+            ],
+            "correct_answer": "In due rate, di cui la prima entro il 16 giugno, in misura pari  al 50% dell'imposta dovuta, calcolata sulla base dell'aliquota e delle detrazioni relative all'anno precedente, e la seconda nel periodo 1° - 16 dicembre, a saldo dell'imposta dovuta per l'anno in corso"
+        },
+        {
+            "question": "La plusvalenza realizzata mediante la cessione di un immobile adibito a negozio acquistato nei 5 anni precedenti la vendita è soggetta ad imposte",
+            "answers": [
+                "Si, soltanto all’imposta sui redditi o, a richiesta del venditore, da indicare nell’atto di compravendita, a un’imposta sostitutiva dell’imposta sui redditi con aliquota del 20%",
+                "Si, all’imposta sui redditi ed all’imposta catastale",
+                "No, a nessuna imposta"
+            ],
+            "correct_answer": "Si, soltanto all’imposta sui redditi o, a richiesta del venditore, da indicare nell’atto di compravendita, a un’imposta sostitutiva dell’imposta sui redditi con aliquota del 20%"
+        },
+        {
+            "question": "In caso di vendita di un appartamento entro 5 anni dall’acquisto, se vien",
+            "answers": [
+                "Si, sempre",
+                "Si, salvo il caso in cui l’appartamento sia stato acquistato a titolo gratuito o utilizzato come abitazione principale, nei quali casi la plusvalenza è esente",
+                "No, mai"
+            ],
+            "correct_answer": "Si, salvo il caso in cui l’appartamento sia stato acquistato a titolo gratuito o utilizzato come abitazione principale, nei quali casi la plusvalenza è esente"
+        },
+        {
+            "question": "Ai fini dell’IRES, gli ammortamenti degli immobili strumentali d",
+            "answers": [
+                "Si, sempre",
+                "Si, soltanto se si tratta di immobili utilizzati esclusivamente per l’esercizio della propria attività",
+                "No, mai"
+            ],
+            "correct_answer": "Si, sempre"
+        },
+        {
+            "question": "Per l’assolvimento degli obblighi in materia di imposto di bollo, dov",
+            "answers": [
+                "Soltanto presso i tabacchi e i rivenditori di generi di monopoli",
+                "Oltre che in A), anche presso gli uffici postali",
+                "Oltre che in B), anche presso l’Ufficio dell'Agenzia delle Entrate"
+            ],
+            "correct_answer": "Oltre che in A), anche presso gli uffici postali"
+        },
+        {
+            "question": "Un contratto stipulato mediante scrittura privata non autenticata",
+            "answers": [
+                "No , mai",
+                "Si, ma soltanto a partire da un certo ammontare del corrispettivo convenuto in contratto",
+                "Si, sempre"
+            ],
+            "correct_answer": "Si, sempre"
+        },
+        {
+            "question": "A quanto ammonta l’imposta di bollo sui contratti",
+            "answers": [
+                "Ammonta a € 5,16 per ogni fogli di 4 facciate di carta (bollata ouso bollo)",
+                "Ammonta a € 14,62 per ogni foglio di 4 facciate di carta (bollatao uso bollo)",
+                "Ammonta all’1% del valore del contratto, indipendentemente dal numero di pagine sulle quali è redatto"
+            ],
+            "correct_answer": "Ammonta a € 14,62 per ogni foglio di 4 facciate di carta (bollatao uso bollo)"
+        },
+        {
+            "question": "A quanto ammonta l’imposta di bollo sulle cambiali ed i pagherò cambiar",
+            "answers": [
+                "Ammonta a € 5,16 fisse, qualunque sia l’importo del titolo",
+                "Ammonta all’1,20% dell’importo indicato sul titolo",
+                "Ammonta al 2% dell’importo indicato sul titolo"
+            ],
+            "correct_answer": "Ammonta all’1,20% dell’importo indicato sul titolo"
+        },
+        {
+            "question": "Le spese relative a prestazioni alberghiere e a somministrazione di alimenti e bevande(diverse da quelle sostenute per il personale in trasferta),effettuate da imprese o professionisti,inerenti all’esercizio dell’attività da essi svolta,sono deducibili dal reddito,ai fini dell’IRPEF o dell'IRE",
+            "answers": [
+                "No, non sono deducibili affatto",
+                "Si, sono deducibili nella misura del 75 % del loro importo",
+                "Si, sono totalmente deducibili"
+            ],
+            "correct_answer": "Si, sono deducibili nella misura del 75 % del loro importo"
+        },
+        {
+            "question": "Qualora non sia reperibile un modulo di cambiale portante stampigliatura del bollo di importo dovuto, in quale modo si può adempiere il relativo obbligo fiscale",
+            "answers": [
+                "Applicando, sul titolo acquistato, tante marche da bollo fino a raggiungere l’importo dovuto e annullandole, da parte dell’emittente, con timbro datario",
+                "Come in A), ma l’annullamento deve avvenire a cura dell’ufficio postale o dell’Ufficio delle Entrate (ex Ufficio del Registro), ovvero versando il tributo direttamente a quest’ultimo, che appone il visto per il bollo in bianco",
+                "Acquistando il titolo bollato, direttamente presso l’Ufficio delle Entrate (ex Ufficio del Registro), che dispone sempre di tutti i tagli necessari"
+            ],
+            "correct_answer": "Come in A), ma l’annullamento deve avvenire a cura dell’ufficio postale o dell’Ufficio delle Entrate (ex Ufficio del Registro), ovvero versando il tributo direttamente a quest’ultimo, che appone il visto per il bollo in bianco"
+        },
+        {
+            "question": "Gli atti non in regola con il bollo possono essere ricevuti dai pubblici ufficiali",
+            "answers": [
+                "No, mai",
+                "Si, ma devono, a cura di questi, essere inviati all’Ufficio delle Entrate (ex Ufficio del Registro) per la regolarizzazione",
+                "Si, essendo a loro carico soltanto il dovere di denunciare l’avvenuta evasione del tributo"
+            ],
+            "correct_answer": "Si, ma devono, a cura di questi, essere inviati all’Ufficio delle Entrate (ex Ufficio del Registro) per la regolarizzazione"
+        },
+        {
+            "question": "L’atto mediante il quale si vende un’azienda a quali tributi è assoggettato",
+            "answers": [
+                "All’IVA, in rapporto al valore della cessione",
+                "All’imposta di registro in misura fissa",
+                "All’Imposta di registro, in misura proporzionale al valore della cessione ed all’imposta di bollo"
+            ],
+            "correct_answer": "All’Imposta di registro, in misura proporzionale al valore della cessione ed all’imposta di bollo"
+        },
+        {
+            "question": "Per le merci che hanno come luogo di provenienza o di destinazione i paesi membri dell’Unione Europea, sussiste l’obbligo di emissione del documento di trasporto",
+            "answers": [
+                "Si, sempre",
+                "Si, ma soltanto se i beni trasportati hanno un valore superiore a € 1.032,91",
+                "No, ma sussiste sempre l’obbligo della fatturazione"
+            ],
+            "correct_answer": "No, ma sussiste sempre l’obbligo della fatturazione"
+        },
+        {
+            "question": "Sulle fatture emesse quando si deve apporre una marca da bollo da € 1,81",
+            "answers": [
+                "Quando la fattura riguardi cessioni di beni o prestazioni di servizi esenti da IVA",
+                "Quando la fattura sia firmata per quietanza",
+                "Sempre"
+            ],
+            "correct_answer": "Quando la fattura riguardi cessioni di beni o prestazioni di servizi esenti da IVA"
+        },
+        {
+            "question": "Le ricevute bancarie sono assoggettate all’imposta di bollo",
+            "answers": [
+                "Si, nella misura fissa di € 1,81",
+                "Si, in misura variabile fra € 1,81 e € 6,80 a seconda dell’importo del titolo",
+                "No, ne sono esenti"
+            ],
+            "correct_answer": "Si, in misura variabile fra € 1,81 e € 6,80 a seconda dell’importo del titolo"
+        },
+        {
+            "question": "La locazione o l’affitto di un immobile da parte di un’impresa sono assoggettati ad IVA",
+            "answers": [
+                "Si, qualsiasi sia l’immobile locato",
+                "Si ,ma ad eccezione delle locazione o affitto di talune categorie di immobili che ne sono esenti",
+                "No, in nessun caso"
+            ],
+            "correct_answer": "Si ,ma ad eccezione delle locazione o affitto di talune categorie di immobili che ne sono esenti"
+        },
+        {
+            "question": "A quali aliquote IVA è assoggettata la cessione, da parte di imprese, di costruzioni rurali destinate ad uso abitativo del proprietario del terreno e quella di case di abitazione qualificabili come “prima casa”",
+            "answers": [
+                "All’aliquota del 4% in entrambi i casi",
+                "All’aliquota del 10% nel primo caso, e del 4% nel secondo caso",
+                "All’aliquota del 10% in entrambi i casi"
+            ],
+            "correct_answer": "All’aliquota del 4% in entrambi i casi"
+        },
+        {
+            "question": "A quale aliquota IVA è assoggettata la cessione di case di abitazione no",
+            "answers": [
+                "All’aliquota del 10%",
+                "All’aliquota del 12%",
+                "All’aliquota del 20%"
+            ],
+            "correct_answer": "All’aliquota del 10%"
+        },
+        {
+            "question": "E’ consentito al contribuente chiedere, nell’atto di compravendita, la determinazione automatica del corrispettivo della cessione di immobile, nel caso di operazione soggetta ad IVA",
+            "answers": [
+                "Si, qualunque sia la tipologia dell’immobile",
+                "Si, ma soltanto nel caso di fabbricati appartenenti alle categoria Catastali A, B o C",
+                "No, in nessun caso"
+            ],
+            "correct_answer": "No, in nessun caso"
+        },
+        {
+            "question": "In materia di imposta di registro, come viene chiamata la maggiore imposta determinata dall’Ufficio, in relazione ad un accertamento di maggior valore del bene oggetto di cessione",
+            "answers": [
+                "Imposta suppletiva",
+                "Imposta complementare",
+                "Imposta addizionale"
+            ],
+            "correct_answer": "Imposta complementare"
+        },
+        {
+            "question": "Ai fini dell’imposta di registro, nel caso di compravendita immobiliare effettuata per atto pubblico, chi riveste la qualifica di “responsabile di imposta”",
+            "answers": [
+                "Il venditore, qualora il tributo, non sia assolto dal compratore",
+                "Ciascuno degli acquirenti pro-quota, nei confronti degli altri acquirenti",
+                "Il notaio rogante"
+            ],
+            "correct_answer": "Il notaio rogante"
+        },
+        {
+            "question": "Qual è il termine per procedere alla registrazione, presso l’Ufficio dell'Agenzia delle Entrate, degli atti soggetti a registrazione in termine fisso, posti in essere in Italia",
+            "answers": [
+                "15 giorni, dalla data dell’atto",
+                "20 giorni, dalla data dell’atto, salvo per i contratti di locazione o affitto di immobili, il cui termine è di 30 giorni dalla data dell’atto",
+                "30 giorni, dalla data dell’atto"
+            ],
+            "correct_answer": "20 giorni, dalla data dell’atto, salvo per i contratti di locazione o affitto di immobili, il cui termine è di 30 giorni dalla data dell’atto"
+        },
+        {
+            "question": "Con riferimento alle imprese ed ai professionisti, il cui volume d’affare annuo è non superiore a 200.000 euro, quando è esigibile (e quindi detraibile) l’IVA addebitata in fattura per cessione di beni o prestazioni di servizi, effettuate dai fornitori a loro favore",
+            "answers": [
+                "Al momento dell’emissione della fattura del fornitore",
+                "Al momento del pagamento del corrispettivo della fattura, sulla quale deve essere apposta l’annotazione “IVA ad esigibilità differita”",
+                "Alla scadenza del 15° giorno dal ricevimento della fattura"
+            ],
+            "correct_answer": "Al momento del pagamento del corrispettivo della fattura, sulla quale deve essere apposta l’annotazione “IVA ad esigibilità differita”"
+        },
+        {
+            "question": "La vendita di un immobile ad uso di abitazione da parte di un’impresa costruttrice, dopo 5 anni dalla data di ultimazione della costruzione, a quali imposte è assoggettato",
+            "answers": [
+                "Soltanto all’IVA (in base alla fattura emessa dall’impresa venditrice)",
+                "Alle imposte di registro, catastale e ipotecaria in misura proporzionale",
+                "All’IVA (in base all’imponibile risultante dalla fattura emessa dall’impresa venditrice), nonché alle imposte di registro, ipotecaria e catastale in misura fissa"
+            ],
+            "correct_answer": "Alle imposte di registro, catastale e ipotecaria in misura proporzionale"
+        },
+        {
+            "question": "L’acquisto da un privato di un appartamento quale “prima casa” è soggetto a particolari benefici fiscali per il compratore",
+            "answers": [
+                "Si, l’imposta di registro è applicata nella misura del 3% del valore dell’immobile e le imposte ipotecaria e catastale sono applicate in misura fissa",
+                "Si, è prevista una riduzione delle imposte dovute nella misura del 50%, ma soltanto se l’acquirente è una persona avente a carico una famiglia numerosa",
+                "No, non è previsto alcun beneficio fiscale"
+            ],
+            "correct_answer": "Si, l’imposta di registro è applicata nella misura del 3% del valore dell’immobile e le imposte ipotecaria e catastale sono applicate in misura fissa"
+        },
+        {
+            "question": "Qual è l’aliquota dell’imposta di registro applicabile nel caso di contratto di locazione di appartamento di proprietà di un privato",
+            "answers": [
+                "Il 5% dell’importo del canone pattuito",
+                "Il 2% dell’importo del canone pattuito",
+                "Lo 0,5% dell’importo del canone pattuito"
+            ],
+            "correct_answer": "Il 2% dell’importo del canone pattuito"
+        },
+        {
+            "question": "Nel caso di una scrittura privata, qual è l’Ufficio delle Entrate (ex Ufficio del Registro) competente a ricevere l’atto da sottoporre a registrazione",
+            "answers": [
+                "Qualsiasi Ufficio delle Entrate",
+                "L’Ufficio delle Entrate nel quale risiede una delle due parti",
+                "L’Ufficio delle Entrate del luogo ove l’atto è stato sottoscritto"
+            ],
+            "correct_answer": "Qualsiasi Ufficio delle Entrate"
+        },
+        {
+            "question": "Quando deve essere versata l’imposta principale relativa alla registrazione di un atto presso l’Ufficio delle Entrate (ex Ufficio di Registro)",
+            "answers": [
+                "Prima del deposito dell’atto",
+                "Entro 10 giorni dal deposito dell’atto",
+                "Entro 20 giorni dal deposito dell’atto"
+            ],
+            "correct_answer": "Prima del deposito dell’atto"
+        },
+        {
+            "question": "E’ sanzionabile l’omissione della data nelle scritture private soggette a registrazione in termine fisso",
+            "answers": [
+                "Si, con un sopratassa parti al 20% dell’imposta dovuta",
+                "Si, con una pena pecuniaria da € 25,82 a € 258,23",
+                "No, affatto"
+            ],
+            "correct_answer": "No, affatto"
+        },
+        {
+            "question": "Un contratto di locazione di immobile, fatto per scrittura privata, in quale delle seguenti ipotesi è soggetto a registrazione in caso d’uso",
+            "answers": [
+                "Quando il contratto sia stipulato verbalmente",
+                "Quando il corrispettivo annuo sia non superiore a € 1.291,14",
+                "Quando la durata non supera i 30 giorni nell’anno"
+            ],
+            "correct_answer": "Quando la durata non supera i 30 giorni nell’anno"
+        },
+        {
+            "question": "Nel caso di stipulazione per scrittura privata di un contratto preliminare di compravendita di immobile, non effettuata nell’esercizio di impresa, le parti sono obbligate a sottoporlo a registrazione presso l’Ufficio delle entrate (ex Ufficio Registro)",
+            "answers": [
+                "Si, nel termine fisso di 20 giorni dalla data dell’atto",
+                "Si, ma soltanto in caso d’uso",
+                "No, mai"
+            ],
+            "correct_answer": "Si, nel termine fisso di 20 giorni dalla data dell’atto"
+        },
+        {
+            "question": "Il contribuente che abbia registrato un contratto preliminare, pagando la relativa imposta proporzionale, in quale caso ha diritto di recuperare, dall’Ufficio dell'Agenzia delle Entrate il tributo pagato",
+            "answers": [
+                "Soltanto qualora il contratto sia nullo",
+                "Al momento della registrazione del relativo contratto definitivo, chiedendone la deduzione dal tributo dovuto in relazione a quest’ultimo",
+                "In nessun caso"
+            ],
+            "correct_answer": "Al momento della registrazione del relativo contratto definitivo, chiedendone la deduzione dal tributo dovuto in relazione a quest’ultimo"
+        },
+        {
+            "question": "Come si determina, in modo automatico, il valore di un appartamento quale seconda casa e di un locale pertinenziale ad uso di autorimessa ai fini dell’applicazione dell’imposta di registro in un atto di compravendita fra privati che non agiscono nell’esercizio di impresa, arte o professione",
+            "answers": [
+                "Moltiplicando la rendita catastale dell’immobile, in entrambi i casi per 120",
+                "Moltiplicando la rendita catastale dell’immobile, in entrambi i casi per 100",
+                "Moltiplicando la rendita catastale dell’immobile, rispettivamente per 100 e per 75"
+            ],
+            "correct_answer": "Moltiplicando la rendita catastale dell’immobile, in entrambi i casi per 120"
+        },
+        {
+            "question": "Se un appartamento, acquistato come “prima casa”, è rivenduto entro i primi 5 anni senza procedere al riacquisto di altro appartamento per analoga finalità,sono previste sanzioni",
+            "answers": [
+                "No, non è prevista alcuna sanzione",
+                "Si, è previsto l’obbligo di versare la differenza fra le imposte normalmente dovute e quelle agevolate, aumentata dal 30% a titolo di sanzione amministrativa",
+                "Si, è prevista l’ammenda fino a € 1.032,91, ma soltanto qualora si provi la malafede del contribuente acquirente"
+            ],
+            "correct_answer": "Si, è previsto l’obbligo di versare la differenza fra le imposte normalmente dovute e quelle agevolate, aumentata dal 30% a titolo di sanzione amministrativa"
+        },
+        {
+            "question": "Nel caso di compravendita di immobile per atto notarile, sono dovute normalmente le imposte ipotecarie e catastale",
+            "answers": [
+                "Si, tranne in alcuni rari casi",
+                "Si, ma soltanto se è dovuta anche l’IVA",
+                "No, tranne in alcuni rari casi"
+            ],
+            "correct_answer": "Si, tranne in alcuni rari casi"
+        },
+        {
+            "question": "Quali sono le aliquote normali dell’imposta ipotecaria e di quella catastale",
+            "answers": [
+                "2% e 1% rispettivamente, del valore del bene o diritto",
+                "1,6% e 0,40% rispettivamente, del valore del bene o diritto C 0,8% e 0,2% rispettivamente, del valore del bene o diritto",
+                "0,8% e 0,2% rispettivamente, del valore del bene o diritto"
+            ],
+            "correct_answer": "2% e 1% rispettivamente, del valore del bene o diritto"
+        },
+        {
+            "question": "L’imposta sull’incremento di valore degli immobili (INVIM) fino a quand",
+            "answers": [
+                "Fino al 31 dicembre 2007",
+                "È stata soppressa a decorrere dal 1^ gennaio 2002",
+                "È stata soppressa fin dal 1^ gennaio 2001"
+            ],
+            "correct_answer": "È stata soppressa a decorrere dal 1^ gennaio 2002"
+        },
+        {
+            "question": "L’INVIM decennale è deducibile dal reddito lordo delle società di capitali",
+            "answers": [
+                "Si, interamente, dal reddito dell’esercizio nel corso del quale è stata pagata",
+                "Si, in cinque quote costanti, di cui la prima relativa all’esercizio nel corso del quale è stata pagata e le successive negli esercizi seguenti",
+                "No, non è deducibile affatto"
+            ],
+            "correct_answer": "Si, in cinque quote costanti, di cui la prima relativa all’esercizio nel corso del quale è stata pagata e le successive negli esercizi seguenti"
+        },
+        {
+            "question": "I trasferimenti di beni o diritti a causa di morte sono assoggettati a tributo",
+            "answers": [
+                "Si, all’imposta sulle successioni",
+                "Si, all’imposta di registro",
+                "No, sono totalmente esenti da tributo"
+            ],
+            "correct_answer": "Si, all’imposta sulle successioni"
+        },
+        {
+            "question": "L’imposta gravante sulle donazioni che tipo di imposta è",
+            "answers": [
+                "Un’imposta diretta, in quanto applicata direttamente sui beni oggetto di liberalità",
+                "Un’imposta indiretta proporzionale, le cui aliquote sono correlate al grado di parentela o affinità del donatario con il donante",
+                "Un’imposta diretta proporzionale, il cui imponibile si determina riducendo di una franchigia fissa il valore complessivo della liberalità"
+            ],
+            "correct_answer": "Un’imposta indiretta proporzionale, le cui aliquote sono correlate al grado di parentela o affinità del donatario con il donante"
+        },
+        {
+            "question": "Le donazioni o le altre liberalità effettuate per atto tra vivi a favore dei figli e del coniuge sono assoggettate ad imposta",
+            "answers": [
+                "Si, all’imposta sulle donazioni",
+                "Si, all’imposta sulle donazioni, ma sul valore della donazione che ecceda, per ciascun beneficiario, l’importo di € 1 milione",
+                "No, sono totalmente esenti da imposta"
+            ],
+            "correct_answer": "Si, all’imposta sulle donazioni, ma sul valore della donazione che ecceda, per ciascun beneficiario, l’importo di € 1 milione"
+        },
+        {
+            "question": "Qualora una donazione sia fatta dalla suocera a favore della nuora, l’atto è assoggettato ad imposta",
+            "answers": [
+                "No, è esente da imposta",
+                "Si, è assoggettato ad imposta",
+                "Si, è assoggettato ad imposta, ma soltanto sul valore eccedente € 1 milione"
+            ],
+            "correct_answer": "Si, è assoggettato ad imposta"
+        },
+        {
+            "question": "Quali, fra i seguenti obblighi, incombono sull’agente immobiliare, in occasione della stipulazione di un contratto preliminare di compravendita immobiliare, del valore di almeno € 15.000, redatto per scrittura privata non autenticata, avvenuta a seguito del suo intervento professionale",
+            "answers": [
+                "Ha soltanto l’obbligo di emettere fattura, con addebito dell’IVA dovuta, per la prestazione professionale effettuata",
+                "Oltre a quanto indicato nella risposta precedente, ha anche l’obbligo di registrare il contratto preliminare stipulato fra le parti, con il suo intervento professionale",
+                "Oltre a quanto indicato nelle risposte precedenti, ha anche l’obbligo di rilevare i dati identificativi delle parti, annotandoli su apposito registro, con l’indicazione del prezzo convenuto per la compravendita dell’immobile"
+            ],
+            "correct_answer": "Oltre a quanto indicato nelle risposte precedenti, ha anche l’obbligo di rilevare i dati identificativi delle parti, annotandoli su apposito registro, con l’indicazione del prezzo convenuto per la compravendita dell’immobile"
+        },
+        {
+            "question": "Entro quale termine ed a cura di chi deve essere presentata la dichiarazione relativa alla donazione di un immobile",
+            "answers": [
+                "Entro 6 mesi dalla data dell’atto di donazione a cura del beneficiario",
+                "Entro 20 giorni dalla data dell’atto di donazione a cura del notaio",
+                "Non deve essere presentata alcuna dichiarazione, perché le donazioni sono esenti da tributi"
+            ],
+            "correct_answer": "Entro 20 giorni dalla data dell’atto di donazione a cura del notaio"
+        },
+        {
+            "question": "L’imposta di successione pagata in un paese della Unione Europea e gravante su un bene ivi esistente è deducibile dalle imposte vigenti in Italia",
+            "answers": [
+                "Si, al contribuente che abbia pagato detto tributo è concesso un credito d’imposta di importo pari alla somma pagata, che egli potrà dedurre dalla rispettiva imposta di successione o  donazione dovuta in Italia, fatte salve le eventuali convenzioni internazionali in materia",
+                "Si, come nel caso precedente, ma il credito d’imposta è limitato al 50% della somma pagata",
+                "No, non è ammessa alcuna deducibilità, poiché in Italia l’imposta di successione è stata soppressa"
+            ],
+            "correct_answer": "Si, al contribuente che abbia pagato detto tributo è concesso un credito d’imposta di importo pari alla somma pagata, che egli potrà dedurre dalla rispettiva imposta di successione o  donazione dovuta in Italia, fatte salve le eventuali convenzioni internazionali in materia"
+        },
+        {
+            "question": "Nell’ipotesi che l’asse ereditario sia composto anche di beni immobili, il contribuente è obbligato a presentare la dichiarazione di successione",
+            "answers": [
+                "Si, entro 3 mesi dall’apertura della successione",
+                "Si, entro 12 mesi dall’apertura della successione",
+                "No, affatto, poiché le successioni sono esenti da tributi"
+            ],
+            "correct_answer": "Si, entro 12 mesi dall’apertura della successione"
+        },
+        {
+            "question": "Ai fini dell'acconto IMU per l'anno 2013, con riferimento agli immobil",
+            "answers": [
+                "Esclusivamente al Comune nel cui territorio è sito l'immobile",
+                "Esclusivamente alla Stato nel cui territorio è sito l'immobile",
+                "Allo Stato, ma il Comune può aggiungere un'aliquota destinata a proprio beneficio, se l'immobile è sito nel territorio si sua competenza"
+            ],
+            "correct_answer": "Allo Stato, ma il Comune può aggiungere un'aliquota destinata a proprio beneficio, se l'immobile è sito nel territorio si sua competenza"
+        },
+        {
+            "question": "Ai fabbricati rurali ad uso strumentale, siti in aree montane, si applica l'IMU",
+            "answers": [
+                "Sì, sul valore catastale cui si applica l'aliquota più bassa prevista dalla legge",
+                "Sì, ma calcolata sul valore catastale degli stessi ridotto nella misura del 75%",
+                "No, in quanto esenti dal tributo, ma assoggettati all'IRPEF sul valore catastale degli stessi"
+            ],
+            "correct_answer": "No, in quanto esenti dal tributo, ma assoggettati all'IRPEF sul valore catastale degli stessi"
+        },
+        {
+            "question": "A chi è attribuito il potere di controllare e verificare l'esattezza della dichiarazione IMU e compiere atti di accertamento e di liquidazione del tributo",
+            "answers": [
+                "Al centro di Servizio o all'Ufficio dell'Agenzia delle Entrate",
+                "Al Comune competente per territorio, soltanto per il controllo e la verifica della dichiarazione, ed i soggetti di cui alla precedente lett. A), per l'accertamento e la liquidazione del tributo",
+                "Unicamente al Comune competente per territorio, salvo il caso in cui il relativo servizio sia stato affidato in concessione a terzi"
+            ],
+            "correct_answer": "Unicamente al Comune competente per territorio, salvo il caso in cui il relativo servizio sia stato affidato in concessione a terzi"
+        },
+        {
+            "question": "Ai fini dell'IMU, come si determina il valore imponibile degli immobili destinati a negozio (cat. catast. C/1) e quelli destinati a studi privati (cat. catast. A/10)",
+            "answers": [
+                "Moltiplicando le rispettive rendite catastali aggiornate per 160",
+                "Moltiplicando le rendite catastali aggiornate, rispettivamente, per 80 e per 100",
+                "Moltiplicando le rendite catastali aggiornate, rispettivamente, per 55 e per 80"
+            ],
+            "correct_answer": "Moltiplicando le rendite catastali aggiornate, rispettivamente, per 55 e per 80"
+        },
+        {
+            "question": "Qual è la base imponibile dell'Imposta municipale propria (IMU)",
+            "answers": [
+                "Il reddito dell'immobile",
+                "Il valore patrimoniale dell'immobile",
+                "La superficie dell'immobile"
+            ],
+            "correct_answer": "Il valore patrimoniale dell'immobile"
+        },
+        {
+            "question": "Chi è tenuto a pagare l'IMU (Imposta municipale propria)",
+            "answers": [
+                "Il proprietario o il titolare del diritto reale di godimento dell'immobile",
+                "L'affittuario dell'immobile",
+                "L'occupante dell'immobile, anche senza titolo"
+            ],
+            "correct_answer": "Il proprietario o il titolare del diritto reale di godimento dell'immobile"
+        },
+        {
+            "question": "Gli immobili costruiti da imprese, e da queste posseduti a scopo di rivendita, cosiddetti beni-merce, sono assoggettati all'IMU",
+            "answers": [
+                "Si, in ogni caso",
+                "No, a condizione che risultino annotati in contabilità quali immobili destinati alla vendita",
+                "No, in nessun caso"
+            ],
+            "correct_answer": "Si, in ogni caso"
+        },
+        {
+            "question": "AI fini dell'IMU, come si determina il valore imponibile di un'area fabbricabile",
+            "answers": [
+                "Applicando la più elevata rendita catastale riferita a terreni agricoli di pari superficie",
+                "Triplicando la rendita catastale applicabile a terreni agricoli di pari superficie",
+                "In base al valore venale dei beni in comune commercio, determinato con riferimento al 1° gennaio del periodo d'imposta"
+            ],
+            "correct_answer": "In base al valore venale dei beni in comune commercio, determinato con riferimento al 1° gennaio del periodo d'imposta"
+        },
+        {
+            "question": "In caso di controversia circa l'applicazione dell'IMU, a chi deve essere indirizzato il ricorso",
+            "answers": [
+                "Al Comune competente territorialmente",
+                "Al Ministero dell'Economia e delle Finanze",
+                "Alla Commissione tributaria, in relazione al grado del procedimento ed in copia al Comune competente territorialmente"
+            ],
+            "correct_answer": "Alla Commissione tributaria, in relazione al grado del procedimento ed in copia al Comune competente territorialmente"
+        },
+        {
+            "question": "Ai fini dell'IMU, entro quale termine deve essere presentata la dichiarazione degli immobili posseduti",
+            "answers": [
+                "Entro il 30 giugno dell'anno successivo a quello in cui il possesso ha avuto inizio",
+                "Entro il termine di presentazione della dichiarazione dei redditi",
+                "Entro il mese di gennaio per gli immobili il cui possesso è iniziato nell'anno precedente"
+            ],
+            "correct_answer": "Entro il 30 giugno dell'anno successivo a quello in cui il possesso ha avuto inizio"
+        }
+    ]
+}
