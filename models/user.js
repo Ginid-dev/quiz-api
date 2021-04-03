@@ -1,5 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
+const jwt = require("jsonwebtoken");
+
 module.exports = (sequelize, DataTypes) => {
   class User extends Model {
     static associate(models) {}
@@ -15,5 +17,23 @@ module.exports = (sequelize, DataTypes) => {
       modelName: "User",
     }
   );
+
+  User.authData = (userData) => {
+    const token = jwt.sign(
+      {
+        userId: userData.id,
+      },
+      process.env.JWT_SECRET,
+      { expiresIn: "720h" }
+    );
+
+    let obj = {
+      authToken: token,
+      email: userData.email,
+      emailVerified: userData.emailVerified,
+    };
+
+    return obj;
+  };
   return User;
 };
