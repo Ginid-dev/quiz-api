@@ -3,7 +3,9 @@ const models = require("../models");
 module.exports = {
   up: async (queryInterface, Sequelize) => {
     return models.Question.destroy({
-      truncate: { cascade: false },
+      truncate: true,
+      cascade: true,
+      force: true,
     }).then(() => {
       let questions = [];
       const civileQuestions = require("../questions/Civile.json").questions;
