@@ -14,16 +14,16 @@ router.post("/login", (req, res, next) => {
   if (!password) return next(new Error("Password is required"));
 
   return models.User.findOne({
-    where: { email: email },
+    where: { email: email, emailVerified: true },
     attributes: ["id", "email", "emailVerified", "password"],
   })
     .then((user) => {
-      if (!user) throw new Error("Invalid email or password");
+      if (!user) throw new Error("Email o password sbagliate");
       userData = user;
       return bcrypt.compare(password, user.password);
     })
     .then((result) => {
-      if (!result) throw new Error("Invalid email or password");
+      if (!result) throw new Error("Email o password sbagliate");
       return models.User.authData(userData);
     })
     .then((data) => {
@@ -42,15 +42,15 @@ router.post("/register", (req, res, next) => {
 
   if (!password) return next(new Error("Password is required"));
 
-  if (!password.trim().length >= 6)
-    return next(new Error("Password is too short"));
+  if (password.trim().length < 6)
+    return next(new Error("La password è troppo corta"));
 
   return models.User.findOne({
     where: { email: email },
     attributes: ["id"],
   })
     .then((user) => {
-      if (user) throw new Error("Email already exists");
+      if (user) throw new Error("Email già esistente");
       return bcrypt.hash(password, saltRounds);
     })
     .then((hash) => {
