@@ -25,7 +25,5 @@ exports.accountVerificationEmail = (to, token) => {
     html: html,
   };
 
-  return transporter.sendMail(mailOptions).catch((err) => {
-    return true;
-  });
+  return transporter.sendMail(mailOptions);
 };
