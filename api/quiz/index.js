@@ -48,7 +48,14 @@ router.post("/ans", (req, res, next) => {
       quizData.answeredQuestions = quizData.answeredQuestions + 1;
       quizData.isCompleted =
         quizData.answeredQuestions == quizData.totalQuestions;
-      return quizData.save();
+      const savedata = quizData.save();
+      const saveAnwser = models.TrackAnswer.create({
+        userId: userId,
+        questionId: questionId,
+        isCorrect: questions[index].isCorrect,
+      });
+
+      return Promise.all([savedata, saveAnwser]);
     })
     .then((result) => {
       res.status(200).json({

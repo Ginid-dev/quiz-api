@@ -15,13 +15,21 @@ router.get("/:topic", (req, res, next) => {
 });
 
 router.post("/", (req, res, next) => {
-  const { questionId } = req.body;
+  const { questionId, isCorrect } = req.body;
   if (!questionId) return next(new Error("Question id is required"));
 
-  return models.QuestionAttemp.create({
+  const saveData = models.QuestionAttemp.create({
     userId: req.user.userId,
     questionId: questionId,
-  })
+  });
+
+  const saveAnwser = models.TrackAnswer.create({
+    userId: req.user.userId,
+    questionId: questionId,
+    isCorrect: isCorrect,
+  });
+
+  return Promise.all([saveData, saveAnwser])
     .then(() => {
       res.status(200).json({
         success: true,
@@ -38,14 +46,14 @@ router.get("/rs/report", (req, res, next) => {
     attributes: ["questions"],
   });
 
-  const getPractice = models.Question.findAll({
-    attributes: ["topic"],
+  const getPractice = models.TrackAnswer.findAll({
+    where: { userId: userId },
+    attributes: ["id", "isCorrect"],
     include: [
       {
-        required: false,
-        model: models.QuestionAttemp,
-        as: "attemptedQuestions",
-        where: { userId: userId },
+        model: models.Question,
+        as: "question",
+        attributes: ["topic"],
       },
     ],
   });
@@ -71,26 +79,22 @@ router.get("/rs/report", (req, res, next) => {
       });
 
       data[1].map((x) => {
-        switch (x.topic) {
+        switch (x.question.topic) {
           case "Mediazione":
             totalMediazione++;
-            if (x.attemptedQuestions && x.attemptedQuestions.length)
-              answeredMediazione++;
+            if (x.isCorrect) answeredMediazione++;
             break;
           case "Civile":
             totalCivile++;
-            if (x.attemptedQuestions && x.attemptedQuestions.length)
-              answeredCivile++;
+            if (x.isCorrect) answeredCivile++;
             break;
           case "Estimo":
             totalEstimo++;
-            if (x.attemptedQuestions && x.attemptedQuestions.length)
-              answeredEstimo++;
+            if (x.isCorrect) answeredEstimo++;
             break;
           case "Tributario":
             totalTributario++;
-            if (x.attemptedQuestions && x.attemptedQuestions.length)
-              answeredTributario++;
+            if (x.isCorrect) answeredTributario++;
             break;
         }
       });
