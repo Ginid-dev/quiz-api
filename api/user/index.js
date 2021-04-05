@@ -24,7 +24,7 @@ router.post("/login", (req, res, next) => {
     })
     .then((result) => {
       if (!result) throw new Error("Email o password errati");
-      if (result && !result.emailVerified)
+      if (result && !userData.emailVerified)
         throw new Error(
           "Per favore controlla la tua email per validare il tuo account"
         );
@@ -81,14 +81,20 @@ router.post("/verfiy", (req, res, next) => {
   if (!token) return next(new Error("token is required"));
 
   return jwt.verify(token, process.env.JWT_SECRET, (err, decoded) => {
-    if (err) return next(new Error("This link is not valid"));
+    if (err) return next(new Error("Questo collegamento non è valido"));
     if (decoded)
       return models.User.findOne({
         where: { id: decoded.userId },
-        attributes: ["id", "email", "emailVerified"],
+        attributes: ["id", "email", "emailVerified", "updatedAt"],
       })
         .then((user) => {
-          if (!user) throw new Error("Something went wrong");
+          if (!user) throw new Error("Questo collegamento non è valido");
+
+          if (
+            new Date(decoded.createdAt).getTime() <
+            new Date(user.updatedAt).getTime()
+          )
+            throw new Error("Questo collegamento non è valido");
           user.emailVerified = true;
           return Promise.all([user.save(), models.User.authData(user)]);
         })
