@@ -22,6 +22,7 @@ module.exports = (sequelize, DataTypes) => {
     const token = jwt.sign(
       {
         userId: userData.id,
+        createdAt: new Date(),
       },
       process.env.JWT_SECRET,
       { expiresIn: "720h" }
