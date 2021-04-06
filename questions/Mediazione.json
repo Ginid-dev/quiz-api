@@ -325,7 +325,7 @@
             "correct_answer": "Si, qualora il mandatario svolga attività a titolo oneroso nel settore immobiliare, fatte comunque salve le regole sul mandato"
         },
         {
-            "question": "L’incarico di mediazione può essere conferit",
+            "question": "L’incarico di mediazione può essere conferito",
             "answers": [
                 "Soltanto da uno dei contraenti",
                 "Soltanto da entrambi i contraenti congiuntamente",
@@ -370,10 +370,10 @@
             "correct_answer": "Quando si verifichi la condizione"
         },
         {
-            "question": "Qualora il contratto si sottoposto a condizione risolutiva, il diritto del mediatore alla provvigione viene meno al verificarsi della stessa condizione",
+            "question": "Qualora il contratto sia sottoposto a condizione risolutiva, il diritto del mediatore alla provvigione viene meno al verificarsi della stessa condizione",
             "answers": [
                 "Si",
-                "No, fatta eccezione per le ipotesi previste dal Codice Civile C  No, in nessun caso",
+                "No, fatta eccezione per le ipotesi previste dal Codice Civile",
                 "No, in nessun caso"
             ],
             "correct_answer": "No, in nessun caso"

@@ -163,13 +163,13 @@
             "correct_answer": "Si estingue fatto salvo il caso in cui il debitore sia in mora"
         },
         {
-            "question": "Può verificarsi la mora del creditore",
+            "question": "Può verificarsi la mora del creditore?",
             "answers": [
-                "Si, quando il creditore, senza motivo legittimo, non riceve il pagamento Offerto nei modi di legge o quando non compie gli atti necessari per ricevere la prestazione",
+                "Si, quando il creditore, senza motivo legittimo, non riceve il pagamento offerto nei modi di legge o quando non compie gli atti necessari per ricevere la prestazione",
                 "No",
                 "Si, in ogni caso"
             ],
-            "correct_answer": "Si, quando il creditore, senza motivo legittimo, non riceve il pagamento Offerto nei modi di legge o quando non compie gli atti necessari per ricevere la prestazione"
+            "correct_answer": "Si, quando il creditore, senza motivo legittimo, non riceve il pagamento offerto nei modi di legge o quando non compie gli atti necessari per ricevere la prestazione"
         },
         {
             "question": "Il terreno e'",
@@ -721,7 +721,7 @@
             "correct_answer": "Un accordo tra due o più parti"
         },
         {
-            "question": "Quando in un contratto il proponente si è obbligato a mantenere ferma una proposta per un certo periodo di temp",
+            "question": "Quando in un contratto il proponente si è obbligato a mantenere ferma una proposta per un certo periodo di tempo",
             "answers": [
                 "La revoca può essere fatta in qualsiasi momento",
                 "La revoca prima del termine è senza effetti",
@@ -937,7 +937,7 @@
             "correct_answer": "Una clausola che prevede la risoluzione del contratto quando una determinata obbligazione non sia adempiuta secondo le modalità prestabilite"
         },
         {
-            "question": "Quando la prestazione di una delle parti è divenuta eccessivamente gravosaper il verificarsi di eventi straordinari ed imprevedibili, la parte che la deve effettuare può",
+            "question": "Quando la prestazione di una delle parti è divenuta eccessivamente gravosa per il verificarsi di eventi straordinari ed imprevedibili, la parte che la deve effettuare può",
             "answers": [
                 "Chiedere la rescissione del contratto",
                 "Chiedere la risoluzione del contratto",
@@ -1000,7 +1000,7 @@
             "correct_answer": "Un contratto ad effetti obbligatori"
         },
         {
-            "question": "La procura, conferita al fine di effettuare una vendita immobiliare, dev",
+            "question": "La procura, conferita al fine di effettuare una vendita immobiliare, deve essere",
             "answers": [
                 "Redatta nella forma concordata fra le parti",
                 "Redatta in forma scritta",
@@ -1054,7 +1054,7 @@
             "correct_answer": "Sì, a pena di nullità"
         },
         {
-            "question": "Nella vendita con patto di riscatto è ammesso il patto con cui si concord",
+            "question": "Nella vendita con patto di riscatto è ammesso il patto con cui si concorda la restituzione all’acquirente di un prezzo superiore a quello da lui pagato?",
             "answers": [
                 "No, in quanto contrario a norme imperative di legge",
                 "Sì, purché le parti lo abbiano redatto per iscritto",
@@ -1184,9 +1184,9 @@
             "answers": [
                 "Soltanto la L. 27 luglio 1978 n. 392",
                 "Soltanto la L. 9 dicembre 1998 n. 431",
-                "La L. 9 dicembre 1998 n. 431 e successive modifiche nonché la L."
+                "La L. 9 dicembre 1998 n. 431 e successive modifiche nonché la L.27 luglio 1978, n.392, per la parte non abrogata"
             ],
-            "correct_answer": "La L. 9 dicembre 1998 n. 431 e successive modifiche nonché la L."
+            "correct_answer": "La L. 9 dicembre 1998 n. 431 e successive modifiche nonché la L.27 luglio 1978, n.392, per la parte non abrogata"
         },
         {
             "question": "Quando gli immobili si definiscono urbani",
@@ -1336,10 +1336,10 @@
             "question": "Nelle locazioni di immobili urbani destinati ad uso “non abitativo”, le indennità per la perdita dell’avviamento sono pari a",
             "answers": [
                 "Ventiquattro mensilità (ventotto per le attività alberghiere)",
-                "Diciotto mensilità (ventuno per le attività alberghiere) C Quindici mensilità (venti per le attività alberghiere)",
+                "Diciotto mensilità (ventuno per le attività alberghiere)",
                 "Quindici mensilità (venti per le attività alberghiere)"
             ],
-            "correct_answer": "Diciotto mensilità (ventuno per le attività alberghiere) C Quindici mensilità (venti per le attività alberghiere)"
+            "correct_answer": "Diciotto mensilità (ventuno per le attività alberghiere)"
         },
         {
             "question": "In presenza della risoluzione del contratto di locazione di immobile urbano ad uso “non abitativo”, per morosità del conduttore, spetta a quest’ultimo l’indennità per la perdita dell’avviamento",
@@ -1399,13 +1399,13 @@
             "question": "Con il contratto di comodato al comodatario è attribuito",
             "answers": [
                 "Il possesso della cosa",
-                "La proprietà della cosa C  La detenzione della cosa",
+                "La proprietà della cosa",
                 "La detenzione della cosa"
             ],
             "correct_answer": "La detenzione della cosa"
         },
         {
-            "question": "Il comodatario ha il potere di dare in uso ad altri la cosa oggetto de",
+            "question": "Il comodatario ha il potere di dare in uso ad altri la cosa oggetto del contratto di comodato",
             "answers": [
                 "Sì",
                 "No",
@@ -2260,13 +2260,13 @@
             "correct_answer": "E' obbligatoria in alcuni casi"
         },
         {
-            "question": "La rinunzia all' eredita' deve essere fatta",
+            "question": "La rinunzia all'eredita'deve essere fatta",
             "answers": [
                 "Mediante scrittura privata autenticata",
                 "Mediante qualsiasi atto anche verbale",
-                "Mediante dichiarazione ricevuta da un notaio o dal cancelliere  del Tribunale del circondario in cui si e' aperta la successione"
+                "Mediante dichiarazione ricevuta da un notaio o dal cancelliere del Tribunale del circondario in cui si e'aperta la successione"
             ],
-            "correct_answer": "Mediante dichiarazione ricevuta da un notaio o dal cancelliere  del Tribunale del circondario in cui si e' aperta la successione"
+            "correct_answer": "Mediante dichiarazione ricevuta da un notaio o dal cancelliere del Tribunale del circondario in cui si e'aperta la successione"
         },
         {
             "question": "L'erede e'",
@@ -2278,7 +2278,7 @@
             "correct_answer": "Sempre un successore a titolo universale"
         },
         {
-            "question": "L' azione di petizione dell'eredita'",
+            "question": "L'azione di petizione dell'eredita'",
             "answers": [
                 "E' quella concessa all'erede contro chiunque possieda a titolo di erede (o senza titolo) tutti o parte dei beni ereditari",
                 "E' quella concessa al legatario contro l’erede",
@@ -2298,7 +2298,7 @@
         {
             "question": "Il testatore ha la facolta' di revocare o modificare le disposizioni testamentarie",
             "answers": [
-                "Si, sempreche' nel testamento non sia inserita una clausola che vieti la revoca o le modifiche",
+                "Si, sempre che' nel testamento non sia inserita una clausola che vieti la revoca o le modifiche",
                 "No, in nessun caso",
                 "Si, in quanto non e' ammessa rinunzia a tale facolta'"
             ],
@@ -2497,7 +2497,7 @@
             "question": "L'iscrizione dell'ipoteca presso l'ufficio dei registri immobiliari ha efficacia di",
             "answers": [
                 "Pubblicita' costitutiva",
-                "Pubblicita' dichiarativa C Pubblicita' notizia",
+                "Pubblicita' dichiarativa",
                 "Pubblicita' notizia"
             ],
             "correct_answer": "Pubblicita' costitutiva"
