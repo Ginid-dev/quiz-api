@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "Mediante quali strumenti normativi possono essere introdotti o modificatii tributi in Italia",
+            "question": "Mediante quali strumenti normativi possono essere introdotti o modificati i tributi in Italia",
             "answers": [
                 "Soltanto mediante leggi, decreti-legge o decreti legislativi",
                 "Soltanto mediante decreti ministeriali",
@@ -21,11 +21,11 @@
         {
             "question": "Che cos' e' l'imposta",
             "answers": [
-                "E' un tributo posto a carico del soggetto obbligato, perfinanziare i servizi generali resi da un ente pubblico alla collettivita' nel suo insieme",
+                "E' un tributo posto a carico del soggetto obbligato, per finanziare i servizi generali resi da un ente pubblico alla collettivita' nel suo insieme",
                 "E’ il corrispettivo di un servizio richiesto dal contribuente ad un ente pubblico",
                 "E’ un termine equivalente in generale a tributo"
             ],
-            "correct_answer": "E' un tributo posto a carico del soggetto obbligato, perfinanziare i servizi generali resi da un ente pubblico alla collettivita' nel suo insieme"
+            "correct_answer": "E' un tributo posto a carico del soggetto obbligato, per finanziare i servizi generali resi da un ente pubblico alla collettivita' nel suo insieme"
         },
         {
             "question": "Che cos'e' la tassa",
@@ -40,7 +40,7 @@
             "question": "Che cos'e' un imposta diretta",
             "answers": [
                 "E' un'imposta commisurata al reddito o al patrimonio del contribuente",
-                "E' un'imposta calcolata direttamente dallo stesso contribuente C E' un'imposta fissa da pagarsi per autotassazione",
+                "E' un'imposta calcolata direttamente dallo stesso contribuente",
                 "E' un'imposta fissa da pagarsi per autotassazione"
             ],
             "correct_answer": "E' un'imposta commisurata al reddito o al patrimonio del contribuente"
@@ -75,7 +75,7 @@
         {
             "question": "Che cosa si intende per imposta progressiva",
             "answers": [
-                "Un'imposta il cui ammontare cresce nella misura in cui crescel'imponibile",
+                "Un'imposta il cui ammontare cresce nella misura in cui cresce l'imponibile",
                 "Un'imposta le cui aliquote percentuali sono decrescenti al crescere dell'imponibile",
                 "Un'imposta le cui aliquote percentuali sono crescenti al crescere dell'imponibile"
             ],
@@ -118,7 +118,7 @@
             "correct_answer": "E' il centro nazionale di raccolta delle informazioni tributarie relative ai singoli contribuenti"
         },
         {
-            "question": "Di quanti caratteri e' composto il numero di codice fiscale attribuibil",
+            "question": "Di quanti caratteri e' composto il numero di codice fiscale attribuibile",
             "answers": [
                 "Di 11 caratteri",
                 "Di 16 caratteri",
@@ -334,7 +334,7 @@
             "correct_answer": "Quelli i cui ricavi annui non superano € 400.000,00"
         },
         {
-            "question": "Con riferimento alle ritenute alla fonte, qual'è la differenza fra quell",
+            "question": "Con riferimento alle ritenute alla fonte, qual'è la differenza fra quelle applicate a titolo di acconto e quelle applicate a titolo di imposta?",
             "answers": [
                 "Nel primo caso il contribuente deve dichiarare il reddito lordo percepito e la ritenuta subita potra' essere detratta dell'imposta dovuta, mentre nel secondo caso il reddito  percepito non dovra' essere dichiarato ne' sara' assoggettato ad ulteriore imposta",
                 "In entrambi i casi il reddito lordo percepito dovra' essere dichiarato, ma soltanto nel primo caso la ritenuta subita potra' essere detratta dall'imposta dovuta",
@@ -586,7 +586,7 @@
             "correct_answer": "Al momento del pagamento del corrispettivo del servizio, ovvero, se precedente, alla data di emissione della fattura"
         },
         {
-            "question": "Nel caso di “acquisti intracomunitari” di beni da parte di un imprenditor",
+            "question": "Nel caso di “acquisti intracomunitari” di beni da parte di un imprenditore italiano, quali obblighi incombono su di lui ai fini dell’assolvimento dell’IVA?",
             "answers": [
                 "L’imprenditore acquirente deve pagare l’IVA estera sulla fattura estera",
                 "L’imprenditore acquirente deve pagare l’IVA italiana, integrando la fattura estera (emessa senza applicazione dell'IVA cola' vigente) con gli elementi necessari al calcolo dell’IVA italiana",
@@ -597,14 +597,14 @@
         {
             "question": "Quali sono le aliquote vigenti in materia di IVA",
             "answers": [
-                "21% (aliquota normale); 4% e 12% (aliquote ridotte)",
-                "21% (aliquota normale); 4% e 18% (aliquote ridotte)",
-                "21% (aliquota normale); 4% e 10% (aliquote ridotte)"
+                "22% (aliquota normale); 4% e 12% (aliquote ridotte)",
+                "22% (aliquota normale); 4% e 18% (aliquote ridotte)",
+                "22% (aliquota normale); 4% e 10% (aliquote ridotte)"
             ],
-            "correct_answer": "21% (aliquota normale); 4% e 10% (aliquote ridotte)"
+            "correct_answer": "22% (aliquota normale); 4% e 10% (aliquote ridotte)"
         },
         {
-            "question": "Con riferimento alle imprese, di regola, l’IVA pagata sugli acquisti",
+            "question": "Con riferimento alle imprese, di regola, l’IVA pagata sugli acquisti totalmente detraibile dall’IVA dovuta sulle vendite. In quali dei casi indicati tale regola non si applica?",
             "answers": [
                 "Nel caso di acquisti intracomunitari",
                 "Nel caso di acquisti esenti",
@@ -613,7 +613,7 @@
             "correct_answer": "Nel caso di acquisti esenti"
         },
         {
-            "question": "Nell’ipotesi di prestazione di mediazione ad un cliente privat",
+            "question": "Nell’ipotesi di prestazione di mediazione ad un cliente privato consumatore, quale obblighi incombono sul mediatore al momento del pagamento del corrispettivo da parte del cliente?",
             "answers": [
                 "Deve emettere fattura intestata al cliente e registrare nel proprio archivio i dati identificativi delle parti, la data di conclusione del contratto ed il prezzo pattuito dell’immobili, qualora questo sia pari ad almeno € 15.000",
                 "Come nel precedente caso A) ma, al posto della fattura deve emettere ricevuta fiscale intestata al cliente",
@@ -631,7 +631,7 @@
             "correct_answer": "Sì, salvo che l’operazione sia esente"
         },
         {
-            "question": "Nella fattura, il cui importo sia non superiore a € 100,00 (IVA esclusa)",
+            "question": "Nella fattura, il cui importo sia non superiore a € 100,00 (IVA esclusa) oltre al nome, cognome e residenza o domicilio dell’acquirente privato consumatore, devono essere obbligatoriamente indicati gli elementi identificativi di quest’ultimo?",
             "answers": [
                 "Sì, il numero di codice fiscale",
                 "Sì, il numero di partita IVA",
@@ -640,7 +640,7 @@
             "correct_answer": "No, null’altro"
         },
         {
-            "question": "L’inizio o la cessazione di attività dell’impresa entro quale termine dev",
+            "question": "L’inizio o la cessazione di attività dell’impresa entro quale termine deve essere dichiarato all’Ufficio delle Entrate ovvero all’Ufficio del Registro delle Imprese territorialmente competente?",
             "answers": [
                 "Entro 3 giorni dal verificarsi dell’evento",
                 "Entro 15 giorni dal verificarsi dell’evento",
@@ -793,7 +793,7 @@
             "correct_answer": "Dal reddito delle attività produttive determinato secondo specifici criteri di calcolo"
         },
         {
-            "question": "Chi è tenuto, in via principale, a pagare l’imposta comunale sull",
+            "question": "Chi è tenuto, in via principale, a pagare l’imposta comunale sulla pubblicità?",
             "answers": [
                 "Chi vende le merci o fornisce i servizi oggetto di pubblicità",
                 "Chi dispone del mezzo attraverso il quale viene diffuso il messaggio Pubblicitario",
@@ -802,7 +802,7 @@
             "correct_answer": "Chi dispone del mezzo attraverso il quale viene diffuso il messaggio Pubblicitario"
         },
         {
-            "question": "In quale caso i messaggi pubblicitari riprodotti su cartelli, volantini",
+            "question": "In quale caso i messaggi pubblicitari riprodotti su cartelli, volantini ecc. risultano non imponibili ai fini dell’imposta comunale sulla pubblicità?",
             "answers": [
                 "Se di dimensioni non superiori a 150 centimetri quadrati",
                 "Se di dimensioni non superiori a 300 centimetri quadrati",
@@ -820,7 +820,7 @@
             "correct_answer": "Quando le dimensioni non superano 0,25 metri quadri"
         },
         {
-            "question": "L’insegna, posta all’esterno di un edificio, su area pubblica, pe",
+            "question": "L’insegna, posta all’esterno di un edificio, su area pubblica, per identificare l’ufficio di un mediatore è soggetta a tributo",
             "answers": [
                 "No, a nessun tributo",
                 "Sì, all’imposta comunale sulla pubblicità, purché l’insegna abbia una superficie complessiva superiore a 5 metri quadrati",
@@ -955,7 +955,7 @@
             "correct_answer": "Si, soltanto all’imposta sui redditi o, a richiesta del venditore, da indicare nell’atto di compravendita, a un’imposta sostitutiva dell’imposta sui redditi con aliquota del 20%"
         },
         {
-            "question": "In caso di vendita di un appartamento entro 5 anni dall’acquisto, se vien",
+            "question": "In caso di vendita di un appartamento entro 5 anni dall’acquisto, se viene realizzata una plusvalenza, questa è imponibile ai fini delle imposte sui redditi?",
             "answers": [
                 "Si, sempre",
                 "Si, salvo il caso in cui l’appartamento sia stato acquistato a titolo gratuito o utilizzato come abitazione principale, nei quali casi la plusvalenza è esente",
@@ -964,7 +964,7 @@
             "correct_answer": "Si, salvo il caso in cui l’appartamento sia stato acquistato a titolo gratuito o utilizzato come abitazione principale, nei quali casi la plusvalenza è esente"
         },
         {
-            "question": "Ai fini dell’IRES, gli ammortamenti degli immobili strumentali d",
+            "question": "Ai fini dell’IRES, gli ammortamenti degli immobili strumentali di proprietà di una società per azioni sono ammessi, quali costi, in deduzione dai ricavi della società",
             "answers": [
                 "Si, sempre",
                 "Si, soltanto se si tratta di immobili utilizzati esclusivamente per l’esercizio della propria attività",
@@ -973,7 +973,7 @@
             "correct_answer": "Si, sempre"
         },
         {
-            "question": "Per l’assolvimento degli obblighi in materia di imposto di bollo, dov",
+            "question": "Per l’assolvimento degli obblighi in materia di imposto di bollo, dove possono essere acquistati i valori bollati (carta, marche, Cambiali)?",
             "answers": [
                 "Soltanto presso i tabacchi e i rivenditori di generi di monopoli",
                 "Oltre che in A), anche presso gli uffici postali",
@@ -982,7 +982,7 @@
             "correct_answer": "Oltre che in A), anche presso gli uffici postali"
         },
         {
-            "question": "Un contratto stipulato mediante scrittura privata non autenticata",
+            "question": "Un contratto stipulato mediante scrittura privata non autenticata è soggetto all’imposta di bollo?",
             "answers": [
                 "No , mai",
                 "Si, ma soltanto a partire da un certo ammontare del corrispettivo convenuto in contratto",
@@ -1000,7 +1000,7 @@
             "correct_answer": "Ammonta a € 14,62 per ogni foglio di 4 facciate di carta (bollatao uso bollo)"
         },
         {
-            "question": "A quanto ammonta l’imposta di bollo sulle cambiali ed i pagherò cambiar",
+            "question": "A quanto ammonta l’imposta di bollo sulle cambiali ed i pagherò cambiari ordinari",
             "answers": [
                 "Ammonta a € 5,16 fisse, qualunque sia l’importo del titolo",
                 "Ammonta all’1,20% dell’importo indicato sul titolo",
@@ -1090,7 +1090,7 @@
             "correct_answer": "All’aliquota del 4% in entrambi i casi"
         },
         {
-            "question": "A quale aliquota IVA è assoggettata la cessione di case di abitazione no",
+            "question": "A quale aliquota IVA è assoggettata la cessione di case di abitazione non di lusso, qualora l’acquirente non possa chiedere l’applicazione dei benefici previsti per la “prima casa”?",
             "answers": [
                 "All’aliquota del 10%",
                 "All’aliquota del 12%",
@@ -1261,7 +1261,7 @@
             "correct_answer": "2% e 1% rispettivamente, del valore del bene o diritto"
         },
         {
-            "question": "L’imposta sull’incremento di valore degli immobili (INVIM) fino a quand",
+            "question": "L’imposta sull’incremento di valore degli immobili (INVIM) fino a quando graverà sulle cessioni di tali beni",
             "answers": [
                 "Fino al 31 dicembre 2007",
                 "È stata soppressa a decorrere dal 1^ gennaio 2002",
@@ -1351,7 +1351,7 @@
             "correct_answer": "Si, entro 12 mesi dall’apertura della successione"
         },
         {
-            "question": "Ai fini dell'acconto IMU per l'anno 2013, con riferimento agli immobil",
+            "question": "Ai fini dell'acconto IMU per l'anno 2013, con riferimento agli immobili strumentali classificati nella categoria D, a chi è destinato il gettito del tributo?",
             "answers": [
                 "Esclusivamente al Comune nel cui territorio è sito l'immobile",
                 "Esclusivamente alla Stato nel cui territorio è sito l'immobile",
