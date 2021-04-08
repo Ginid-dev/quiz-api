@@ -74,8 +74,28 @@ router.get("/rs/report", (req, res, next) => {
 
       data[0].rows.forEach((x) => {
         let temp = JSON.parse(x.questions);
-        if (temp.filter((x) => x.isCorrect).length >= 28) passedQuiz++;
-        else failedQuiz++;
+        if (temp.filter((x) => x.isCorrect).length < 28) failedQuiz++;
+        else {
+          let isMediazionePassed =
+            temp.filter((x) => x.isCorrect && x.topic == "Mediazione").length >=
+            7;
+          let isCivilePassed =
+            temp.filter((x) => x.isCorrect && x.topic == "Civile").length >= 7;
+          let isEstimoPassed =
+            temp.filter((x) => x.isCorrect && x.topic == "Estimo").length >= 7;
+          let isTributario =
+            temp.filter((x) => x.isCorrect && x.topic == "Tributario").length >=
+            7;
+
+          if (
+            isMediazionePassed &&
+            isCivilePassed &&
+            isEstimoPassed &&
+            isTributario
+          )
+            passedQuiz++;
+          else failedQuiz++;
+        }
       });
 
       data[1].map((x) => {
