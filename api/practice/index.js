@@ -78,14 +78,14 @@ router.get("/rs/report", (req, res, next) => {
         else {
           let isMediazionePassed =
             temp.filter((x) => x.isCorrect && x.topic == "Mediazione").length >=
-            7;
+            6;
           let isCivilePassed =
-            temp.filter((x) => x.isCorrect && x.topic == "Civile").length >= 7;
+            temp.filter((x) => x.isCorrect && x.topic == "Civile").length >= 6;
           let isEstimoPassed =
-            temp.filter((x) => x.isCorrect && x.topic == "Estimo").length >= 7;
+            temp.filter((x) => x.isCorrect && x.topic == "Estimo").length >= 6;
           let isTributario =
             temp.filter((x) => x.isCorrect && x.topic == "Tributario").length >=
-            7;
+            6;
 
           if (
             isMediazionePassed &&
