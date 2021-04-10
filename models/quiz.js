@@ -51,10 +51,10 @@ module.exports = (sequelize, DataTypes) => {
       include: [
         {
           required: false,
-          model: models.QuestionAttemp,
-          as: "attemptedQuestions",
+          model: models.TrackAnswer,
+          as: "trackAnswer",
           where: { userId: userId },
-          attributes: ["questionId"],
+          attributes: ["userId", "questionId", "isCorrect"],
         },
       ],
     }).then((result) => {
@@ -110,12 +110,13 @@ module.exports = (sequelize, DataTypes) => {
   };
 
   const compare = (a, b) => {
-    if (a.attemptedQuestions.length < b.attemptedQuestions.length) {
-      return -1;
-    }
-    if (a.attemptedQuestions.length > b.attemptedQuestions.length) {
-      return 1;
-    }
+    const questionA = a.trackAnswer.filter((x) => !x.isCorrect).length;
+    const questionB = b.trackAnswer.filter((x) => !x.isCorrect).length;
+
+    if (questionA < questionB) return -1;
+
+    if (questionA > questionB) return 1;
+
     return 0;
   };
 
