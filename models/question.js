@@ -36,7 +36,7 @@ module.exports = (sequelize, DataTypes) => {
         },
       ],
     }).then((result) => {
-      let question = result.sort(compare).slice(0, 20);
+      let question = sortQuestion(result, 20);
 
       shuffle(question);
 
@@ -52,13 +52,24 @@ module.exports = (sequelize, DataTypes) => {
     });
   };
 
+  const sortQuestion = (allQuestions, newQuestionLimit) => {
+    let questions = allQuestions
+      .filter((x) => !x.trackAnswer || !x.trackAnswer.length)
+      .splice(0, newQuestionLimit);
+
+    if (questions.length != newQuestionLimit)
+      questions = questions.concat(allQuestions.sort(compare));
+
+    return questions.splice(0, newQuestionLimit);
+  };
+
   const compare = (a, b) => {
     const questionA = a.trackAnswer.filter((x) => !x.isCorrect).length;
     const questionB = b.trackAnswer.filter((x) => !x.isCorrect).length;
 
-    if (questionA < questionB) return -1;
+    if (questionA > questionB) return -1;
 
-    if (questionA > questionB) return 1;
+    if (questionA < questionB) return 1;
 
     return 0;
   };
