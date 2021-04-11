@@ -59,25 +59,17 @@ module.exports = (sequelize, DataTypes) => {
       ],
     }).then((result) => {
       let questions = [];
-      let mediazioneQuestion = result
-        .filter((x) => x.topic == "Mediazione")
-        .sort(compare)
-        .slice(0, 10);
+      let mediazioneQuestion = result.filter((x) => x.topic == "Mediazione");
+      mediazioneQuestion = sortQuestion(mediazioneQuestion, 10);
 
-      let civileQuestion = result
-        .filter((x) => x.topic == "Civile")
-        .sort(compare)
-        .slice(0, 10);
+      let civileQuestion = result.filter((x) => x.topic == "Civile");
+      civileQuestion = sortQuestion(civileQuestion, 10);
 
-      let estimoQuestion = result
-        .filter((x) => x.topic == "Estimo")
-        .sort(compare)
-        .slice(0, 10);
+      let estimoQuestion = result.filter((x) => x.topic == "Estimo");
+      estimoQuestion = sortQuestion(estimoQuestion, 10);
 
-      let tributarioQuestion = result
-        .filter((x) => x.topic == "Tributario")
-        .sort(compare)
-        .slice(0, 10);
+      let tributarioQuestion = result.filter((x) => x.topic == "Tributario");
+      tributarioQuestion = sortQuestion(tributarioQuestion, 10);
 
       shuffle(mediazioneQuestion);
       shuffle(civileQuestion);
@@ -94,7 +86,7 @@ module.exports = (sequelize, DataTypes) => {
         x = JSON.parse(JSON.stringify(x));
         x.answers = JSON.parse(x.answers);
         shuffle(x.answers);
-        delete x.attemptedQuestions;
+        delete x.trackAnswer;
         return x;
       });
 
@@ -109,13 +101,24 @@ module.exports = (sequelize, DataTypes) => {
     });
   };
 
+  const sortQuestion = (allQuestions, newQuestionLimit) => {
+    let questions = allQuestions
+      .filter((x) => !x.trackAnswer || !x.trackAnswer.length)
+      .splice(0, newQuestionLimit);
+
+    if (questions.length != newQuestionLimit)
+      questions = questions.concat(allQuestions.sort(compare));
+
+    return questions.splice(0, newQuestionLimit);
+  };
+
   const compare = (a, b) => {
     const questionA = a.trackAnswer.filter((x) => !x.isCorrect).length;
     const questionB = b.trackAnswer.filter((x) => !x.isCorrect).length;
 
-    if (questionA < questionB) return -1;
+    if (questionA > questionB) return -1;
 
-    if (questionA > questionB) return 1;
+    if (questionA < questionB) return 1;
 
     return 0;
   };
