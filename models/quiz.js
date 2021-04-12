@@ -113,12 +113,12 @@ module.exports = (sequelize, DataTypes) => {
   };
 
   const compare = (a, b) => {
-    const questionA = a.trackAnswer.filter((x) => !x.isCorrect).length;
-    const questionB = b.trackAnswer.filter((x) => !x.isCorrect).length;
+    const questionA = a.trackAnswer.filter((x) => x.isCorrect).length;
+    const questionB = b.trackAnswer.filter((x) => x.isCorrect).length;
 
-    if (questionA > questionB) return -1;
+    if (questionA < questionB) return -1;
 
-    if (questionA < questionB) return 1;
+    if (questionA > questionB) return 1;
 
     return 0;
   };
