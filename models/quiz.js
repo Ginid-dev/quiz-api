@@ -1,6 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
 const shuffle = require("shuffle-array");
+const { Op } = require("sequelize");
 
 module.exports = (sequelize, DataTypes) => {
   class Quiz extends Model {
@@ -35,7 +36,7 @@ module.exports = (sequelize, DataTypes) => {
 
   Quiz.generateQuiz = (models, userId) => {
     return Quiz.findOne({
-      where: { userId: userId, isCompleted: false },
+      where: { userId: userId, answeredQuestions: { [Op.lt]: 40 } },
       attributes: ["id", "questions", "totalQuestions", "answeredQuestions"],
     }).then((result) => {
       if (!result) return createQuiz(models, userId);
